@@ -4,7 +4,7 @@ Author: manufactura
 Category: Blogpost
 Slug: installing-your-local-version-of-open-font-library-on-fedora-15
 
-<!--:en-->Christopher Adams posted a [set of
+Christopher Adams posted a [set of
 instructions](https://blueprints.launchpad.net/openfontlibrary/+spec/oflb-live-dev)
 for installing a local version of OFLB. This means you can have your own
 Open Font Library running locally on a server or your own computer. This
@@ -179,6 +179,4 @@ our quest to have OFLB running locally.)
         'PRIMARY'
     - Aha, that suggestion to run 'DELETE FROM aiki_widgets WHERE 
       app_id = '0';' turned out to be key.
-
-<!--:-->
 
