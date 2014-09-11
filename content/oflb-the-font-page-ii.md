@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-the-font-page-ii
+Lang: en
 
 <!--:en-->After publishing the [initial
 sketch](http://blog.manufacturaindependente.org/2011/08/oflb-the-font-page/)

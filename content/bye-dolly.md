@@ -1,9 +1,10 @@
 Title: Goodbye Dolly, Hello Libre Graphics
 Date: 2011-02-27 23:30
-Author: ana
+Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: bye-dolly-hello-libre-graphics
+Lang: en
 
 Some weeks ago, during a feed-reading evening, I checked the
 recipe blog that me and some friends share. We set it up so we could

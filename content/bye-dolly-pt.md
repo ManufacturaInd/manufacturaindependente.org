@@ -1,9 +1,10 @@
 Title: Adeus Dolly e Olá Libre Graphics 
 Date: 2011-02-27 23:30
-Author: ana
+Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: bye-dolly-hello-libre-graphics
+Lang: pt
 
 Há umas semanas atrás, durante um serão e entre leituras de feeds,
 espreitei o blog de receitas e outros truques, que partilho com algumas

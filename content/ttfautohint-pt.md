@@ -3,6 +3,7 @@ Date: 2011-10-12 15:23
 Author: manufactura
 Category: Blogpost
 Slug: ttfautohint
+Lang: pt
 
 O processo de *hinting* de uma fonte — adaptação do desenho dos caracteres
 à grelha pixel, para aumentar a legibilidade em ecrã — é um processo

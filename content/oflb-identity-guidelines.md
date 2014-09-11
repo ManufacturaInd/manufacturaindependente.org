@@ -3,6 +3,7 @@ Date: 2011-07-27 17:10
 Author: manufactura
 Category: Hidden
 Slug: oflb-identity-guidelines
+Lang: en
 
 <!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity-1024x478.png "identity")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity.png)
 

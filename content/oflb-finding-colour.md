@@ -3,6 +3,7 @@ Date: 2011-07-13 14:51
 Author: manufactura
 Category: Hidden
 Slug: oflb-finding-colour
+Lang: en
 
 While brainstorming for the OFLB colour scheme, we did a quick
 round of research on Google Images, looking for some relevant images for

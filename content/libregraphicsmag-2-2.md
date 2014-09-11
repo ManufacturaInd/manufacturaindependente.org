@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost
 Tags: libregraphicsmag
 Slug: out-now-libre-graphics-magazine-issue-2-2-gendering-floss
+Lang: en
 
 ![issue2.2](http://blog.manufacturaindependente.org/wp-content/uploads/2014/02/issue2.2.jpg)
 

@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-sitting-down-to-type
+Lang: en
 
 As we pin down the last details of the new design for OFLB, we're also
 busy redoing the OFLB Guidebook.

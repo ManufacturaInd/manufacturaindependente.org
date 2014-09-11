@@ -1,8 +1,9 @@
 Title: About
 Date: 2010-11-28 16:11
-Author: ana
+Author: manufactura
 Category: page
 Slug: about
+Lang: en
 
 Manufactura Independente is a design research studio born in
 2010 and based in Porto, Portugal. It is the playground and testing

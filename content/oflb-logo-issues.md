@@ -3,6 +3,7 @@ Date: 2011-07-19 09:36
 Author: manufactura
 Category: Hidden
 Slug: oflb-logo-issues
+Lang: en
 
 <!--:en-->While making the first mockups for the OFLB site redesign, we
 quickly whipped up a navigation header, including a tentative logo

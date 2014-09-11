@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost, Workshops
 Tags: floss, lgru
 Slug: libre-graphics-research-unit-closing-chapter
+Lang: en
 
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2013/05/lgru-porto_11.jpg "LGRU Porto")
 

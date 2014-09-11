@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-media-queries
+Lang: en
 
 <!--:en-->The current OFLB website has alternative layouts according to
 the browser window width. Taking advantage of css media queries the

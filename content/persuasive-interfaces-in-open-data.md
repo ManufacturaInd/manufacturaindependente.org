@@ -1,9 +1,10 @@
 Title: Persuasive interfaces in open data
 Date: 2012-07-06 15:29
-Author: ricardo
+Author: manufactura
 Category: Blogpost, Talks
 Tags: opendata
 Slug: persuasive-interfaces-in-open-data
+Lang: en
 
 <!--:en-->*Today we gave a lightning talk at [Open Legislative Data
 Camp](http://www.lafabriquedelaloi.fr/conference/) in Paris about the

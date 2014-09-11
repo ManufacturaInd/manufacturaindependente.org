@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-the-font-page
+Lang: en
 
 <!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/waterfall-e1312288005155.png "Waterfall")](http://manufacturaindependente.com/oflb/20110802-fontpage/)
 

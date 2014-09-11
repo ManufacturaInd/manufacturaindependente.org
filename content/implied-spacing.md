@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: implied-spacing
+Lang: en
 
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/02/salt-post.png "Love like Salt with Implied Spacing")
 Working with the

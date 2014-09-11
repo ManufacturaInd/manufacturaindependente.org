@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-interface-widgets
+Lang: en
 
 <!--:en-->
 

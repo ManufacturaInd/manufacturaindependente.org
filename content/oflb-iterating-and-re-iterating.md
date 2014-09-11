@@ -3,6 +3,7 @@ Date: 2011-07-20 10:41
 Author: manufactura
 Category: Hidden
 Slug: oflb-iterating-and-re-iterating
+Lang: en
 
 <!--:en-->We decided that we had to settle on a definitive design for
 every element in the home page, so that we end up with a fixed

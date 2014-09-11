@@ -3,6 +3,7 @@ Date: 2011-07-25 17:57
 Author: manufactura
 Category: Hidden
 Slug: oflb-translation
+Lang: en
 
 <!--:en-->The next release of the OFLB website will allow multi-language
 support. To help on the task of translation the platform each user will

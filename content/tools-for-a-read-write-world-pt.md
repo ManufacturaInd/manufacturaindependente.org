@@ -1,8 +1,9 @@
 Title: Tools for a Read-Write World
 Date: 2013-04-24 16:15
-Author: ricardo
+Author: manufactura
 Category: Blogpost, Workshops
 Slug: tools-for-a-read-write-world
+Lang: pt
 
 Durante as duas últimas semanas temos estado a trabalhar no [Medialab
 Prado](http://medialab-prado.es/), em Madrid. Viemos para participar na

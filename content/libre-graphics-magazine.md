@@ -4,6 +4,7 @@ Author: manufactura
 Category: Our Work, Ready
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
+Lang: en
 
 <!--:en-->We had yearned for a publication that could combine the
 critical perspective of an art and design magazine with a clear

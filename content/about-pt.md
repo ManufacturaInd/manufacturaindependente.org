@@ -1,8 +1,9 @@
 Title: Sobre nós
 Date: 2010-11-28 16:11
-Author: ana
+Author: manufactura
 Category: page
 Slug: about
+Lang: pt
 
 A Manufactura Independente é um estúdio de
 investigação em design criado em 2010 no Porto, em Portugal.

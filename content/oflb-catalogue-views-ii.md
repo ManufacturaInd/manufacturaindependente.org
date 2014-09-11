@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-catalogue-views-ii
+Lang: en
 
 <!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/Screenshot-1-293x300.png "Catalogue -- Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
 

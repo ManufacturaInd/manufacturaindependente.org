@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost
 Tags: hacks, plotter
 Slug: first-plotter-poster
+Lang: pt
 
 O ano passado ajudámos a [ressuscitar uma velha plotter
 Roland](http://blog.manufacturaindependente.org/pt/2011/03/scheming-and-plotting).

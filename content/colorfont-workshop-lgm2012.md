@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost, Workshops
 Tags: @font-face, colorfont, fontforge, workshop
 Slug: colorfont-workshop-at-lgm-2012
+Lang: en
 
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/IMG_7895-300x200.jpg "IMG_7895")
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/IMG_7898-300x200.jpg "Colorfont Workshop Brussels, Constant Variable")

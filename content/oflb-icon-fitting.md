@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-icon-fitting
+Lang: en
 
 <!--:en-->One of our tasks in OFLB is to design status icons for various
 states that a font can have. They are to be featured in the admin

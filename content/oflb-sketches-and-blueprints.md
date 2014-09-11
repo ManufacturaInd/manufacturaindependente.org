@@ -3,6 +3,7 @@ Date: 2011-07-07 16:44
 Author: manufactura
 Category: Hidden
 Slug: oflb-sketches-and-blueprints
+Lang: en
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163-1024x613.jpg "IMAG0163")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163.jpg)
 

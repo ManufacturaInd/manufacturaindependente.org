@@ -3,6 +3,7 @@ Date: 2011-07-24 16:08
 Author: manufactura
 Category: Blogpost
 Slug: installing-your-local-version-of-open-font-library-on-fedora-15
+Lang: en
 
 Christopher Adams posted a [set of
 instructions](https://blueprints.launchpad.net/openfontlibrary/+spec/oflb-live-dev)

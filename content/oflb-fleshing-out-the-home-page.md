@@ -3,6 +3,7 @@ Date: 2011-07-21 15:35
 Author: manufactura
 Category: Hidden
 Slug: oflb-fleshing-out-the-home-page
+Lang: en
 
 <!--:en-->Going on with the work on the home page, here's some of the
 changes that we've been busy on. You can see the [current

@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-moving-up
+Lang: en
 
 We've been busy taking care of loose ends and finishing touches on the
 last details of our mockups, having just finished the font family page.
