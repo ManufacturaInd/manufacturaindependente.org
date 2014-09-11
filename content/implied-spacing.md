@@ -17,7 +17,7 @@ each letter gets progressively lighter.
 
 It's quite short so here it is:
 
-
+    :::python
     from scribus import *
 
     # change values here
