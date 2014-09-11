@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-icon-fitting
 Lang: en
 
-<!--:en-->One of our tasks in OFLB is to design status icons for various
+One of our tasks in OFLB is to design status icons for various
 states that a font can have. They are to be featured in the admin
 section, where librarians and secretaries (OFLB nomenclature for admins
 and editors) can check on the status of the published fonts.
@@ -63,5 +63,4 @@ we're confident in this direction.
 caption="All font states, from left to right: Normal, Featured, Hidden,
 Needs Checking, Marked for Removal,
 Broken."][![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid-3x.png "flag-icons-pixelgrid-3x")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid-3x.png)[/caption]  
-<!--:-->
 

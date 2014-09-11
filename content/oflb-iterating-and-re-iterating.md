@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-iterating-and-re-iterating
 Lang: en
 
-<!--:en-->We decided that we had to settle on a definitive design for
+We decided that we had to settle on a definitive design for
 every element in the home page, so that we end up with a fixed
 repertoire of graphic elements to apply on the other pages. This means
 we have to decide on the website logo quickly -- it’s the kind of
@@ -29,5 +29,5 @@ close this file ASAP, since so many months could be spent in search for
 the perfect logo, and there’s a lot more work to be done before the end
 of the month.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/logos.png "Logos logos oh too many logos")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/logos.png)<!--:-->
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/logos.png "Logos logos oh too many logos")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/logos.png)
 

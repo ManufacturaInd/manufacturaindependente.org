@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-catalogue-views
 Lang: en
 
-<!--:en-->While we fine-tune design details in the home page, we’ve been
+While we fine-tune design details in the home page, we’ve been
 concocting some preliminary mockups for the catalogue pages. The
 catalogue is the part of OFLB where you can browse the whole collection
 of fonts. There are two main concerns for the catalogue design: you need
@@ -25,6 +25,4 @@ larger view of a full body paragraph. Not only does this allow you to
 see how the fonts perform in specific contexts, it also gives you the
 choice to see more fonts at once (word view) or see individual fonts in
 more detail (paragraph view).
-
-<!--:-->
 

@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-the-font-page
 Lang: en
 
-<!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/waterfall-e1312288005155.png "Waterfall")](http://manufacturaindependente.com/oflb/20110802-fontpage/)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/waterfall-e1312288005155.png "Waterfall")](http://manufacturaindependente.com/oflb/20110802-fontpage/)
 
 This is the
 [mockup](http://manufacturaindependente.com/oflb/20110802-fontpage/) of
@@ -29,5 +29,5 @@ each font variant. Instead of being shown in text, they are represented
 by an icon; currently we’ve only drawn the icons for the font format
 (OpenType and TrueType) so please don’t mind the little brown squares.
 The full information text is displayed on a tooltip when hovering over
-the icons.<!--:-->
+the icons.
 

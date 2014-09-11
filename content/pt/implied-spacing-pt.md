@@ -17,6 +17,7 @@ A regra para criar este gradiente é, à medida que a palavra chega ao seu
 final, a cor de cada letra fica progressivamente mais clara.
 
 
+    :::python
     from scribus import *
 
     # change values here

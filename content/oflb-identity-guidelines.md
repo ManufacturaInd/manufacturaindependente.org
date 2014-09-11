@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-identity-guidelines
 Lang: en
 
-<!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity-1024x478.png "identity")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity.png)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity-1024x478.png "identity")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/identity.png)
 
 We've completed a first concise version of the identity guidelines
 (regard this as alpha!). We took cues from the [Novacut
@@ -26,5 +26,5 @@ the restrictions in the guidelines.
 
 We want to make an HTML5 version of these guidelines as well, but we
 have higher priorities in our TODO, namely updating the HTML templates
-in order to incorporate the new design. <!--:-->
+in order to incorporate the new design.
 

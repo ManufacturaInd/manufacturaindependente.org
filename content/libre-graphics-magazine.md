@@ -15,3 +15,4 @@ Active since 2010, the Libre Graphics magazine project has already
 released 6 issues, covering subjects like collaboration,
 internationalization and gender through a set of columns, showcases and
 reports.
+

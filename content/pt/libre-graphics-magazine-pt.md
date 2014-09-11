@@ -14,3 +14,4 @@ coons](http://adaptstudio.ca), tratámos de fazer isso acontecer.
 Desde 2010 que a revista Libre Graphics está em produção, com 6 números
 já publicados, abordando temas como a colaboração, a internacionalização
 ou o género através de colunas, relatos e mostras de trabalhos.
+

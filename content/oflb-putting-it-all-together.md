@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-putting-it-all-together
 Lang: en
 
-<!--:en-->In July, we started a three month collaboration with Dave
+In July, we started a three month collaboration with Dave
 Crossland working on the Open Font Library website. The main goals were
 the website redesign and information re-structuring for version 0.4 of
 OFLB.  
@@ -94,6 +94,4 @@ We're close to the website launch, and we have to thank Dave Crossland,
 Robert Martinez, the Fabricatorz and all others who provided valuable
 insights, suggestions and corrections regarding our designs along the
 way.
-
-<!--:-->
 

@@ -32,7 +32,6 @@ DEFAULT_PAGINATION = 20
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-
 # Specify a customized theme, via path relative to the settings file
 THEME = 'themes/pure-single'
 
@@ -43,4 +42,3 @@ SOCIAL = (
             ('github', 'https://github.com/manufacturaind/'),
             ('twitter-square', 'https://twitter.com/manufacturaind'),
          )
-

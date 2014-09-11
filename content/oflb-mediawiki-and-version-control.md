@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-mediawiki-and-version-control
 Lang: en
 
-<!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170-1024x495.jpg "IMAG0170")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170.jpg)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170-1024x495.jpg "IMAG0170")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170.jpg)
 
 We’re now busy getting [MediaWiki](http://www.mediawiki.org/) up and
 running for Open Font Library, as it will be the backend for the OFLB
@@ -36,5 +36,5 @@ have a little file that can specify local directories -- for instance,
 each computer might have different places for the project, and the
 MediaWiki config needs to be pointed that way. But it’s already [up on
 Gitorious](https://gitorious.org/oflb/guidebook) and ready for our
-skinning hacks.<!--:-->
+skinning hacks.
 

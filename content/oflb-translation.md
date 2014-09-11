@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-translation
 Lang: en
 
-<!--:en-->The next release of the OFLB website will allow multi-language
+The next release of the OFLB website will allow multi-language
 support. To help on the task of translation the platform each user will
 be able to access the translation files and make a contribution.
 
@@ -29,5 +29,5 @@ translated string. We found this most useful and decided to include it
 in the interface.  
 The translation table is always in ‘editable mode’: just click the
 translation ‘cell’, write and hit the save button (or the Enter
-key).<!--:-->
+key).
 

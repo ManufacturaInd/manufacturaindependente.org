@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-a-filter-bar-for-the-catalogue
 Lang: en
 
-<!--:en-->Last week we were busy with the Catalogue. We changed from a
+Last week we were busy with the Catalogue. We changed from a
 two column page layout to a single column one.  
 On one hand this shift allowed for a cleaner and clearer view of the
 fonts displayed. On the other hand, it left us with the hard task of
@@ -25,5 +25,5 @@ and match a richer combination of choices when browsing the font
 Catalogue.
 
 The Catalogue mockup is online
-[here](http://manufacturaindependente.com/oflb/20110812-catalogue/index.html).<!--:-->
+[here](http://manufacturaindependente.com/oflb/20110812-catalogue/index.html).
 

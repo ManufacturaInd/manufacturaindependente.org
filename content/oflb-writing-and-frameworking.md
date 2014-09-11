@@ -6,8 +6,6 @@ Tags: oflb
 Slug: oflb-writing-and-frameworking
 Lang: en
 
-<!--:en-->  
-
 Documenting open fonts
 ----------------------
 
@@ -110,5 +108,4 @@ the first steps of a total Portuguese translation -- starting with
 translating Aiki itself, and moving to OFLB-specific content. We'll also
 be working to translate the Guidebook, and then hope that other
 languages might be included by other contributors.  
-<!--:-->
 

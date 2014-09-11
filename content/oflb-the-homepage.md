@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-the-homepage
 Lang: en
 
-<!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg.png)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg.png)
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg.png)
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-no-bg-150x150.png "homepageofbl-no-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-no-bg.png)
 
@@ -53,7 +53,5 @@ in progress.
 
 </li>
 <ul>
-<!--:-->
-
 </p>
 

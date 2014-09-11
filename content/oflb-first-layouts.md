@@ -5,8 +5,6 @@ Category: Hidden
 Slug: oflb-first-layouts
 Lang: en
 
-<!--:en-->
-
 We've been making a few (physical) sketches in order to find a good
 layout for the website home page. From there, we'll be able to derive
 the layout of other pages.
@@ -24,5 +22,5 @@ include a text box for quick viewing custom text on the font previews.
 Easier to begin doing the actual HTML version than spending time on
 fixing the mockup with rubber and/or glue :-)
 
-Now, on to think of the colour scheme for the site's identity!<!--:-->
+Now, on to think of the colour scheme for the site's identity!
 
