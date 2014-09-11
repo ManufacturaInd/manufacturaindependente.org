@@ -4,8 +4,6 @@ Author: manufactura
 Category: Blogpost, Workshops
 Slug: %ef%bb%bffrom-stone-to-spaceship-collaborative-type-design
 
-<!--:en-->
-
 <small>This article was originally published in [Cuaderno
 Medialab](http://www.eldiario.es/cuadernomedialab/piedra-nave-Diseno-colaborativo-tipografia_6_52554764.html)</small>
 
@@ -17,7 +15,7 @@ challenge set by Medialab-Prado to liberate these letters from their
 stone prison and release them to the world, we hosted a three day
 workshop in Madrid. The premise was to collaboratively design a font,
 using a fully libre workflow and with no pre-requisites for
-participation -- everyone was invited to join in.
+participation — everyone was invited to join in.
 
 We were thrilled to receive this invitation from Medialab-Prado to come
 to Madrid and work together in a font revival inspired by a building
@@ -82,7 +80,7 @@ of work, drawing, comparing and re-sketching, we ended the day with
 fairly complete character sets on paper.
 
 On the second day it was time to turn our sketches digital, and for that
-we used the best vector graphics editor we know -- Inkscape. After an
+we used the best vector graphics editor we know — Inkscape. After an
 introduction to vector drawing and a quick showcase of Inkscape’s
 powerful features, we set out to re-draw all the sketches using points
 and curves. The previous day drawings served as reference but we didn’t
@@ -141,6 +139,4 @@ the fonts at Open Font Library.
 
 <small>The photos in this posts are by
 [kamatiko](http://www.kamatiko.net)</small>
-
-<!--:-->
 

@@ -5,7 +5,7 @@ Category: Blogpost, Workshops
 Tags: @font-face, colorfont, fontforge, workshop
 Slug: colorfont-workshop-at-lgm-2012
 
-<!--:en-->![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/IMG_7895-300x200.jpg "IMG_7895")
+![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/IMG_7895-300x200.jpg "IMG_7895")
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/IMG_7898-300x200.jpg "Colorfont Workshop Brussels, Constant Variable")
 During the recent Libre Graphics Meeting in Vienna, we hosted a
 typography workshop, under the theme of multicoloured fonts. While
@@ -79,5 +79,5 @@ Other participants also came up with some clever and beautiful designs,
 which are now showcased at the Colorfont website.[Check them
 out](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html "Colorfont Workshop, LGM 2012")!
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/Colorfonts-from-Vienna-1024x536.png "Colorfonts-from-Vienna")](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html)<!--:-->
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/06/Colorfonts-from-Vienna-1024x536.png "Colorfonts-from-Vienna")](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html)
 

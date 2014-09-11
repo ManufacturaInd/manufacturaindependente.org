@@ -4,7 +4,7 @@ Author: manufactura
 Category: Blogpost
 Slug: adding-user-repositories-in-fedora-15
 
-<!--:en-->We are now taking our first steps with **Fedora 15** after
+We are now taking our first steps with **Fedora 15** after
 having decided to move on from Ubuntu.
 
 Most of the stuff is familiar, with some different applications showing
@@ -53,5 +53,4 @@ Once you have downloaded all the files, move them to `/etc/yum.repos.d`,
 and feel free to rename them -- we named ours `gimp.repo`,
 `scribus.repo`, etc. for clarity.
 
-All that’s left is playing around with yum install now.<!--:-->
-
+All that’s left is playing around with yum install now.

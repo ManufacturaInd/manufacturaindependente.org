@@ -5,7 +5,7 @@ Category: Blogpost
 Tags: hacks
 Slug: generating-outline-fonts-with-5-lines-of-code
 
-<!--:en-->Contrary to popular belief, free software has its own gems
+Contrary to popular belief, free software has its own gems
 which easily outshine their proprietary counterparts. One of our
 favourite examples of this is
 [Fontforge](http://fontforge.sourceforge.net).
@@ -34,8 +34,5 @@ The real kicker is that the font was generated using a 5-line script.
         font[glyph].stroke('circular',  30, 'square', 'bevel', ('cleanup',))
     font.generate('douar-new.ttf')
 
-This outline effect can now be applied to any font file. Not bad!  
-<!--:--><!--:pt-->
-
-<!--:-->
+This outline effect can now be applied to any font file. Not bad!
 

@@ -5,7 +5,7 @@ Category: Hidden
 Tags: oflb
 Slug: 146
 
-<!--:en-->﻿[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
 
 The footer has been subject to several changes as the redesign and
 layout for the OFLB website evolved.
@@ -31,5 +31,5 @@ single sprite. The sprite was positioned with css and used as background
 image.
 
 The HTML version of the footer can be seen
-[here](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot).<!--:-->
+[here](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot).
 
