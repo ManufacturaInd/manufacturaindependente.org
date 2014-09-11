@@ -5,7 +5,7 @@ Category: Blogpost
 Tags: hacks
 Slug: scheming-and-plotting
 
-<!--:en-->![](http://www.plotter-printers.com/wp-content/uploads/2011/03/pen-plotter-pictures.jpg "Desktop pen plotter")For
+![](http://www.plotter-printers.com/wp-content/uploads/2011/03/pen-plotter-pictures.jpg "Desktop pen plotter")For
 a long while, we were pretty curious about the workings of plotters.
 Like regular inkjet printers, they work by mechanically moving a printer
 head over a sheet of paper. Unlike inkjets, plotters use pens to draw,
@@ -90,8 +90,4 @@ Diogo had the brilliant idea to hook an LED on the print head...
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02171-1024x768.jpg "DSC02171")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02171.jpg)
 
 Exciting times ahead with this new toy!
-
- 
-
- <!--:-->
 

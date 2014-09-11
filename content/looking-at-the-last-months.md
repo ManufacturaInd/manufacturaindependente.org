@@ -24,7 +24,7 @@ of the full presentation.
 
 In April, we assembled and made public the first instance of the [**Kit
 Gráfica Livre**](http://kitgrafica.manufacturaindependente.org/) (Libre
-Graphics Kit). It's a portable safebox with a USB cable, containing a
+Graphics Kit). It is a portable safebox with a USB cable, containing a
 read-only SD card reader.  
 Placed in the bar of the Porto Fine Arts Faculty, it makes available a
 set of libre software for graphics and audio production. Besides
@@ -59,8 +59,6 @@ help designers already using libre tools to persevere in this still arid
 land. We showed the Kit Gráfica Livre as one of the steps building up to
 this ambitious plan.
 
-<div>
-
 The slides were done using <http://scri.ch>, a simple (and imensly fun)
 collaborative sketch tool that Raphäel Bastide announced at this LGM.
 You can find the set
@@ -68,7 +66,7 @@ You can find the set
 and watch the
 [video](http://download.gimp.org/pub/gimp/lgm/2014/day_4/063_Dear_designer__have_these_cool_tools/063_Dear_designer__have_these_cool_tools.ogv)
 courtesy of the Gimp team.
-</p>
+
 ### Open Legislative Data Conference II
 
 The Open Legislative Data Conference in Paris II took place in the end
@@ -93,4 +91,3 @@ our work with the Libre Graphics magazine, the Kit Gráfica Livre, the
 From Stone to Spaceship workshop and why free software is about much
 more than saving money.
 
-</div>

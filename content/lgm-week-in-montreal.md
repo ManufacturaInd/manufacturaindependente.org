@@ -4,7 +4,7 @@ Author: ana
 Category: Blogpost
 Slug: the-lgm-week-in-montr%c3%a9al
 
-<!--:en-->From the 6th to the 15th of May we were at Montréal for the
+From the 6th to the 15th of May we were at Montréal for the
 [Libre Graphics Meeting
 2011](http://www.libregraphicsmeeting.org/2011/).  
 These were intense days and we ended up not managing to post while
@@ -183,5 +183,5 @@ Got home full of energy. It indeed was a great week.
 
 </li>
 We shared some photos of this week
-[here](http://www.flickr.com/photos/manufacturaind/sets/72157626712646692/).<!--:-->
+[here](http://www.flickr.com/photos/manufacturaind/sets/72157626712646692/).
 

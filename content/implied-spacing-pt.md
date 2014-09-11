@@ -6,15 +6,14 @@ Tags: hacks
 Slug: implied-spacing
 
 ![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/02/salt-post.png "Love like Salt with Implied Spacing")
-Working with the
-[Scribus](http://www.scribus.net/canvas/Scribus "Scribus") API we wrote
-a script for something we named Implied Spacing.
+Usando a API do
+[Scribus](http://www.scribus.net/canvas/Scribus "Scribus") fizemos um
+script a que chamamos Espaçamentos Implícitos.
 
-The script removes all spaces between words and creates a gradient in
-the letter colouring. The rule is, as a word gets closer to its end,
-each letter gets progressively lighter.
-
-It's quite short so here it is:
+O script começa por retirar todos os espaços no texto. A seguir,
+modifica a cor de cada letra de forma a criar um gradiente numa palavra.
+A regra para criar este gradiente é, à medida que a palavra chega ao seu
+final, a cor de cada letra fica progressivamente mais clara.
 
 
     from scribus import *
@@ -87,4 +86,6 @@ It's quite short so here it is:
     for i in spaceindexes:
         selectText(i, 1, textbox_name)
         deleteText() 
+
+
 

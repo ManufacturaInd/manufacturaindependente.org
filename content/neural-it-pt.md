@@ -5,31 +5,7 @@ Category: Our Work, Ready
 Tags: webdesign, webdev, wordpress
 Slug: neural-it
 
-Neural Magazine is the highest reference on media art for more
-than 20 years now. We were commissioned to design and implement a new
-website for its digital sister site [Neural.it](http://neural.it).
-
-The effort involved much more than a re-design: we wrote extensive
-scripts in order to convert more than 10 years of articles from Movable
-Type to WordPress. This task involved merging English and Italian posts,
-fixing and updating old HTML tags, generating custom RSS feeds and
-adapting the internal taxonomy to the WordPress structure — all done
-automatically using our carefully crafted custom Python parsers.
-
-The theme we built from scratch makes heavy use of custom WordPress post
-types and taxonomies. This way, the Neural editors are able to organise
-and manage posts, microposts, display ads, issue releases and other
-content through the WordPress interface with little hassle.
-
-We also executed a lighter version for Neural's music blog, [Wicked
-Style](http://wickedstyle.neural.it/).  
-Finally, we created a JavaScript snippet that allows the user to strip
-the site from any colour, making it all black and white. It's a tiny
-detail, but we do love the monochrome visuals as they complete an
-overall design that heavily refers to the printed page without looking
-old-school.
-
-<!--:--><!--:pt-->A revista Neural é a maior referência no campo da
+A revista Neural é a maior referência no campo da
 media art há mais de 20 anos. Fomos convocados para re-desenhar e
 implementar um novo website para a sua equivalente digital,
 [Neural.it](http://neural.it).
@@ -55,5 +31,6 @@ Finalmente, criámos uma ferramenta JavaScript que permite ao leitor
 retirar toda a cor do website, ficando apenas preto e branco. Foi um
 pequeno pormenor, mas nós temos um particular afeto pelo layout
 monocromático, já que completa uma direção de design que faz referência
-ao suporte impresso, sem parecer *old-school*. <!--:-->
+ao suporte impresso, sem parecer *old-school*.
+
 
