@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-media-queries
 Lang: en
 
-<!--:en-->The current OFLB website has alternative layouts according to
+The current OFLB website has alternative layouts according to
 the browser window width. Taking advantage of css media queries the
 layout is re-shaped to better fit screens in different devices.
 
@@ -24,5 +24,5 @@ To be able to organize it efficiently we divided it in three rows:
 bottom margins;  
 \* the third has the catalogue and documentation.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/compo-mediaqueries-1024x382.png "compo-mediaqueries")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/compo-mediaqueries.png)<!--:-->
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/compo-mediaqueries-1024x382.png "compo-mediaqueries")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/compo-mediaqueries.png)
 

@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-logo-issues
 Lang: en
 
-<!--:en-->While making the first mockups for the OFLB site redesign, we
+While making the first mockups for the OFLB site redesign, we
 quickly whipped up a navigation header, including a tentative logo
 proposal.
 
@@ -50,5 +50,5 @@ Robert made some very relevant points:
 
 We agree with all of the points that were raised, and are now back to
 the drawing board so that we can come up with a good and lasting
-solution for the OFLB logo.<!--:-->
+solution for the OFLB logo.
 

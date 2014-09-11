@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-catalogue-views-ii
 Lang: en
 
-<!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/Screenshot-1-293x300.png "Catalogue -- Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
+[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/Screenshot-1-293x300.png "Catalogue -- Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
 
 Following our [layout
 ideas](http://blog.manufacturaindependente.org/2011/07/oflb-catalogue-views/)
@@ -36,6 +36,4 @@ The main menu has also evolved:
     Catalogue;
 -   and the ‘Sign in’ got moved to the right, since it is not a section
     of the website.
-
-<!--:-->
 

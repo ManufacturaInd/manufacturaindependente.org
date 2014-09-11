@@ -5,7 +5,7 @@ Category: Hidden
 Slug: oflb-fleshing-out-the-home-page
 Lang: en
 
-<!--:en-->Going on with the work on the home page, here's some of the
+Going on with the work on the home page, here's some of the
 changes that we've been busy on. You can see the [current
 version](http://manufacturaindependente.com/oflb/20110721-homepage/) of
 the home page design, even though there's still quite a bit of work
@@ -30,5 +30,5 @@ boxes, as well as different layouts for the information bars underneath.
 More generous margins, narrower sidebar and bigger text leading make
 the website lighter; we also cut down on some stylistic effects, such as
 the font preview input box, which is now simpler and closer to the
-current OFLB design; more consistent footer section.<!--:-->
+current OFLB design; more consistent footer section.
 

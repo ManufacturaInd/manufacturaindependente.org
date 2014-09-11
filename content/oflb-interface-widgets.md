@@ -6,8 +6,6 @@ Tags: oflb
 Slug: oflb-interface-widgets
 Lang: en
 
-<!--:en-->
-
 While refining our catalogue and font views, we realised there were two
 features that we had to implement:
 
@@ -30,6 +28,4 @@ font-preview is already working -- now, on to finish the styling and
 placement of the widget elements.
 
 [![Screenshot-5.png](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-5.png "Screenshot-5.png")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-5.png)
-
-<!--:-->
 

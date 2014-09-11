@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-the-font-page-ii
 Lang: en
 
-<!--:en-->After publishing the [initial
+After publishing the [initial
 sketch](http://blog.manufacturaindependente.org/2011/08/oflb-the-font-page/)
 for the font page we decided to re-think its structure.
 
@@ -57,6 +57,6 @@ And in the right column:
     The second shows the font language support and prods users to
     contribute.
 
-The HTML mocukp can be seen
-[here](http://manufacturaindependente.com/oflb/20110822-fontpage/index.html).<!--:-->
+The HTML mockup can be seen
+[here](http://manufacturaindependente.com/oflb/20110822-fontpage/index.html).
 

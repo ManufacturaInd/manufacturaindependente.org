@@ -6,7 +6,7 @@ Tags: oflb
 Slug: oflb-refining-the-homepage
 Lang: en
 
-<!--:en-->We have just finished a [revised
+We have just finished a [revised
 version](http://manufacturaindependente.com/oflb/20110805-homepage/) of
 the OFLB homepage.  
 Some changes might be almost invisible but they’re getting us closer to
@@ -49,5 +49,5 @@ simple arrow icon at the right of the title.
 
 **5. Footer**  
 Added a paragraph thanking all the project patrons and a link to the
-donation page.<!--:-->
+donation page.
 
