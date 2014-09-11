@@ -4,6 +4,7 @@ Author: manufactura
 Category: Our Work, Ready
 Tags: data, webdesign, webdev
 Slug: demo-cratica
+Lang: pt
 
 A partir do nosso trabalho como parte do coletivo Transparência Hackday Portugal, 
 criámos o Demo.cratica, um portal que torna fácil o acesso à informação do

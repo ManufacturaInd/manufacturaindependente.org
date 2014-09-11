@@ -1,8 +1,9 @@
 Title: The LGM week in Montréal
 Date: 2011-05-23 23:25
-Author: ana
+Author: manufactura
 Category: Blogpost
 Slug: the-lgm-week-in-montr%c3%a9al
+Lang: en
 
 From the 6th to the 15th of May we were at Montréal for the
 [Libre Graphics Meeting

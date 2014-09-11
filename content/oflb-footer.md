@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: 146
+Lang: en
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
 

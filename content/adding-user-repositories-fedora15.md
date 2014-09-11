@@ -3,6 +3,7 @@ Date: 2011-07-17 13:54
 Author: manufactura
 Category: Blogpost
 Slug: adding-user-repositories-in-fedora-15
+Lang: en
 
 We are now taking our first steps with **Fedora 15** after
 having decided to move on from Ubuntu.

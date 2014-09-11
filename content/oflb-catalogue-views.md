@@ -3,6 +3,7 @@ Date: 2011-07-21 15:14
 Author: manufactura
 Category: Hidden
 Slug: oflb-catalogue-views
+Lang: en
 
 <!--:en-->While we fine-tune design details in the home page, we’ve been
 concocting some preliminary mockups for the catalogue pages. The

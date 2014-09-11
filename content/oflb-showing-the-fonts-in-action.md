@@ -3,6 +3,7 @@ Date: 2011-07-05 17:02
 Author: manufactura
 Category: Hidden
 Slug: showing-the-fonts-in-action
+Lang: en
 
 We have just started working on [Open Font
 Library](http://openfontlibrary.org) with the task of rethinking the

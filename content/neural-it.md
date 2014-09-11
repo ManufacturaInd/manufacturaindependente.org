@@ -4,6 +4,7 @@ Author: manufactura
 Category: Our Work, Ready
 Tags: webdesign, webdev, wordpress
 Slug: neural-it
+Lang: en
 
 Neural Magazine is the highest reference on media art for more
 than 20 years now. We were commissioned to design and implement a new

@@ -1,8 +1,9 @@
 Title: Viagens com Alma
 Date: 2010-09-12 16:00
-Author: ricardo
+Author: manufactura
 Category: Our Work, Ready
 Slug: viagens-com-alma
+Lang: en
 
 [![8\_cluny-1-copy](http://blog.manufacturaindependente.org/wp-content/uploads/2014/04/8_cluny-1-copy.png)](http://blog.manufacturaindependente.org/wp-content/uploads/2014/04/8_cluny-1-copy.png)
 

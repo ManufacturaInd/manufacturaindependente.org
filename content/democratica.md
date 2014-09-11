@@ -4,6 +4,7 @@ Author: manufactura
 Category: Our Work, Ready
 Tags: data, webdesign, webdev
 Slug: demo-cratica
+Lang: en
 
 From our work as part of the Transparência Hackday Portugal
 collective, we created the parliamentary monitoring website

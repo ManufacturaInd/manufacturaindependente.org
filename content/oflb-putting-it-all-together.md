@@ -4,6 +4,7 @@ Author: manufactura
 Category: Blogpost
 Tags: oflb
 Slug: oflb-putting-it-all-together
+Lang: en
 
 <!--:en-->In July, we started a three month collaboration with Dave
 Crossland working on the Open Font Library website. The main goals were

@@ -3,6 +3,7 @@ Date: 2012-05-05 09:13
 Author: manufactura
 Category: Blogpost
 Slug: awesome-libre-typography
+Lang: pt
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/05/DSC_0019-1024x768.jpg "LGM, grafitti em Campanhã (Porto, Portugal)")
 

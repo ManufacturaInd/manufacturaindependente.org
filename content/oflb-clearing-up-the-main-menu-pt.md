@@ -3,6 +3,7 @@ Date: 2011-07-12 09:38
 Author: manufactura
 Category: Hidden
 Slug: oflb-clearing-up-the-main-menu
+Lang: pt
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png "main-menu00")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png)
 

@@ -3,6 +3,7 @@ Date: 2011-10-12 15:23
 Author: manufactura
 Category: Blogpost
 Slug: ttfautohint
+Lang: en
 
 <!--:en-->Type hinting is a time consuming process in the type design
 workflow.  

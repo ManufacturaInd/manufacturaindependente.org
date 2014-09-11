@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-mediawiki-and-version-control
+Lang: en
 
 <!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170-1024x495.jpg "IMAG0170")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/IMAG0170.jpg)
 

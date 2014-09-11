@@ -1,9 +1,10 @@
 Title: A first experiment with multicoloured web fonts
 Date: 2011-02-07 17:01
-Author: ricardo
+Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
+Lang: en
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/02/Screenshot-300x111.png "Screenshot")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/02/Screenshot.png)
 

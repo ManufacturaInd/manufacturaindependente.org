@@ -1,9 +1,10 @@
 Title: Scheming and plotting
 Date: 2011-03-22 01:04
-Author: ricardo
+Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: scheming-and-plotting
+Lang: en
 
 ![](http://www.plotter-printers.com/wp-content/uploads/2011/03/pen-plotter-pictures.jpg "Desktop pen plotter")For
 a long while, we were pretty curious about the workings of plotters.

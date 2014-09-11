@@ -3,6 +3,7 @@ Date: 2014-09-04 15:08
 Author: manufactura
 Category: Blogpost
 Slug: looking-at-the-last-months
+Lang: en
 
 While we're figuring out our routines to come back to writing after an
 August of holidays, here's a quick write up our ventures since February

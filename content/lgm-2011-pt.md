@@ -1,8 +1,9 @@
 Title: Libre Graphics Meeting 2011
 Date: 2011-03-27 17:35
-Author: ana
+Author: manufactura
 Category: Blogpost
 Slug: libre-graphics-meeting-2011
+Lang: pt
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/lgm2011-210x300.jpg "lgm2011")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/lgm2011.jpg)
 

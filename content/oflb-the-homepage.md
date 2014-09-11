@@ -3,6 +3,7 @@ Date: 2011-07-19 16:06
 Author: manufactura
 Category: Hidden
 Slug: oflb-the-homepage
+Lang: en
 
 <!--:en-->[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg.png)
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg.png)

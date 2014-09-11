@@ -4,6 +4,7 @@ Author: manufactura
 Category: Our Work, Ready
 Tags: webdesign, webdev, wordpress
 Slug: neural-it
+Lang: pt
 
 A revista Neural é a maior referência no campo da
 media art há mais de 20 anos. Fomos convocados para re-desenhar e

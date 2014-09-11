@@ -1,9 +1,10 @@
 Title: Generating outline fonts with 5 lines of code
 Date: 2011-02-14 17:01
-Author: ricardo
+Author: manufactura
 Category: Blogpost
 Tags: hacks
 Slug: generating-outline-fonts-with-5-lines-of-code
+Lang: en
 
 Contrary to popular belief, free software has its own gems
 which easily outshine their proprietary counterparts. One of our

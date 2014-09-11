@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-refining-the-homepage
+Lang: en
 
 <!--:en-->We have just finished a [revised
 version](http://manufacturaindependente.com/oflb/20110805-homepage/) of

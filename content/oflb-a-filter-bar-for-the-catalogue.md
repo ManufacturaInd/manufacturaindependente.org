@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-a-filter-bar-for-the-catalogue
+Lang: en
 
 <!--:en-->Last week we were busy with the Catalogue. We changed from a
 two column page layout to a single column one.  

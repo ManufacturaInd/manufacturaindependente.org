@@ -4,6 +4,7 @@ Author: manufactura
 Category: Hidden
 Tags: oflb
 Slug: oflb-rethinking-the-guidebook
+Lang: en
 
 We just posted a blueprint to the OFLB Launchpad detailing our
 plans for rehashing the Guidebook:

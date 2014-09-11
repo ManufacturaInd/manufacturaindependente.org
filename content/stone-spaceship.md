@@ -3,6 +3,7 @@ Date: 2012-11-06 12:44
 Author: manufactura
 Category: Blogpost, Workshops
 Slug: %ef%bb%bffrom-stone-to-spaceship-collaborative-type-design
+Lang: en
 
 <small>This article was originally published in [Cuaderno
 Medialab](http://www.eldiario.es/cuadernomedialab/piedra-nave-Diseno-colaborativo-tipografia_6_52554764.html)</small>

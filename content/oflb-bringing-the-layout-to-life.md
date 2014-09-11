@@ -3,6 +3,7 @@ Date: 2011-07-13 13:30
 Author: manufactura
 Category: Hidden
 Slug: oflb-bringing-the-layout-to-life
+Lang: en
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png "sidebar")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png)
 
