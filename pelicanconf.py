@@ -33,10 +33,10 @@ DEFAULT_PAGINATION = 20
 RELATIVE_URLS = True
 
 # Specify a customized theme, via path relative to the settings file
-THEME = 'themes/pure-single'
+THEME = 'theme/pure-single'
 
-COVER_IMG_URL = 'themes/pure-single/static/img/cutis.jpg'
-PROFILE_IMAGE_URL =  'themes/pure-single/static/img/cutis.jpg'
+COVER_IMG_URL = 'theme/images/cutis.jpg'
+PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'
 TAGLINE = 'A Manufactura é que é.'
 SOCIAL = (
             ('github', 'https://github.com/manufacturaind/'),
