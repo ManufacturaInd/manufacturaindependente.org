@@ -31,3 +31,14 @@ DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Specify a customized theme, via path relative to the settings file
+THEME = 'themes/pure-single'
+
+COVER_IMG_URL = 'themes/pure-single/static/img/cutis.jpg'
+PROFILE_IMAGE_URL =  'themes/pure-single/static/img/cutis.jpg'
+TAGLINE = 'A Manufactura é que é.'
+SOCIAL = (
+            ('github', 'https://github.com/manufacturaind/'),
+            ('twitter-square', 'https://twitter.com/manufacturaind'),
+         )
