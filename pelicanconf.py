@@ -4,9 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Manufactura Independente'
 SITENAME = u'Manufactura Independente'
+SITESUBTITLE = "Libre Graphics & Design research studio"
 SITEURL = 'http://manufacturaindependente.org'
 
 PATH = 'content'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Lisbon'
 
@@ -33,12 +35,16 @@ DEFAULT_PAGINATION = 20
 RELATIVE_URLS = True
 
 # Specify a customized theme, via path relative to the settings file
-THEME = 'theme/pure-single'
+THEME = 'theme/manufactura'
 
-COVER_IMG_URL = 'theme/images/cutis.jpg'
-PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'
-TAGLINE = 'A Manufactura é que é.'
-SOCIAL = (
-            ('github', 'https://github.com/manufacturaind/'),
-            ('twitter-square', 'https://twitter.com/manufacturaind'),
-         )
+SITE_DESCRIPTION = 'Descrição do site da manufacturinha.'
+
+SITE_LOGO = 'theme/images/manufactura.png'
+
+#COVER_IMG_URL = 'theme/images/cutis.jpg'
+#PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'
+#TAGLINE = 'A Manufactura é que é.'
+#SOCIAL = (
+#            ('github', 'https://github.com/manufacturaind/'),
+#            ('twitter-square', 'https://twitter.com/manufacturaind'),
+#         )
