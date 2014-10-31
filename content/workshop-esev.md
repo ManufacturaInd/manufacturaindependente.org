@@ -1,10 +1,11 @@
-Title: Workshop de Design Livre na ESEV
+Title: Libre Design Workshop at ESEV
+Summary: F/LOSS design tools for enlightened layouts
 Date: 2011-06-20 16:44
 Author: manufactura
 Category: Blogpost
 Tags: workshop
 Slug: libre-design-workshop
-Lang: pt
+Lang: en
 
 No passado dia 28 estivemos na [ESEV](http://www.esev.ipv.pt), no nosso primeiro workshop de Design Livre, a convite do [OpenLab](http://www.intervir.net/openlab). Este workshop de 6 horas tinha como objectivo fazer uma introdução a ferramentas de software livre para design e composição.
 

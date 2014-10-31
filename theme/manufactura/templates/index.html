@@ -1,10 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
 <section id="content">
-    <h3 class="row collapse">Our work</h3>
+    <h3 class="row collapse">Our Work</h3>
     <ul id="portfolio-list">    
         {% for article in articles_page.object_list %}
-            {% if article.category == 'Ready' %}
+            {% if 'Our Work' in article.category.name %}
+                <li><article class="hentry row collapse">
+                        <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+                        <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+                        <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->
+                </article></li>             
+            {% endif %}
+        {% endfor %}
+    </ul><!-- /#portfolio-list -->
+    
+    <h3 class="row collapse">Workshops</h3>
+    <ul id="workshop-list">    
+        {% for article in articles_page.object_list %}
+            {% if 'Workshop' in article.category.name %}
                 <li><article class="hentry row collapse">
                         <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                         <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
@@ -13,12 +26,12 @@
               
             {% endif %}
         {% endfor %}
-    </ul><!-- /#portfolio-list -->
+    </ul><!-- /#workshop-list -->
 
     <h3 class="row collapse">Writings</h3>
     <ul id="post-list">
         {% for article in articles_page.object_list  %}   
-            {% if article.category == 'Blogpost' %}
+            {% if 'Blogpost' in article.category.name %}
               <li><article class="hentry row collapse">
                   <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                   <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
@@ -28,6 +41,5 @@
         {% endfor %}
     </ul><!-- /#post-list -->
 
-{% include 'pagination.html' %}
 </section><!-- /#content -->
 {% endblock content %}

@@ -72,9 +72,12 @@ abbr[title] {
 
 body {
   font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
+  font-size: 1em;
+  line-height: 1.4;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.post-info {
   font-family: 'Roboto Light';
 }
 
@@ -93,12 +96,64 @@ strong,
 	font-weight: normal;
 }
 
+small {
+    font-size: 80%;
+}
+
 /* Layout
 */
 
-#post-list .hentry {
+#header {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#content ul li .hentry {
     border-bottom: 1px solid #3e4652;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
+}
+
+#content h3 {
+    padding: 0.25em 0;
+}
+
+#content ul {
+    margin-bottom: 2em;
+}
+
+/* Homepage
+*/
+
+.home .entry-title {
+    font-size: 1em;
+}
+
+/* Article page
+*/
+
+.other .entry-title {
+    font-size: 4em;
+    line-height: 1;
+    margin-bottom: 0.25em;
+}
+
+.other .entry-content p {
+    margin-top: 1em;
+}
+
+    .other .entry-content p:first-child { margin-top: 0; }
+
+.post-info { /* Date */
+    border-bottom: 1px solid #3e4652;
+    border-top: 1px solid #3e4652;
+    padding-bottom: 0.25em;
+    padding-top: 0.25em;
+    margin-bottom: .5em;
+}
+
+.other .entry-content a + img {
+    display: block;
+    border:  1px solid red;
 }
 

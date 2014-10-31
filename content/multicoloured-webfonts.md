@@ -1,4 +1,5 @@
 Title: A first experiment with multicoloured web fonts
+Summary: A Javascript experiment for multicolored web typography.
 Date: 2011-02-07 17:01
 Author: manufactura
 Category: Blogpost

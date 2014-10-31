@@ -1,4 +1,5 @@
 Title: Persuasive interfaces in open data
+Summary: Talk at the Open Legislative Data Camp in Paris
 Date: 2012-07-06 15:29
 Author: manufactura
 Category: Blogpost, Talks

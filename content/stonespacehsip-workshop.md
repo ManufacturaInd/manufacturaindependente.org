@@ -1,4 +1,5 @@
 Title: From Stone to Spaceship
+Summary: Collaborative typeface design
 Date: 2014-09-11 16:44
 Author: manufactura
 Category: Workshops

@@ -1,4 +1,5 @@
 Title: OFLB: Putting it all together
+Summary: The Open Font Library redesign
 Date: 2011-11-14 18:18
 Author: manufactura
 Category: Blogpost

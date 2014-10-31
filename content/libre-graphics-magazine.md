@@ -1,4 +1,5 @@
 Title: Libre Graphics magazine
+Summary: Free culture & design publication
 Date: 2010-11-22 10:51
 Author: manufactura
 Category: Our Work, Ready

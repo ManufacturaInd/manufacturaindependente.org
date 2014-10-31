@@ -1,7 +1,8 @@
 Title: AgitProp
+Summary: Fonts & the command line, workshop at ERG, Brussels
 Date: 2014-09-11 16:44
 Author: manufactura
-Category: Workshops
+Category: Workshops, Ready
 Tags: workshops, type, command-line
 Slug: agit-prop
 Lang: en

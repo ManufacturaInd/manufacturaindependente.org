@@ -1,4 +1,5 @@
 Title: Neural Archive
+Summary: Online Neural.it media archive
 Date: 2013-10-01 15:52
 Author: manufactura
 Category: Our Work, Ready

@@ -17,34 +17,32 @@
 
 {% block content %}
 <section id="content" class="body">
-  <header class="row collapse">
+  <header>
     <h2 class="entry-title">
       <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
          title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+ {% import 'translations.html' as translations with context %}
+ {{ translations.translations_for(article) }}
   </header>
-  <footer class="post-info row collapse">
+  <footer class="post-info">
     <abbr class="published" title="{{ article.date.isoformat() }}">
-      {{ article.date|strftime('%d %B %Y') }}
+      {{ article.locale_date }}
     </abbr>
 	{% if article.modified %}
     <abbr class="modified" title="{{ article.modified.isoformat() }}">
       {{ article.locale_modified }}
     </abbr>
 	{% endif %}
+    {% if article.authors %}
+    <address class="vcard author">
+      By {% for author in article.authors %}
+          <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        {% endfor %}
+    </address>
+    {% endif %}
   </footer><!-- /.post-info -->
-  <div class="entry-content row collapse">
-    <div class="large-2 medium-3 columns">
-        <p class="post-meta">
-            {% for tag in article.tags %}
-                <a class="post-category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-            {% endfor %}
-        </p>
-        {% import 'translations.html' as translations with context %}
-        <small>{{ translations.translations_for(article) }}</small>
-    </div>
-    <div class="large-8 medium-9 columns large-centered">
-        {{ article.content }}
-    </div>
+  <div class="entry-content">
+    {{ article.content }}
   </div><!-- /.entry-content -->
 </section>
 {% endblock %}

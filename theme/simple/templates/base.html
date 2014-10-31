@@ -3,8 +3,6 @@
 <head>
         {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-        <meta name="description" content="{{ SITE_DESCRIPTION }}">
-        
         <meta charset="utf-8" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
@@ -31,33 +29,35 @@
         <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
         {% endif %}
         {% endblock head %}
-        
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
-        
-        <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.ico">
-
 </head>
 
-{% if output_file == 'index.html' %}
-    <body id="index" class="home">
-{% else %}
-    <body class="other">
-{% endif %}
-        <header id="header" class="row collapse">
-            <p class="large-1 medium-2 columns"><a href="{{ SITEURL }}/"><img src="{{ SITE_LOGO }}" alt="{{ SITENAME }}"></a></h1>
-            <a class="large-5 medium-10 columns" href="{{ SITEURL }}/">
-                <h1>{{ SITENAME }}</h1> <h4>{{ SITESUBTITLE }}</h4>
-            </a>
-            <div class="large-6 medium-12 columns">
-                <p>We're a design studio focused on free and open source software, libre culture and critical engagement with design tools. Read more <a href="">about us</a>. Check our <a href="">portfolio</a> and <a href="">workshops</a>.</p>
-            </div>
-        </header><!-- /#header -->
-        
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+        {% for title, link in MENUITEMS %}
+            <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in PAGES %}
+            <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        {% else %}
+          {% if DISPLAY_CATEGORIES_ON_MENU %}
+            {% for cat, null in categories %}
+              <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+            {% endfor %}
+          {% endif %}
+        {% endif %}
+        </ul></nav><!-- /#menu -->
         {% block content %}
         {% endblock %}
-        
-        <footer id="footer">
-        </footer><!-- /#footer -->
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
 </body>
 </html>

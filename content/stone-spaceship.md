@@ -1,8 +1,9 @@
 Title: ﻿From Stone to Spaceship, Collaborative type design
+Summary: Type design workshop at Medialab Prado, Madrid
 Date: 2012-11-06 12:44
 Author: manufactura
 Category: Blogpost, Workshops
-Slug: %ef%bb%bffrom-stone-to-spaceship-collaborative-type-design
+Slug: from-stone-to-spaceship-collaborative-type-design
 Lang: en
 
 <small>This article was originally published in [Cuaderno
