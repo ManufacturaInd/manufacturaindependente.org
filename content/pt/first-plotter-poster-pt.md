@@ -1,7 +1,7 @@
 Title: The first plotter poster
 Date: 2012-03-28 14:58
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: hacks, plotter
 Slug: first-plotter-poster
 Lang: pt

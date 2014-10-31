@@ -2,7 +2,8 @@ Title: ttfautohint
 Summary: An excellent tool to automate font hinting
 Date: 2011-10-12 15:23
 Author: manufactura
-Category: Blogpost
+Category: Post
+Tags: type
 Slug: ttfautohint
 Lang: en
 

@@ -2,7 +2,7 @@ Title: Demo.cratica
 Summary: Parliamentary open data portal
 Date: 2011-05-30 15:29
 Author: manufactura
-Category: Our Work, Ready
+Category: Work
 Tags: data, webdesign, webdev
 Slug: demo-cratica
 Lang: en

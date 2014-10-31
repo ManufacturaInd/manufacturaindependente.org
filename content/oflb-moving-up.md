@@ -1,7 +1,8 @@
 Title: OFLB: Moving up
 Date: 2011-08-25 20:16
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-moving-up
 Lang: en

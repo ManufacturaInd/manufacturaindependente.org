@@ -1,7 +1,9 @@
 Title: OFLB: First layouts
 Date: 2011-07-12 17:25
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-first-layouts
 Lang: en
 

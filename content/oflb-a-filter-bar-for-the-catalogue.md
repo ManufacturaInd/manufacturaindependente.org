@@ -1,7 +1,8 @@
 Title: OFLB: A filter bar for the Catalogue
 Date: 2011-08-16 14:16
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-a-filter-bar-for-the-catalogue
 Lang: en

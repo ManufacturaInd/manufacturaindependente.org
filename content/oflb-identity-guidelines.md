@@ -1,7 +1,9 @@
 Title: OFLB: Identity Guidelines
 Date: 2011-07-27 17:10
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-identity-guidelines
 Lang: en
 

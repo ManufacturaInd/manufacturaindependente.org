@@ -1,7 +1,9 @@
 Title: OFLB: The homepage
 Date: 2011-07-19 16:06
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-the-homepage
 Lang: en
 

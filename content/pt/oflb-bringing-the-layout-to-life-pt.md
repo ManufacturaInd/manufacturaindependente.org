@@ -1,7 +1,9 @@
 Title: OFLB: Bringing the layout to life
 Date: 2011-07-13 13:30
 Author: manufactura
-Category: Hidden
+Status:  draft
+Category: Post
+Tags: oflb
 Slug: oflb-bringing-the-layout-to-life
 Lang: pt
 

@@ -37,7 +37,7 @@ RELATIVE_URLS = True
 # Specify a customized theme, via path relative to the settings file
 THEME = 'theme/manufactura'
 
-SITE_DESCRIPTION = 'Descrição do site da manufacturinha.'
+SITE_DESCRIPTION = 'Manufactura, Libre Graphics Design & Research Studio.'
 
 SITE_LOGO = 'theme/images/manufactura.png'
 

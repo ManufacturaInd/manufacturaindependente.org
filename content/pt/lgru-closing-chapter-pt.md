@@ -1,7 +1,7 @@
 Title: Libre Graphics Research Unit — Closing chapter
 Date: 2013-05-20 21:17
 Author: manufactura
-Category: Blogpost, Workshops
+Category: Post
 Tags: floss, lgru
 Slug: libre-graphics-research-unit-closing-chapter
 Lang: pt

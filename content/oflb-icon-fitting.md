@@ -1,7 +1,8 @@
 Title: OFLB: Icon fitting
 Date: 2011-08-04 17:16
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-icon-fitting
 Lang: en

@@ -1,7 +1,8 @@
 Title: OFLB: Rethinking the guidebook
 Date: 2011-08-10 22:26
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-rethinking-the-guidebook
 Lang: en

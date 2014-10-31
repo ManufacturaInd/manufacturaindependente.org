@@ -1,8 +1,8 @@
 Title: Implied Spacing
 Date: 2012-02-24 00:33
 Author: manufactura
-Category: Blogpost
-Tags: hacks
+Category: Post
+Tags: hacks, lgru
 Slug: implied-spacing
 Lang: pt
 

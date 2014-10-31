@@ -2,7 +2,7 @@ Title: Installing your local version of Open Font Library
 Summary: Documentation to get your own OFLB on Fedora 15
 Date: 2011-07-24 16:08
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: installing-your-local-version-of-open-font-library-on-fedora-15
 Lang: en
 

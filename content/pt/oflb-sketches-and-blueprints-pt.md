@@ -1,7 +1,9 @@
 Title: OFLB: Sketches and blueprints
 Date: 2011-07-07 16:44
 Author: manufactura
-Category: Hidden
+Status:  draft
+Category: Post
+Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: pt
 

@@ -1,7 +1,7 @@
 Title: Os super poderes das fontes livres
 Date: 2012-05-05 09:13
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: awesome-libre-typography
 Lang: pt
 

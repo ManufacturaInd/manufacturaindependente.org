@@ -1,7 +1,7 @@
 Title: Workshop de Design Livre na ESEV
 Date: 2011-06-20 16:44
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: workshop
 Slug: libre-design-workshop
 Lang: pt

@@ -1,7 +1,8 @@
 Title: OFLB: Writing and frameworking
 Date: 2011-08-31 17:39
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-writing-and-frameworking
 Lang: en

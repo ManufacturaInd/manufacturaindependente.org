@@ -1,7 +1,8 @@
 Title: OFLB: Sitting down to type
 Date: 2011-08-18 21:07
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-sitting-down-to-type
 Lang: en

@@ -2,7 +2,7 @@ Title: Adding user repositories in Fedora 15
 Summary: Transitioning to Fedora
 Date: 2011-07-17 13:54
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: adding-user-repositories-in-fedora-15
 Lang: en
 

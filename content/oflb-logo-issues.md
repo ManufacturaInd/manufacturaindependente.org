@@ -1,7 +1,9 @@
 Title: OFLB: Logo issues
 Date: 2011-07-19 09:36
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-logo-issues
 Lang: en
 

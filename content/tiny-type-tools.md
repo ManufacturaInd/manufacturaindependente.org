@@ -3,7 +3,7 @@ Summary: Type scripts toolkit
 Date: 2014-09-11 16:44
 Author: manufactura
 Status: draft
-Category: Blogpost
+Category: Post
 Tags: type, hacks
 Slug: tiny-type-tools
 Lang: en

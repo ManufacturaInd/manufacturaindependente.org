@@ -1,7 +1,9 @@
 Title: OFLB: Iterating and re-iterating
 Date: 2011-07-20 10:41
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-iterating-and-re-iterating
 Lang: en
 

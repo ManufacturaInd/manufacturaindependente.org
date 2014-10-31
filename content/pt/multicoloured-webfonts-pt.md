@@ -1,7 +1,7 @@
 Title: Uma primeira experiência de texto na web com várias cores
 Date: 2011-02-07 17:01
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
 Lang: pt

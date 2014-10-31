@@ -1,7 +1,8 @@
 Title: Viagens com Alma
 Date: 2010-09-12 16:00
 Author: manufactura
-Category: Our Work, Ready
+Category: Work
+Tags: print
 Slug: viagens-com-alma
 Lang: pt
 

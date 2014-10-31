@@ -2,7 +2,8 @@ Title: Awesome libre typography
 Summary: The things you can do with libre type
 Date: 2012-05-05 09:13
 Author: manufactura
-Category: Blogpost
+Category: Post
+Tags: type
 Slug: awesome-libre-typography
 Lang: en
 

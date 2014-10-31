@@ -2,7 +2,7 @@ Title: The LGM week in Montréal
 Summary: Backlog
 Date: 2011-05-23 23:25
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: the-lgm-week-in-montreal
 Lang: en
 

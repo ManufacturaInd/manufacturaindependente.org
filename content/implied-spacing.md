@@ -2,8 +2,8 @@ Title: Implied Spacing
 Summary: Spacing text with colour
 Date: 2012-02-24 00:33
 Author: manufactura
-Category: Blogpost
-Tags: hacks
+Category: Post
+Tags: hacks, lgru
 Slug: implied-spacing
 Lang: en
 

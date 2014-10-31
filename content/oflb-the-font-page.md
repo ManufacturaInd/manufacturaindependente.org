@@ -1,7 +1,8 @@
 Title: OFLB: The Font Page
 Date: 2011-08-02 12:27
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-the-font-page
 Lang: en

@@ -1,9 +1,10 @@
 Title: OFLB: The footer
 Date: 2011-08-03 19:44
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
-Slug: 146
+Slug: oflb-the-footer
 Lang: en
 
 [![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)

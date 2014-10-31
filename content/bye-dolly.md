@@ -2,7 +2,7 @@ Title: Goodbye Dolly, Hello Libre Graphics
 Summary: A plugin for WordPress
 Date: 2011-02-27 23:30
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: hacks
 Slug: bye-dolly-hello-libre-graphics
 Lang: en

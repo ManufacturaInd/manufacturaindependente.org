@@ -1,7 +1,9 @@
 Title: OFLB: Fleshing out the home page
 Date: 2011-07-21 15:35
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-fleshing-out-the-home-page
 Lang: en
 

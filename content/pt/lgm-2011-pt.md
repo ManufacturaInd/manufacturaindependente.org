@@ -1,7 +1,7 @@
 Title: Libre Graphics Meeting 2011
 Date: 2011-03-27 17:35
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: libre-graphics-meeting-2011
 Lang: pt
 

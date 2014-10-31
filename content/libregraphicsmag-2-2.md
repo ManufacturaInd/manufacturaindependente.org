@@ -2,7 +2,7 @@ Title: Libre Graphics magazine 2.2, Gendering F/LOSS
 Summary: Announcing issue 2.2
 Date: 2014-02-28 17:35
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: libregraphicsmag
 Slug: out-now-libre-graphics-magazine-issue-2-2-gendering-floss
 Lang: en

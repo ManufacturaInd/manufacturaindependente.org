@@ -2,7 +2,7 @@ Title: Colorfont Workshop at LGM 2012
 Summary: Designing multi-coloured typefaces at LGM
 Date: 2012-06-28 11:32
 Author: manufactura
-Category: Blogpost, Workshops
+Category: Workshops
 Tags: @font-face, colorfont, fontforge, workshop
 Slug: colorfont-workshop-at-lgm-2012
 Lang: en

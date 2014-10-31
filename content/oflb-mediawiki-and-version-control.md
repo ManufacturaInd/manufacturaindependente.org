@@ -1,7 +1,8 @@
 Title: OFLB: MediaWiki and Version Control
 Date: 2011-08-02 17:01
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-mediawiki-and-version-control
 Lang: en

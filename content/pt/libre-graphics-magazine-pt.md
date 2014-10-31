@@ -1,7 +1,7 @@
 Title: Revista Libre Graphics
 Date: 2010-11-22 10:51
 Author: manufactura
-Category: Our Work, Ready
+Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
 Lang: pt

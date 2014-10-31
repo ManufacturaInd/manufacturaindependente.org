@@ -1,7 +1,9 @@
 Title: OFLB: Clearing up the main menu
 Date: 2011-07-12 09:38
 Author: manufactura
-Category: Hidden
+Status:  draft
+Category: Post
+Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: pt
 

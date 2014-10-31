@@ -91,7 +91,8 @@ h1, h2, h3, h4, h5, h6,
 }
 
 strong,
-#header h1 {
+#header h1,
+.entry-content .post-meta {
   font-family: 'Roboto Bold';
 	font-weight: normal;
 }
@@ -155,5 +156,9 @@ small {
 .other .entry-content a + img {
     display: block;
     border:  1px solid red;
+}
+
+.entry-content .post-meta {
+    font-size: 80%;
 }
 

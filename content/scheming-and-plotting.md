@@ -2,8 +2,8 @@ Title: Scheming and plotting
 Summary: First encounters
 Date: 2011-03-22 01:04
 Author: manufactura
-Category: Blogpost
-Tags: hacks
+Category: Post
+Tags: hacks, plotter
 Slug: scheming-and-plotting
 Lang: en
 

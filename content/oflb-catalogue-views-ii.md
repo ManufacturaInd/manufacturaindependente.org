@@ -1,7 +1,8 @@
 Title: OFLB: Catalogue views II
 Date: 2011-07-27 17:17
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-catalogue-views-ii
 Lang: en

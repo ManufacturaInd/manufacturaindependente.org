@@ -1,7 +1,8 @@
 Title: OFLB: Refining the Homepage
 Date: 2011-08-05 16:19
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-refining-the-homepage
 Lang: en

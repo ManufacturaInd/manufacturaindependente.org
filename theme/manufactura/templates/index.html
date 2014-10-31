@@ -4,7 +4,7 @@
     <h3 class="row collapse">Our Work</h3>
     <ul id="portfolio-list">    
         {% for article in articles_page.object_list %}
-            {% if 'Our Work' in article.category.name %}
+            {% if 'Work' in article.category.name %}
                 <li><article class="hentry row collapse">
                         <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                         <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
@@ -17,7 +17,7 @@
     <h3 class="row collapse">Workshops</h3>
     <ul id="workshop-list">    
         {% for article in articles_page.object_list %}
-            {% if 'Workshop' in article.category.name %}
+            {% if 'Workshops' in article.category.name %}
                 <li><article class="hentry row collapse">
                         <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                         <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
@@ -31,7 +31,7 @@
     <h3 class="row collapse">Writings</h3>
     <ul id="post-list">
         {% for article in articles_page.object_list  %}   
-            {% if 'Blogpost' in article.category.name %}
+            {% if 'Post' in article.category.name %}
               <li><article class="hentry row collapse">
                   <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                   <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>

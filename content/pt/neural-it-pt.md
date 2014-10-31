@@ -1,7 +1,7 @@
 Title: Neural.it
 Date: 2013-10-01 15:52
 Author: manufactura
-Category: Our Work, Ready
+Category: Work
 Tags: webdesign, webdev, wordpress
 Slug: neural-it
 Lang: pt

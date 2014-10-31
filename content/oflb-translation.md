@@ -1,7 +1,9 @@
 Title: OFLB: Translation
 Date: 2011-07-25 17:57
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
+Tags: oflb
 Slug: oflb-translation
 Lang: en
 

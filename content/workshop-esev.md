@@ -2,7 +2,7 @@ Title: Libre Design Workshop at ESEV
 Summary: F/LOSS design tools for enlightened layouts
 Date: 2011-06-20 16:44
 Author: manufactura
-Category: Blogpost
+Category: Post
 Tags: workshop
 Slug: libre-design-workshop
 Lang: en

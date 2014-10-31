@@ -1,7 +1,8 @@
 Title: OFLB: Interface widgets
 Date: 2011-08-08 17:01
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-interface-widgets
 Lang: en

@@ -2,7 +2,7 @@ Title: Looking at the last months
 Summary: MiniDebConf, Kit Gráfica Livre, LGM 2014 and more
 Date: 2014-09-04 15:08
 Author: manufactura
-Category: Blogpost
+Category: Post
 Slug: looking-at-the-last-months
 Lang: en
 

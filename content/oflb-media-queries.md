@@ -1,7 +1,8 @@
 Title: OFLB: Media Queries
 Date: 2011-08-09 17:42
 Author: manufactura
-Category: Hidden
+Status: draft
+Category: Post
 Tags: oflb
 Slug: oflb-media-queries
 Lang: en
