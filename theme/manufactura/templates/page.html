@@ -2,20 +2,20 @@
 {% block title %}{{ page.title }}{%endblock%}
 {% block content %}
 <section id="content" class="page">
-    <header class="row collapse">
+    <header class="row large-collapse">
         <h2 class="entry-title columns large-12">{{ page.title }}</h2>
     </header>
 
-    <div class="row collapse">
+    <div class="row large-collapse">
         {{ page.content }}
     </div>
     
-    <footer class="translation row collapse">
+    <footer class="translation row large-collapse">
         {% import 'translations.html' as translations with context %}
-        <p class="row collapse"><small>{{ translations.translations_for(page) }}</small>
+        <p class="row large-collapse"><small>{{ translations.translations_for(page) }}</small>
     </footer><!-- /.post-info -->
 	{% if page.modified %}
-		<p class="row collapse">
+		<p class="row large-collapse">
 		Last updated: {{ page.locale_modified }}
 		</p>
 	{% endif %}

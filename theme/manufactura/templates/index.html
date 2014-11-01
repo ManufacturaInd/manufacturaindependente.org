@@ -1,11 +1,11 @@
 {% extends "base.html" %}
 {% block content %}
 <section id="content" class="list-page">
-    <div class="row collapse"><h3 class="large-12 columns">Work</h3></div>
+    <div class="row large-collapse"><h3 class="large-12 columns">Work</h3></div>
     <ul id="portfolio-list">    
         {% for article in articles_page.object_list %}
             {% if article.category.name == 'Work' %}
-                <li><article class="hentry row collapse">
+                <li><article class="hentry row large-collapse">
                         <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                         <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                         <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->
@@ -14,11 +14,11 @@
         {% endfor %}
     </ul><!-- /#portfolio-list -->
     
-    <div class="row collapse"><h3 class="large-12 columns">Workshops</h3></div>
+    <div class="row large-collapse"><h3 class="large-12 columns">Workshops</h3></div>
     <ul id="workshop-list">    
         {% for article in articles_page.object_list %}
             {% if article.category.name == 'Workshops' %}
-                <li><article class="hentry row collapse">
+                <li><article class="hentry row large-collapse">
                         <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                         <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                         <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->
@@ -28,11 +28,11 @@
         {% endfor %}
     </ul><!-- /#workshop-list -->
 
-    <div class="row collapse"><h3 class="large-12 columns">Writings</h3></div>
+    <div class="row large-collapse"><h3 class="large-12 columns">Writings</h3></div>
     <ul id="post-list">
         {% for article in articles_page.object_list  %}   
             {% if article.category.name == 'Post' %}
-              <li><article class="hentry row collapse">
+              <li><article class="hentry row large-collapse">
                   <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
                   <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                   <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->

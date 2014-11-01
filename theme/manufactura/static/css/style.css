@@ -35,17 +35,17 @@ abbr[title] {
 
 @font-face {
   font-family: 'Roboto Light';
-  src: local('Roboto Light'), url('fonts/Roboto/Roboto-Light.ttf') format('truetype');
+  src: local('Roboto Light'), url('/fonts/Roboto/Roboto-Light.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Roboto Regular';
-  src: local('Roboto Regular'), url('fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  src: local('Roboto Regular'), url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Roboto Bold';
-  src: local('Roboto Bold'), url('fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+  src: local('Roboto Bold'), url('/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
 }
 
 body {
@@ -186,4 +186,14 @@ small {
 .entry-content .post-meta {
     font-size: 80%;
 }
+
+/* large-collapse */
+@media only screen and (min-width: 64.063em) {
+    .large-collapse {
+        padding: 0;
+    }
+    .large-collapse .columns {
+        padding: 0;
+    }
+} 
 
