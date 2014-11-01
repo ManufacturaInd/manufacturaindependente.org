@@ -116,6 +116,10 @@ small {
     margin-bottom: 2em;
 }
 
+.page h1.entry-title {
+    border-bottom: 1px solid #47505e;
+}
+
 /* Homepage
 */
 
@@ -147,10 +151,13 @@ small {
 /* Article page
 */
 
-.body .entry-title {
+.article .entry-title,
+.page .entry-title {
     font-size: 4em;
     line-height: 1;
-    margin-bottom: 0.25em;
+    margin-bottom: 0;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid #3e4652;
 }
 
 .other .entry-content p {
@@ -161,10 +168,14 @@ small {
 
 .post-info { /* Date */
     border-bottom: 1px solid #3e4652;
-    border-top: 1px solid #3e4652;
     padding-bottom: 0.25em;
-    padding-top: 0.25em;
     margin-bottom: .5em;
+}
+
+.translation {
+    border-top: 1px solid #3e4652;
+    padding-top: 0.25em;
+    margin-top: 2em;
 }
 
 .other .entry-content a + img {
