@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content">
-    <h3 class="row collapse">Our Work</h3>
+<section id="content" class="list-page">
+    <div class="row collapse"><h3 class="large-12 columns">Our Work</h3></div>
     <ul id="portfolio-list">    
         {% for article in articles_page.object_list %}
             {% if 'Work' in article.category.name %}
@@ -14,7 +14,7 @@
         {% endfor %}
     </ul><!-- /#portfolio-list -->
     
-    <h3 class="row collapse">Workshops</h3>
+    <div class="row collapse"><h3 class="large-12 columns">Workshops</h3></div>
     <ul id="workshop-list">    
         {% for article in articles_page.object_list %}
             {% if 'Workshops' in article.category.name %}
@@ -28,7 +28,7 @@
         {% endfor %}
     </ul><!-- /#workshop-list -->
 
-    <h3 class="row collapse">Writings</h3>
+    <div class="row collapse"><h3 class="large-12 columns">Writings</h3></div>
     <ul id="post-list">
         {% for article in articles_page.object_list  %}   
             {% if 'Post' in article.category.name %}

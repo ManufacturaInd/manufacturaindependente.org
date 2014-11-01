@@ -39,7 +39,7 @@ THEME = 'theme/manufactura'
 
 SITE_DESCRIPTION = 'Manufactura, Libre Graphics Design & Research Studio.'
 
-SITE_LOGO = 'theme/images/manufactura.png'
+SITE_LOGO = '/theme/images/manufactura.png'
 
 #COVER_IMG_URL = 'theme/images/cutis.jpg'
 #PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'

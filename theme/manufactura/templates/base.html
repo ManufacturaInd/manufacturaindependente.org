@@ -46,12 +46,12 @@
 {% endif %}
         <header id="header" class="row collapse">
             <p class="large-1 medium-2 columns"><a href="{{ SITEURL }}/"><img src="{{ SITE_LOGO }}" alt="{{ SITENAME }}"></a></h1>
-            <a class="large-5 medium-10 columns" href="{{ SITEURL }}/">
-                <h1>{{ SITENAME }}</h1> <h4>{{ SITESUBTITLE }}</h4>
-            </a>
-            <div class="large-6 medium-12 columns">
-                <p>We're a design studio focused on free and open source software, libre culture and critical engagement with design tools. Read more <a href="{{ SITEURL }}/about">about us</a>. Check our <a href="{{ SITEURL }}/category/work">portfolio</a> and <a href="{{ SITEURL }}/category/workshops">workshops</a>.</p>
-            </div>
+            <hgroup class="large-5 medium-10 columns">
+                <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+                <h5><a href="{{ SITEURL }}/">{{ SITESUBTITLE }}</a></h5>
+            </hgroup>
+            <p class="large-6 medium-12 columns"><small>We're a design studio focused on free and open source software, libre culture and critical engagement with design tools. Read more <a href="{{ SITEURL }}/about">about us</a>. Check our <a href="{{ SITEURL }}/category/work">portfolio</a> and <a href="{{ SITEURL }}/category/workshops">workshops</a>.</small>
+            </p>
         </header><!-- /#header -->
         
         {% block content %}

@@ -1,5 +1,15 @@
-{% extends "index.html" %}
-{% block content_title %}
-<h2>Articles in the {{ category }} category</h2>
+{% extends "base.html" %}
+{% block content %}
+<section id="content" class="list-page">
+    <div class="row collapse"><h2 class="columns large-12">{{ category }}</h2></div>
+    <ul class="list">    
+        {% for article in articles_page.object_list %}
+                <li><article class="hentry row collapse">
+                        <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+                        <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+                        <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->
+                </article></li>             
+        {% endfor %}
+    </ul><!-- /.list -->
+</section><!-- #content -->
 {% endblock %}
-

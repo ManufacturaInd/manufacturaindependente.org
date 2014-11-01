@@ -2,7 +2,7 @@ Title: Colorfont.js
 Summary: Multi-colored typography for the web
 Date: 2014-09-11 16:44
 Author: manufactura
-Category: Post
+Category: Work
 Tags: hacks, type
 Slug: colorfont-js
 
