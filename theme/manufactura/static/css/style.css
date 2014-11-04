@@ -204,7 +204,9 @@ pre
 }
     .article .entry-content h3 + p { margin-top: 0; }
 
-.article .entry-content h3 {
+.article .entry-content h2,
+.article .entry-content h3,
+.article .entry-content h4 {
     margin-top: 1.25rem;
     padding-bottom: 0.25em;
 }
