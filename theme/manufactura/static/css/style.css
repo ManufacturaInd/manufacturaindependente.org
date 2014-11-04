@@ -25,6 +25,10 @@ abbr[title] {
     cursor: default;
 }
 
+hr {
+    border-color: #c09a96;
+}
+
 
 /* Typography
 */
@@ -198,7 +202,6 @@ pre
     margin-bottom: 0;
     margin-top: 1.25rem;
 }
-
     .article .entry-content h3 + p { margin-top: 0; }
 
 .article .entry-content h3 {
@@ -239,13 +242,21 @@ pre
     margin-top: 1.25rem;
 }
 
+.entry-content iframe {
+    margin-top: 1em;
+}
+
 /* large-collapse */
 @media only screen and (min-width: 64.063em) {
     .large-collapse {
         padding: 0;
     }
     .large-collapse .columns {
+        padding: 0 1em 0 0;
+    }
+    .large-collapse .columns:last-child {
         padding: 0;
     }
+    
 } 
 

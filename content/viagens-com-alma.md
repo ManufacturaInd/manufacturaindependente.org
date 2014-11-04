@@ -7,7 +7,7 @@ Tags: print
 Slug: viagens-com-alma
 Lang: en
 
-[![8\_cluny-1-copy](http://media.manufacturaindependente.org/8_cluny-1-copy.png)](http://media.manufacturaindependente.org/8_cluny-1-copy.png)
+![Poster Viagens com Alma](http://media.manufacturaindependente.org/8_cluny-1-copy.png)
 
 We’ve been frequent collaborators of [Visões
 Úteis](http://visoesuteis.pt "Visões Úteis"), a theatre company based in

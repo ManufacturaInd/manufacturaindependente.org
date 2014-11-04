@@ -2,7 +2,6 @@ Title: OFLB: Putting it all together
 Summary: The Open Font Library redesign
 Date: 2011-11-14 18:18
 Author: manufactura
-Status: draft
 Category: Post
 Tags: oflb
 Slug: oflb-putting-it-all-together
@@ -21,7 +20,7 @@ post](http://blog.manufacturaindependente.org/2011/07/showing-the-fonts-in-actio
 is an example of one of these ideas. As we tested some approaches and
 received feedback, we settled on the visual direction for the project.
 Dave made the suggestion to log our progress in our blog, and so we did
--- here's the full list of posts:
+— here's the full list of posts:
 
 1.  [Showing the fonts in
     action](http://blog.manufacturaindependente.org/2011/07/showing-the-fonts-in-action)

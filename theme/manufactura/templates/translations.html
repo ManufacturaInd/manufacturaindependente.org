@@ -1,8 +1,8 @@
 {% macro translations_for(article) %}
 {% if article.translations %}
-Translations: 
+Lê este texto em
 {% for translation in article.translations %}
-<a href="{{ SITEURL }}/{{ translation.url }}">{{ translation.lang }}</a>
+<a href="{{ SITEURL }}/{{ translation.url }}"> português</a>
 {% endfor %}
 {% endif %}
 {% endmacro %}
