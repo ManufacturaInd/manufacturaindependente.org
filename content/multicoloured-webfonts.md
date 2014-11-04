@@ -109,4 +109,4 @@ try to get you going.
 What's the license?
 -------------------
 
-colorfont.js is available under the [WTFPL](http://sam.zoy.org/wtfpl/).
+Colorfont.js is available under the [WTFPL](http://sam.zoy.org/wtfpl/).

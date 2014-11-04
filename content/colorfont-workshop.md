@@ -1,5 +1,5 @@
 Title: Colorfonts
-Summary: Designing multicoloured typefaces at Constant Variable, Brussels
+Summary: Designing multicoloured typefaces at Constant Variable
 Date: 2014-09-11 16:44
 Author: manufactura
 Category: Workshops
