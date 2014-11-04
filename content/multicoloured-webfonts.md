@@ -34,7 +34,7 @@ cluttering the HTML; as it is, most of the action is taken care of with
 CSS and Javascript, without having to use "special" HTML tricks.
 
 In order to use this, you only need to specify the Javascript file in
-your HTML header. From there, any \<h1\> tag with the 'colorfont' class
+your HTML header. From there, any `<h1>` tag with the `colorfont` class
 will be styled with the overlay effect. It's also up to you to edit the
 CSS in order to make it work — be sure to check the CSS file we made as
 a starting point.
@@ -50,8 +50,8 @@ How is this done?
 The trick is done with Javascript, creating a second header right on top
 of the first one.
 
-The JS is pretty simple, looking for headings with the 'colorfont'
-attribute and appending another identical heading with the 'colorfont2'
+The JS is pretty simple, looking for headings with the `colorfont`
+attribute and appending another identical heading with the `colorfont2`
 attribute. In this way, this:
 
     <h1 class="colorfont">Hola mundo!</h1>
@@ -76,7 +76,7 @@ What's missing?
 ---------------
 
 There's a limitation of HTML that we ran into, which is that any extra
-text element *must* be explicitly declared in the DOM. This is a
+text element **must** be explicitly declared in the DOM. This is a
 semantics problem, since it litters the document with redundant data (in
 this case, an extra header) in order to achieve a visual effect.
 

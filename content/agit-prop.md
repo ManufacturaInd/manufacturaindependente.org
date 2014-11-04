@@ -11,4 +11,6 @@ We built a set of small scripts to automate certain tasks in our type design wor
 
 In this workshop, we introduced students to the command line and taught them how to use Transpacing to manipulate and generate font files.
 
-This workshop was hosted at the [École de Recherche Graphique](http://www.erg.be), in Brussels, in February 2014, as part of the Toolbending class.
+This workshop was hosted at the [École de Recherche Graphique](http://www.erg.be), in Brussels, in February 2014, as part of [Femke Snelting's](http://snelting.domainepublic.net/) Toolbending class.
+
+![Transpacing](http://media.manufacturaindependente.org/transpacing.png)
