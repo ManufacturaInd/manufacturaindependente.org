@@ -1,5 +1,5 @@
 Title: AgitProp
-Summary: Fonts & the command line, workshop at ERG, Brussels
+Summary: Hacking monospaced fonts at ERG, Brussels
 Date: 2014-09-11 16:44
 Author: manufactura
 Category: Workshops

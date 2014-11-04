@@ -1,5 +1,5 @@
 Title: Colorfont Workshop at LGM 2012
-Summary: Designing multi-coloured typefaces at LGM
+Summary: Designing multi-coloured typefaces at LGM, Vienna
 Date: 2012-06-28 11:32
 Author: manufactura
 Category: Workshops

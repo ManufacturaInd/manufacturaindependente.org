@@ -10,9 +10,9 @@ Lang: en
 <small>This article was originally published in [Cuaderno
 Medialab](http://www.eldiario.es/cuadernomedialab/piedra-nave-Diseno-colaborativo-tipografia_6_52554764.html)</small>
 
-[![](http://media.manufacturaindependente.org/IMG_3107-200x300.png "Serrería Belga, Madrid")](http://media.manufacturaindependente.org/IMG_3107.png)
+![Serrería Belga, Madrid](http://media.manufacturaindependente.org/IMG_3107-200x300.png)
 
-The future home of Medialab-Prado, Serrería Belga (Belgian Saw Mill),
+The future home of [Medialab-Prado](http://medialab-prado.es/), Serrería Belga (Belgian Saw Mill),
 has its facades decorated with beautiful typography. Taking on the
 challenge set by Medialab-Prado to liberate these letters from their
 stone prison and release them to the world, we hosted a three day

@@ -33,17 +33,13 @@
 	{% endif %}
   </footer><!-- /.post-info -->
   <div class="entry-content row large-collapse">
-    <div class="large-2 medium-3 columns">
-        <p class="post-meta">
-            {% for tag in article.tags %}
-                <a class="post-category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
-            {% endfor %}
-        </p>
-        {% import 'translations.html' as translations with context %}
-        <small>{{ translations.translations_for(article) }}</small>
-    </div>
     <div class="large-8 medium-9 columns large-centered">
         {{ article.content }}
+        
+        <hr>
+        
+        {% import 'translations.html' as translations with context %}
+        <small>{{ translations.translations_for(article) }}</small>
     </div>
   </div><!-- /.entry-content -->
 </section>
