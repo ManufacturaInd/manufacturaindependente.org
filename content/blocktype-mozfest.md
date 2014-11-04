@@ -88,15 +88,17 @@ in our work. That said, it will sound strange that we'd use Minecraft, a
 proprietary game, as part of our practice. In short: we tried, and now we
 realise it was a mistake.
 
-We have been big fans of Minecraft since ginger showed us why it was a
+We have been big fans of Minecraft since [ginger](http://adaptstudio.ca) showed us why it was a
 fantastic game, a couple of years ago. And while our values have always put us
 on the side of free software, Minecraft was the one exception we were willing
 to make: even though it's proprietary, their friendly product policy (pay 20€
 for the license, never pay again for upgrades or other add-ons) made us and
 other free software activists give it a pass and embrace it.
 
-However, the recent acquisition of Mojang by Microsoft, an entity which has a
-terrible track record of preserving openness and privacy, made it clear to us
+However, the recent
+[acquisition](https://mojang.com/2014/09/yes-were-being-bought-by-microsoft/)
+of Mojang by Microsoft, an entity which has a terrible track record of
+preserving openness and privacy, made it clear to us
 that we had to reconsider our stance towards Minecraft and its role in our
 work. While it is a brilliant framework to cook up design experiments (as our
 workshop showed,) the Microsoft connection makes its proprietary nature stand
@@ -117,23 +119,24 @@ So Blocktype will probably be the one software library that we made which we
 will not release.
 
 While we feel burned, we have to admit that our judgment in adopting a
-proprietary product was wrong, and it's yet another episode where Richard
-Stallman is proven right: respect for users' freedom can only be assured by the
-use of free software. In hindsight, it feels very naive to have believed that
-Minecraft and Mojang could be "different", but the outcome is again the same as
-previous cases: proprietary software is inevitably led towards goals that
-undermine users' agency, privacy and control. Microsoft has made its business
-practice clear by siding with surveillance, mining users' data and adopting
-extorsion tactics in markets where it has power. We will not support the
-products of such an entity.
+proprietary product was wrong, and it's yet another episode where [Richard
+Stallman is proven right](https://www.gnu.org/philosophy/why-free.html):
+respect for users' freedom can only be assured by the use of free software. In
+hindsight, it feels very naive to have believed that Minecraft and Mojang could
+be "different", but the outcome is again the same as previous cases:
+proprietary software is inevitably led towards goals that undermine users'
+agency, privacy and control. Microsoft has made its business practice clear by
+siding with surveillance, mining users' data and adopting extorsion tactics in
+markets where it has power. We will not support the products of such an entity.
 
 We are now about to consider our options. We certainly don't mean to throw all
 the work behind Blocktype away, and plan to look at possible alternatives. The
-two most interesting ones are Minetest and Voxel.js. If you can help us adapt
-our Python scripts to these frameworks, we'd be more than happy to work
-together in order to release what we think is a really useful tool: a library
-that allows you to draw pixel fonts in a 3D world, something that we've just
-found is incredibly fun, productive and encouraging.
+two most interesting ones are [Minetest](http://minetest.net) and
+[Voxel.js](http://voxeljs.com). If you can help us adapt our Python scripts to
+these frameworks, we'd be more than happy to work together in order to release
+what we think is a really useful tool: a library that allows you to draw pixel
+fonts in a 3D world, something that we've just found is incredibly fun,
+productive and encouraging.
 
 
 Credits
