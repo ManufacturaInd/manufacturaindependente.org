@@ -16,9 +16,9 @@ and at the same time you need a good way to spot details and see how the
 font actually looks like. We’ve started trying this out doing Inkscape
 mock pages.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-word-150x150.png "catalogue-word")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-word.png)
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-sentence1-150x150.png "catalogue-sentence")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-sentence1.png)
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-paragraph-150x150.png "catalogue-paragraph")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/catalogue-paragraph.png)
+[![](http://media.manufacturaindependente.org/catalogue-word-150x150.png "catalogue-word")](http://media.manufacturaindependente.org/catalogue-word.png)
+[![](http://media.manufacturaindependente.org/catalogue-sentence1-150x150.png "catalogue-sentence")](http://media.manufacturaindependente.org/catalogue-sentence1.png)
+[![](http://media.manufacturaindependente.org/catalogue-paragraph-150x150.png "catalogue-paragraph")](http://media.manufacturaindependente.org/catalogue-paragraph.png)
 
 So in this case, we followed the structure used by Google Web Fonts,
 which gives the user choice in how to display the fonts. You can opt for

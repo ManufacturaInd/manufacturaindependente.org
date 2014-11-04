@@ -11,7 +11,7 @@ While making the first mockups for the OFLB site redesign, we
 quickly whipped up a navigation header, including a tentative logo
 proposal.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png "main-menu00")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png)
+[![](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
 
 Not long after we published this, we got some wonderful feedback on the
 [OFLB mailing

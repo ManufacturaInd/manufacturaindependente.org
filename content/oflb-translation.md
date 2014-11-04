@@ -15,7 +15,7 @@ Since this will be a completely new page we came up with a first mockup
 for its interface. It can be seen
 [here](http://manufacturaindependente.com/oflb/20110725-translation/).
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/translation-300x171.png "translation")](http://manufacturaindependente.com/oflb/20110725-translation/)
+[![](http://media.manufacturaindependente.org/translation-300x171.png "translation")](http://manufacturaindependente.com/oflb/20110725-translation/)
 
 We decided to go for a single column page. This has the advantage of:
 

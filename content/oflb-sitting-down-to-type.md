@@ -23,5 +23,5 @@ or less obscure parts of type terminology.
 We are still working on a local installation of MediaWiki, and our next
 task will be to place it online as we work on it.
 
-[![glossario.png](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/glossario.png "glossario.png")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/glossario.png)
+[![glossario.png](http://media.manufacturaindependente.org/glossario.png "glossario.png")](http://media.manufacturaindependente.org/glossario.png)
 

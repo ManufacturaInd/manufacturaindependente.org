@@ -7,7 +7,7 @@ Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/02/Screenshot-300x111.png "Screenshot")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/02/Screenshot.png)
+[![](http://media.manufacturaindependente.org/Screenshot-300x111.png "Screenshot")](http://media.manufacturaindependente.org/Screenshot.png)
 
 We made a little hack in a couple of days after a poke by [Dave
 Crossland](http://understandingfonts.com/), who asked how hard it would

@@ -7,7 +7,8 @@ Tags: hacks, lgru
 Slug: implied-spacing
 Lang: en
 
-![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/02/salt-post.png "Love like Salt with Implied Spacing")
+![](http://media.manufacturaindependente.org/post_implied-spacing.png "Love like Salt with Implied Spacing")
+
 Working with the
 [Scribus](http://www.scribus.net/canvas/Scribus "Scribus") API we wrote
 a script for something we named Implied Spacing.
@@ -88,5 +89,5 @@ It's quite short so here it is:
     spaceindexes.reverse() 
     for i in spaceindexes:
         selectText(i, 1, textbox_name)
-        deleteText() 
+        deleteText()
 

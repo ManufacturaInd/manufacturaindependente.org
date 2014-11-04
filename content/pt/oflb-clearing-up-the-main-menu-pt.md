@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: pt
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png "main-menu00")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png)
+[![](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
 
 Na última sexta estivemos a fazer esboços para o menu principal da Open
 Font Library (OFLB). Começamos a compor os vários elementos com base no
@@ -21,11 +21,11 @@ descritivo, como o do esboço acima; ou um menu mais compacto, apenas com
 um nível de links. Além desta possibilidades de composição queremos
 contemplar:
 
--   flexibilidade -- assegurar que o menu será capaz de comportar novas
+-   flexibilidade — assegurar que o menu será capaz de comportar novas
     secções que surjam.
--   usabilidade -- entre outras coisas, queremos ter a caixa de pesquisa
+-   usabilidade — entre outras coisas, queremos ter a caixa de pesquisa
     sempre visível e arranjar forma de incorporar o formulário de login.
--   hierarquia -- queremos que o menu seja o mais claro possível para o
+-   hierarquia — queremos que o menu seja o mais claro possível para o
     utilizador.
 
 A proposta de menu da imagem acima torna a organização do site evidente

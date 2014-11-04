@@ -51,7 +51,7 @@ mini site for this project
 ### Libre Graphics Meeting 2014
 
 [![LGM 2014: Creative
-Suites](http://blog.manufacturaindependente.org/wp-content/uploads/2014/09/13699945683_94718bfe6a_k-1024x682.jpg)](http://blog.manufacturaindependente.org/wp-content/uploads/2014/09/13699945683_94718bfe6a_k.jpg)
+Suites](http://media.manufacturaindependente.org/13699945683_94718bfe6a_k-1024x682.jpg)](http://media.manufacturaindependente.org/13699945683_94718bfe6a_k.jpg)
 
 In May we were at the [Libre Graphics Meeting
 2014](http://libregraphicsmeeting.org/2014) in Leipzig. Our talk, titled

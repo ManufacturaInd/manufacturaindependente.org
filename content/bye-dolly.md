@@ -51,7 +51,7 @@ This search also took me to the plug-in discussion pages on the
 Wordpress site. It's fun to see that most comments ask why such a
 useless plug-in is included in the Wordpress base install, as something
 that has no meaning or use. Only one user made a feature request --
-having a different song for each user -- and asked for help to make it
+having a different song for each user — and asked for help to make it
 happen.
 
 [Here](http://manufacturaindependente.com/hello-libregraphics.zip) is

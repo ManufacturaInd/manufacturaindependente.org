@@ -16,7 +16,7 @@ also try and blog our work process.
 As a result of our first impressions of the current website and other
 existing type websites, we came up with a few ideas to work on.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/univers-else-300x159.png "univers-else")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/univers-else.png)
+[![](http://media.manufacturaindependente.org/univers-else-300x159.png "univers-else")](http://media.manufacturaindependente.org/univers-else.png)
 
 One of the things that we noted down was the big difference between
 printed type catalogues and online catalogues. The first taste of type

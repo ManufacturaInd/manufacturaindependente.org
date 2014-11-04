@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png "main-menu00")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/main-menu00.png)
+[![](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
 
 Last friday we did some sketches for the OFLB main menu. We started
 laying it out based on our
@@ -21,11 +21,11 @@ menu, as the one in the image; or a more compact one, with only one
 level of links.  
 Besides that we're considering:
 
--   flexibility -- how will the menu accommodate new sections that need
+-   flexibility — how will the menu accommodate new sections that need
     to be added later.
--   usability -- we want to have the search box always ready to use and
+-   usability — we want to have the search box always ready to use and
     find a way to incorporate the login form.
--   hierarchy -- we want to make the menu as clear as possible.
+-   hierarchy — we want to make the menu as clear as possible.
 
 A composition as the one in the sketch makes it clearer the website's
 organization for users. On the other hand it poses somes questions on

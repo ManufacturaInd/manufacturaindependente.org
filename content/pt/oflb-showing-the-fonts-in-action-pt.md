@@ -15,7 +15,7 @@ Crossland, vamos escrevendo aqui, à medida que avançamos no trabalho.
 O resultado da análise deste e de outros sites de tipografia deu-nos as
 primeiras ideias para arrancar.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/univers-else-300x159.png "univers-else")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/univers-else.png)
+[![](http://media.manufacturaindependente.org/univers-else-300x159.png "univers-else")](http://media.manufacturaindependente.org/univers-else.png)
 
 Uma das coisas que notámos foi a enorme diferença na forma como as
 fontes são apresentadas entre catálogos impressos e repositórios online.

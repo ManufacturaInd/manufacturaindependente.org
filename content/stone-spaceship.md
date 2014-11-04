@@ -10,7 +10,7 @@ Lang: en
 <small>This article was originally published in [Cuaderno
 Medialab](http://www.eldiario.es/cuadernomedialab/piedra-nave-Diseno-colaborativo-tipografia_6_52554764.html)</small>
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/IMG_3107-200x300.png "Serrería Belga, Madrid")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/IMG_3107.png)
+[![](http://media.manufacturaindependente.org/IMG_3107-200x300.png "Serrería Belga, Madrid")](http://media.manufacturaindependente.org/IMG_3107.png)
 
 The future home of Medialab-Prado, Serrería Belga (Belgian Saw Mill),
 has its facades decorated with beautiful typography. Taking on the
@@ -40,8 +40,8 @@ compositions it is possible to identify different representations or
 variations over the same character. Still there are some principles
 behind the letter drawings that made it consistent in the overall.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/170-end_day_one-300x168.jpg "170-end_day_one")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/170-end_day_one.jpg)
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/180-end_day_one-300x168.jpg "180-end_day_one")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/180-end_day_one.jpg)
+[![](http://media.manufacturaindependente.org/170-end_day_one-300x168.jpg "170-end_day_one")](http://media.manufacturaindependente.org/170-end_day_one.jpg)
+[![](http://media.manufacturaindependente.org/180-end_day_one-300x168.jpg "180-end_day_one")](http://media.manufacturaindependente.org/180-end_day_one.jpg)
 
 The fact that the letterings were so rich and had so many shape
 variations made it the perfect stage for the work taking place. It
@@ -64,7 +64,7 @@ rules that were set by the first drawing that was selected. Again, we
 all picked a satisfactory proposal among all of them, and the identity
 of the typeface was then set.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/020-sketching.jpg "020-sketching")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/020-sketching.jpg)
+[![](http://media.manufacturaindependente.org/020-sketching.jpg "020-sketching")](http://media.manufacturaindependente.org/020-sketching.jpg)
 
 Now, the focus shifted from proposing alternative design directions to
 working together in order to draw all the characters based on the
@@ -91,7 +91,7 @@ scan them. They served to understand the letter’s structure but were
 filled with inconsistencies we didn't want to reproduce in the digital
 drawing.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/150-manual_version_control.jpg "150-manual_version_control")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/150-manual_version_control.jpg)
+[![](http://media.manufacturaindependente.org/150-manual_version_control.jpg "150-manual_version_control")](http://media.manufacturaindependente.org/150-manual_version_control.jpg)
 
 In regular intervals we would print the letters and get together to
 discuss them. Participants would propose changes, alternatives and
@@ -124,7 +124,7 @@ and we all clicked the upload button together. From there anyone was
 free to pick up the work, building upon it or take it in a different
 direction.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/330_poster.png "330_poster")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/11/330_poster.png)
+[![](http://media.manufacturaindependente.org/330_poster.png "330_poster")](http://media.manufacturaindependente.org/330_poster.png)
 
 The two fonts created were named Serreria, after the building that
 inspired them. Serrería Sobria was based in the most conservative letter

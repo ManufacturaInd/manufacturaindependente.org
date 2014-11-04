@@ -13,9 +13,9 @@ Most of the stuff is familiar, with some different applications showing
 up in place of the usual Ubuntu/Debian ones. One such case is the Fedora
 package manager, **yum**, which is used instead of **apt**.
 
-Migrating from apt to yum is a smooth process -- we were easily
+Migrating from apt to yum is a smooth process — we were easily
 installing and reviewing packages after a couple of minutes. However, we
-were wondering if there was any equivalent to Ubuntu PPA’s -- a way to
+were wondering if there was any equivalent to Ubuntu PPA’s — a way to
 host custom repositories where the most cutting-edge software versions
 live.
 
@@ -42,7 +42,7 @@ vary.
 
 - **Gimp 2.7 series** ([repo
 file](http://repos.fedorapeople.org/repos/luya/gimp/fedora-gimp.repo))
-This one gave us a little trouble -- we replaced `$basearch` for `i386`
+This one gave us a little trouble — we replaced `$basearch` for `i386`
 inside the file, and all was good.  
 - **Scribus 1.4.0 series** ([repo
 file](http://download.opensuse.org/repositories/home:/mrdocs/Fedora_15/home:mrdocs.repo))  
@@ -52,7 +52,7 @@ file](http://download.opensuse.org/repositories/home:/ketheriel:/gpick/Fedora_15
 file](http://www.if-not-true-then-false.com/2010/install-google-chrome-with-yum-on-fedora-red-hat-rhel/))
 
 Once you have downloaded all the files, move them to `/etc/yum.repos.d`,
-and feel free to rename them -- we named ours `gimp.repo`,
+and feel free to rename them — we named ours `gimp.repo`,
 `scribus.repo`, etc. for clarity.
 
 All that’s left is playing around with yum install now.

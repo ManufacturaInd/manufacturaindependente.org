@@ -5,7 +5,7 @@ Category: Post
 Slug: libre-graphics-meeting-2011
 Lang: pt
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/lgm2011-210x300.jpg "lgm2011")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/lgm2011.jpg)
+[![](http://media.manufacturaindependente.org/lgm2011-210x300.jpg "lgm2011")](http://media.manufacturaindependente.org/lgm2011.jpg)
 
 A Libre Graphics Meeting é uma conferência anual, organizada pela
 comunidade, que tem como propósito juntar programadores e utilizadores

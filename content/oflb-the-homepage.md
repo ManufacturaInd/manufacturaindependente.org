@@ -7,9 +7,9 @@ Tags: oflb
 Slug: oflb-the-homepage
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-white-bg.png)
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-transparent-bg.png)
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-no-bg-150x150.png "homepageofbl-no-bg")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/homepageofbl-no-bg.png)
+[![](http://media.manufacturaindependente.org/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://media.manufacturaindependente.org/homepageofbl-white-bg.png)
+[![](http://media.manufacturaindependente.org/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://media.manufacturaindependente.org/homepageofbl-transparent-bg.png)
+[![](http://media.manufacturaindependente.org/homepageofbl-no-bg-150x150.png "homepageofbl-no-bg")](http://media.manufacturaindependente.org/homepageofbl-no-bg.png)
 
 We started to work on the OFLB by redesigning its homepage. This would
 allow us to set the mood for the website and define structural elements
@@ -33,27 +33,15 @@ the fonts.
 In the screenshots it is also visible the composition changes we did
 regarding the previous mockup:
 
-<ul>
-<li>
-Featured fonts: this section is now a slideshow, displaying each font at
-a time; and it is using the full content width.
+-   Featured fonts: this section is now a slideshow, displaying each font at
+    a time; and it is using the full content width.
 
-</li>
-<li>
-The 'Text preview' box is now in the same column has the font list (a
-suggestion by
-[Dave](http://blog.manufacturaindependente.org/2011/07/oflb-bringing-the-layout-to-life/)).
+-   The 'Text preview' box is now in the same column has the font list (a
+    suggestion by
+    [Dave](http://blog.manufacturaindependente.org/2011/07/oflb-bringing-the-layout-to-life/)).
 
-</li>
-<li>
-Main content area: we're still not sure if we're using an opaque
-background colour or no background colour at all.
+-   Main content area: we're still not sure if we're using an opaque
+    background colour or no background colour at all.
 
-<li>
-The footer has now more information even though it is part of the work
-in progress.
-
-</li>
-<ul>
-</p>
-
+-   The footer has now more information even though it is part of the work
+    in progress.

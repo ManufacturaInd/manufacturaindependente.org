@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-bringing-the-layout-to-life
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png "sidebar")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png)
+[![](http://media.manufacturaindependente.org/sidebar.png "sidebar")](http://media.manufacturaindependente.org/sidebar.png)
 
 After sketching up the layout for the new homepage we moved to coding.  
 We wanted to see if it would work on screen or if we would need to

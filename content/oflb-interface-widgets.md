@@ -25,8 +25,8 @@ For the slider, we went with [JQuery UI](http://jqueryui.com)'s stock
 slider, which is more than enough for our purposes.
 
 After hooking up a couple of callbacks, our interface for HTML
-font-preview is already working -- now, on to finish the styling and
+font-preview is already working — now, on to finish the styling and
 placement of the widget elements.
 
-[![Screenshot-5.png](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-5.png "Screenshot-5.png")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-5.png)
+[![Screenshot-5.png](http://media.manufacturaindependente.org/Screenshot-5.png "Screenshot-5.png")](http://media.manufacturaindependente.org/Screenshot-5.png)
 

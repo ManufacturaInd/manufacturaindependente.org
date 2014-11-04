@@ -2,10 +2,6 @@ body {
   line-height: 1;
 }
 
-ol, ul {
-  list-style: none;
-}
-
 blockquote, q {
   quotes: none;
 }
@@ -35,17 +31,27 @@ abbr[title] {
 
 @font-face {
   font-family: 'Roboto Light';
-  src: local('Roboto Light'), url('/fonts/Roboto/Roboto-Light.ttf') format('truetype');
+  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Roboto Regular';
-  src: local('Roboto Regular'), url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Roboto Bold';
-  src: local('Roboto Bold'), url('/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Italic';
+  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Fantasque Mono';
+  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
 }
 
 body {
@@ -68,25 +74,36 @@ h1, h2, h3, h4, h5, h6,
 	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
 }
 
+em {
+	font-family: 'Roboto Italic';
+	font-style: normal;
+}
+
 strong,
 #header h1,
 .entry-content .post-meta {
-  font-family: 'Roboto Bold';
-	font-weight: normal;
+    font-family: 'Roboto Bold';
+    font-weight: normal;
+}
+
+pre, code {
+	font-family: 'Fantasque Mono', monospace;
 }
 
 small {
     font-size: 80%;
 }
 
+pre 
+
 /* Layout
 */
 
-.row.collapse > .columns {
+.row.large-collapse > .columns {
     padding-right: 0.9375em;
 }
 
-.row.collapse > .columns:last-child {
+.row.large-collapse > .columns:last-child {
     padding-right: 0;
 }
 
@@ -95,30 +112,41 @@ small {
     margin-bottom: 1em;
 }
 
-#content ul {
+#content {
+    margin-bottom: 2em;
+}
+
+.list-page ul {
     margin-left: 0;
+    list-style: none;
+    margin-bottom: 2em;
 }
 
 #content ul li .hentry {
     border-bottom: 1px solid #47505e;
+    padding: 0.25em 0;
 }
 
 #content ul li .hentry p {
     margin-bottom: 0;
+    line-height: 1.2;
 }
 
-#content h3 {
+.list-page #content h3 {
     padding-top: 0.25em;
     padding-bottom: 0.25em;
-}
-
-#content ul {
-    margin-bottom: 2em;
 }
 
 .page h1.entry-title {
     border-bottom: 1px solid #47505e;
 }
+
+#header p a,
+.article .entry-content a,
+.page .entry-content a { border-bottom: 2px solid #fff; }
+    
+    #header p:first-child a { border-bottom: 0; }
+
 
 /* Homepage
 */
@@ -140,6 +168,7 @@ small {
 
 .list-page .entry-title {
     font-size: 1em;
+    margin-bottom: 0;
 }
 
 .list-page .entry-date abbr {
@@ -156,15 +185,31 @@ small {
     font-size: 4em;
     line-height: 1;
     margin-bottom: 0;
-    padding-bottom: 0.25em;
+    padding-bottom: 0.5em;
     border-bottom: 1px solid #3e4652;
 }
 
-.other .entry-content p {
-    margin-top: 1em;
+.article .entry-title > a,
+.page .entry-title > a {
+    display: block;
+    padding-bottom: 0.5em;
+}
+.article .entry-content p {
+    margin-bottom: 0;
+    margin-top: 1.25rem;
 }
 
-    .other .entry-content p:first-child { margin-top: 0; }
+    .article .entry-content h3 + p { margin-top: 0; }
+
+.article .entry-content h3 {
+    margin-top: 1.25rem;
+    padding-bottom: 0.25em;
+}
+
+.article .entry-content > h3 {
+    margin-top: 0.25em;
+    padding-bottom: 0.25em;
+}
 
 .post-info { /* Date */
     border-bottom: 1px solid #3e4652;
@@ -185,6 +230,13 @@ small {
 
 .entry-content .post-meta {
     font-size: 80%;
+}
+
+#content pre {
+    font-size: 0.875em;
+    background-color: #f5f2ee;
+    padding: 1em;
+    margin-top: 1.25rem;
 }
 
 /* large-collapse */

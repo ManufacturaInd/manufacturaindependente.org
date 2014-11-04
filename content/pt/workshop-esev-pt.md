@@ -14,19 +14,19 @@ No campo do design, as ferramentas livres são quase sempre desvalorizadas e apo
 
 Continuámos a apresentação com uma mostra de trabalhos de design feitos com software livre. Entre os exemplos que levámos estava o catálogo e identidade da exposição Suturas & Fragmentos pelos [OSP](http://ospublish.constantvzw.org), um colectivo de design belga ou o livro [FLOSS+Art](http://people.makeart.goto10.org), um conjunto de ensaios teóricos sobre o papel das metodologias livres na criação e reflexão estética.
 
-![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/06/osp-suturas-y-fragmentos.png "Suturas y Fragmentos, Open Source Publishing")
+![](http://media.manufacturaindependente.org/osp-suturas-y-fragmentos.png "Suturas y Fragmentos, Open Source Publishing")
 
 Esta introdução serviu para falar sobre a importância das nossas escolhas em termos de ferramentas, e também para acabar com a ideia de que não é possível realizar um trabalho de design com software livre, seja ele um cartaz, um livro, ou outro, do esboço inicial ao ficheiro final de impressão que segue para a gráfica.
 
 Antes da pausa do almoço, fizemos a introdução da proposta de trabalho que iria ocupar a tarde: a paginação de um texto escolhido de uma seleção nossa de 15 textos sobre cultura livre (todos eles com licenças permissivas), num formato de pequeno livro. O objectivo era acabar o dia com uma coleção que intitulámos de Livros Livres. Como introdução ao programa de paginação [Scribus](http://www.scribus.net/canvas/Scribus), criámos em conjunto o nosso documento. Mostrámos como definir as dimensões da página, margens, mancha da caixa de texto e grelha. Saímos para o almoço com a base do documento em que iríamos trabalhar à tarde já criada e com a capa em mente.
 
-![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/06/esquema-livro-300x221.png "Esquema do livro")
+![](http://media.manufacturaindependente.org/esquema-livro-300x221.png "Esquema do livro")
 
 À tarde voltámos à carga no Scribus e definimos estilos para texto e parágrafos, *master pages* e numeração automática. A meia hora seguinte foi usada para terminar a paginação do texto. No quadro desenhámos um esquema com a ordem de páginas à qual o livro deveria obedecer.
 
 Com o mote da capa fizemos a introdução ao [Inkscape](http://inkscape.org), um programa para desenho vectorial. Uma vez que toda a gente tinha já familiaridade com o uso de programa para desenho vectorial optamos por fazer uma demonstração das nossas ferramentas preferidas e que tornam este um programa único. Primeiro as coisas mais simples, como os gradientes de cor para transparente, que podem ser aplicados a formas e a linhas. Depois as curvas Spiro, um tipo de curva diferente da bézier, que permite criar formas sinuosas muito facilmente. De seguida mostramos os Tiled Clones, uma ferramenta que serve para criar padrões a partir de uma forma ou um grupo de formas, e que permite, entre outras coisas, usar uma forma para preencher uma imagem bitmap (ver imagem). Tínhamos ainda uma lista extensa de ferramentas mas achamos que estas quatro seriam uma boa introdução que, deixaria ainda espaço para explorar o programa enquanto a capa era desenhada.
 
-![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/06/capa-livros-livres-212x300.png "Capa para o texto Anarchism Triumphant, de Eben Moglen, feita durante o Workshop")
+![](http://media.manufacturaindependente.org/capa-livros-livres-212x300.png "Capa para o texto Anarchism Triumphant, de Eben Moglen, feita durante o Workshop")
 
 Acabado o tempo para a fazer a capa mostramos como exportar a imagem (para formato pdf ou bitmap). E. mesmo quase a chegar ao final do workshop, deixamos uns minutos para abrir o [FontForge](http://fontforge.sourceforge.net) e editar uma das fontes livre que estávamos a usar na nossa paginação (para o nosso exemplo usamos a [Cantarell](http://abattis.org/cantarell)). Modificámos um caráter e exportamos a fonte como novo nome. Feito isto voltamos ao Scribus, importámos a capa desenhada no Inkscape e substituímos a fonte no nosso estilo pela fonte que tínhamos acabado de criar. Por fim, seguimos mais uma vez em conjunto, a passo e passo, o diálogo de exportação do documento Scribus para pdf.
 

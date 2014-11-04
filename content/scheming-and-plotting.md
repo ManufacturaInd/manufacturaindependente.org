@@ -38,7 +38,7 @@ but no way to operate it.
 Working with Diogo, we looked into
 [Chiplotle](http://music.columbia.edu/cmc/chiplotle/ "Chiplotle"), a
 Python library which takes care of the communication between computer
-and plotter. All one needs is a way to generate HPGL files -- HPGL is a
+and plotter. All one needs is a way to generate HPGL files — HPGL is a
 specific graphics description language for plotting, a kind of
 mini-Postscript. And once more, free software shines:
 [Inkscape](http://inkscape.org) is able to save in HPGL format! So we
@@ -63,7 +63,7 @@ rewired. So we broke it open and, armed with the
 provided in the wonderful Chiplotle web site, we all got out the
 soldering iron and breadboard, hoping that the rewiring would work.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02151.jpg)
+[![](http://media.manufacturaindependente.org/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")](http://media.manufacturaindependente.org/DSC02151.jpg)
 
 By the end of the day, once we tried our new serial adapter, still no
 practical results. However, whenever we tried to send instructions to
@@ -85,11 +85,11 @@ Independente](http://vimeo.com/user6367848) on
 
 Diogo had the brilliant idea to hook an LED on the print head...
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02165-1024x768.jpg "DSC02165")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02165.jpg)
+[![](http://media.manufacturaindependente.org/DSC02165-1024x768.jpg "DSC02165")](http://media.manufacturaindependente.org/DSC02165.jpg)
 
 ...and try some long exposure photography:
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02171-1024x768.jpg "DSC02171")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/03/DSC02171.jpg)
+[![](http://media.manufacturaindependente.org/DSC02171-1024x768.jpg "DSC02171")](http://media.manufacturaindependente.org/DSC02171.jpg)
 
 Exciting times ahead with this new toy!
 

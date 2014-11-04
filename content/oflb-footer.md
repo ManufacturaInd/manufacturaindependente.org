@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-the-footer
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
+[![](http://media.manufacturaindependente.org/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
 
 The footer has been subject to several changes as the redesign and
 layout for the OFLB website evolved.
@@ -21,7 +21,7 @@ suggested.
 We tried to make the hierarchy of elements as clear as possible:
 
 -   at the top, the Open Font Library logotype and copyright notice;
--   followed by the menu -- we mashed together the website’s main menu
+-   followed by the menu — we mashed together the website’s main menu
     and the auxiliary menu (terms of service, bug reports, feature
     request);
 -   the patron’s list;

@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: pt
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163-1024x613.jpg "IMAG0163")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163.jpg)
+[![](http://media.manufacturaindependente.org/IMAG0163-1024x613.jpg "IMAG0163")](http://media.manufacturaindependente.org/IMAG0163.jpg)
 
 Esta semana temos estado (e vamos estar) ocupados com a primeira fase do
 trabalho de preparação da versão 0.3 da Open Font Library. Fizemos
@@ -24,7 +24,7 @@ design. Por exemplo, num momento estávamos a discutir pormenores
 internos acerca da estrutura de tradução da OFLB, para que o website
 possa ser facilmente traduzido para outras línguas. Para que uma nova
 funcionalidade seja efectivamente funcional, ela vai precisar de um
-interface claro e acessível -- é aí que entra o design. Um bom arranjo
+interface claro e acessível — é aí que entra o design. Um bom arranjo
 gráfico pode amplificar uma determinada funcionalidade; ao mesmo tempo,
 um interface trapalhão pode pôr em causa todo o esforço investido na
 concepção de uma nova funcionalidade técnica.
@@ -40,6 +40,6 @@ fonte pode ter. Ainda estamos a experimentar com cores e formas; no
 momento em que estivermos satisfeitos com um estilo visual, vamos
 adaptar os ícones para que possam funcionar em tamanhos pequenos.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/flag-icons1.png "flag-icons")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/flag-icons1.png)
+[![](http://media.manufacturaindependente.org/flag-icons1.png "flag-icons")](http://media.manufacturaindependente.org/flag-icons1.png)
 
 

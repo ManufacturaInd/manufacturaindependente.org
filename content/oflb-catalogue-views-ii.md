@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-catalogue-views-ii
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/Screenshot-1-293x300.png "Catalogue -- Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
+[![](http://media.manufacturaindependente.org/Screenshot-1-293x300.png "Catalogue — Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
 
 Following our [layout
 ideas](http://blog.manufacturaindependente.org/2011/07/oflb-catalogue-views/)
@@ -33,7 +33,7 @@ larger than needed.
 The main menu has also evolved:
 
 -   the logo lost its beige box;
--   it was added a style for the active menu section -- in this example,
+-   it was added a style for the active menu section — in this example,
     Catalogue;
 -   and the ‘Sign in’ got moved to the right, since it is not a section
     of the website.

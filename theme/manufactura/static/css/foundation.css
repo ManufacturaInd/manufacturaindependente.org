@@ -2861,7 +2861,7 @@ a {
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: #d5c1a8; }
+    color: #fff; /*#d5c1a8*/ }
   a img {
     border: none; }
 

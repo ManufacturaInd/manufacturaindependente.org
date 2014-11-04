@@ -101,7 +101,7 @@ in popularity, we should be careful about what to focus on in our
 efforts to provide meaningful information.
 
 [caption id="attachment\_241" align="alignnone"
-width="640"][![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/07/bad-info-1024x601.jpg "Bad infographic")](http://blog.manufacturaindependente.org/wp-content/uploads/2012/07/bad-info.jpg)
+width="640"][![](http://media.manufacturaindependente.org/bad-info-1024x601.jpg "Bad infographic")](http://media.manufacturaindependente.org/bad-info.jpg)
 Graphically pretty, but hard to read (hat-tip: [Erick
 Schonfeld](http://erickschonfeld.com/2012/06/28/infographics-broken/))[/caption]
 

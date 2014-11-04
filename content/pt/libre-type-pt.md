@@ -5,7 +5,7 @@ Category: Post
 Slug: awesome-libre-typography
 Lang: pt
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2012/05/DSC_0019-1024x768.jpg "LGM, grafitti em Campanhã (Porto, Portugal)")
+[![](http://media.manufacturaindependente.org/DSC_0019-1024x768.jpg "LGM, grafitti em Campanhã (Porto, Portugal)")
 
 <small>Foto de [Luís
 Camanho](http://itsagoodlifeifyoudontweaken.tumblr.com)</small>

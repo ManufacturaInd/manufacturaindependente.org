@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-bringing-the-layout-to-life
 Lang: pt
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png "sidebar")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/sidebar.png)
+[![](http://media.manufacturaindependente.org/sidebar.png "sidebar")](http://media.manufacturaindependente.org/sidebar.png)
 
 Depois dos esboços em papel da página inicial passamos ao código.
 Queríamos testar a página no ecrã para ver se a composição resultava ou

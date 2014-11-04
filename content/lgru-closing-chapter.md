@@ -7,7 +7,7 @@ Tags: floss, lgru
 Slug: libre-graphics-research-unit-closing-chapter
 Lang: en
 
-![](http://blog.manufacturaindependente.org/wp-content/uploads/2013/05/lgru-porto_11.jpg "LGRU Porto")
+![](http://media.manufacturaindependente.org/lgru-porto_11.jpg "LGRU Porto")
 
 From 22 to 25 May the Libre Graphics Research Unit gathers in Porto and
 this meeting concludes the two year project.

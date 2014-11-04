@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: en
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163-1024x613.jpg "IMAG0163")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/IMAG0163.jpg)
+[![](http://media.manufacturaindependente.org/IMAG0163-1024x613.jpg "IMAG0163")](http://media.manufacturaindependente.org/IMAG0163.jpg)
 
 We got our hands full with the first phase of the work for releasing
 Open Font Library 0.3. We kept sketching and making notes during an
@@ -21,7 +21,7 @@ technical details ended up being closely related to design issues. For
 instance, at one point we were discussing internal details about the
 implementation of OFLB translation, so that the website can be easily
 translatable into other languages. It follows that, for the feature to
-work properly, it needs a clear and usable interface -- that's where
+work properly, it needs a clear and usable interface — that's where
 design comes in. Good design can highlight and improve a good technical
 feature; at the same time, having an awkward interface can jeopardise
 all the effort in putting a technical implementation together.
@@ -38,5 +38,5 @@ this is a very rough second draft.) We're still trying out ideas and
 shapes, and once we're happy with a visual style we will adapt them to a
 design that can work in very small sizes.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/flag-icons1.png "flag-icons")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/07/flag-icons1.png)
+[![](http://media.manufacturaindependente.org/flag-icons1.png "flag-icons")](http://media.manufacturaindependente.org/flag-icons1.png)
 

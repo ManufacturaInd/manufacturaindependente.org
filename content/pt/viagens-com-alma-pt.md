@@ -6,7 +6,7 @@ Tags: print
 Slug: viagens-com-alma
 Lang: pt
 
-[![8\_cluny-1-copy](http://blog.manufacturaindependente.org/wp-content/uploads/2014/04/8_cluny-1-copy.png)](http://blog.manufacturaindependente.org/wp-content/uploads/2014/04/8_cluny-1-copy.png)
+[![8\_cluny-1-copy](http://media.manufacturaindependente.org/8_cluny-1-copy.png)](http://media.manufacturaindependente.org/8_cluny-1-copy.png)
 
 Colaborámos frequentemente com os [Visões
 Úteis](http://visoesuteis.pt "Visões Úteis"), uma companhia de teatro do

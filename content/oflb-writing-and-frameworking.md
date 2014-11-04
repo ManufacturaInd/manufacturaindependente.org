@@ -83,8 +83,8 @@ Getting to grips with the Aiki Framework
 
 Now that the core mockups have been finished, it's time to port them
 over to Aiki, the framework that takes care of all the work inside the
-Open Font Library. The way it works is new to us -- we normally use
-Django -- and there's some very interesting concepts in Aiki. One good
+Open Font Library. The way it works is new to us — we normally use
+Django — and there's some very interesting concepts in Aiki. One good
 example is Aiki widgets, which in our opinion can be best described as
 blocks: a page is made of several widgets, which consist of HTML code,
 CSS additions, SQL calls and other options. By joining all these blocks
@@ -105,7 +105,7 @@ Translation!
 
 We've also started work on translating OFLB. Fabricatorz are hard at
 work setting up a translation infrastructure for Aiki, and we've done
-the first steps of a total Portuguese translation -- starting with
+the first steps of a total Portuguese translation — starting with
 translating Aiki itself, and moving to OFLB-specific content. We'll also
 be working to translate the Guidebook, and then hope that other
 languages might be included by other contributors.  

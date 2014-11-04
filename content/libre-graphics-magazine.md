@@ -17,3 +17,5 @@ released 6 issues, covering subjects like collaboration,
 internationalization and gender through a set of columns, showcases and
 reports.
 
+http://libregraphicsmag.com
+

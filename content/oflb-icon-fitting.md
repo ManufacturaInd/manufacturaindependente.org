@@ -40,9 +40,9 @@ line, since we are aiming for 16x16 icons.
 To see why this step is relevant, here’s an example of the original and
 pixel-aligned shapes, after exporting to a bitmap file:
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-1.png "Screenshot-1")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-1.png)  
+[![](http://media.manufacturaindependente.org/Screenshot-1.png "Screenshot-1")](http://media.manufacturaindependente.org/Screenshot-1.png)  
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/rect4031.png "rect4031")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/rect4031.png)
+[![](http://media.manufacturaindependente.org/rect4031.png "rect4031")](http://media.manufacturaindependente.org/rect4031.png)
 
 ### Icon preview
 
@@ -51,17 +51,17 @@ Inkscape has this awesome **Icon preview** window which shows the bitmap
 output in various icon sizes (and you can set your own custom sizes as
 well).
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-3.png "Screenshot-3")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/Screenshot-3.png)
+[![](http://media.manufacturaindependente.org/Screenshot-3.png "Screenshot-3")](http://media.manufacturaindependente.org/Screenshot-3.png)
 
 ### Where we are
 
 So these are what we came up with. There's still room for tweaking, and
 we're confident in this direction.
 
-[![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid.png "flag-icons-pixelgrid")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid.png)
+[![](http://media.manufacturaindependente.org/flag-icons-pixelgrid.png "flag-icons-pixelgrid")](http://media.manufacturaindependente.org/flag-icons-pixelgrid.png)
 
 [caption id="attachment\_151" align="aligncenter" width="516"
 caption="All font states, from left to right: Normal, Featured, Hidden,
 Needs Checking, Marked for Removal,
-Broken."][![](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid-3x.png "flag-icons-pixelgrid-3x")](http://blog.manufacturaindependente.org/wp-content/uploads/2011/08/flag-icons-pixelgrid-3x.png)[/caption]  
+Broken."][![](http://media.manufacturaindependente.org/flag-icons-pixelgrid-3x.png "flag-icons-pixelgrid-3x")](http://media.manufacturaindependente.org/flag-icons-pixelgrid-3x.png)[/caption]  
 
