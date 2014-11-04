@@ -1,5 +1,5 @@
 Title: Blocktype
-Summary: Open web fonts in Minecraft
+Summary: Open web fonts & Minecraft at MozFest 2014
 Date: 2014-10-26 16:44
 Author: manufactura
 Category: Workshops
@@ -7,15 +7,15 @@ Tags: type
 Slug: blocktype-mozfest
 Lang: en
 
-![Workshop poster](http://media.manufacturaindependente.org/blocktype-posterjpg "Workshop poster")
+![Workshop poster](http://media.manufacturaindependente.org/blocktype-poster.jpg "Workshop poster")
 
 We love scripting and hacking the font creation process. Some of our
-experiments led us to Lasse Fister's wonderful Graphicore Bitmap library, which
-we've tweaked to be able to generate simple vector fonts from bitmap data.
-This took us back to the olden days of screen pixel fonts, looking through the
-early designs by Susan Kare to the Amiga demo scene. It wasn't long before we
-came up with the odd question: how hard would it be to hack Minecraft as a font
-editor?
+experiments led us to Lasse Fister's wonderful [Graphicore
+Bitmap](https://github.com/graphicore/graphicoreBMFB) library, which we've
+tweaked to be able to generate simple vector fonts from bitmap data.  This took
+us back to the olden days of screen pixel fonts, looking through the early
+designs by Susan Kare to the Amiga demo scene. It wasn't long before we came up
+with the odd question: how hard would it be to hack Minecraft as a font editor?
 
 After some productive late evenings, we whipped up a working script that could
 read a specifically crafted Minecraft world and convert it to a bitmap image,
@@ -53,7 +53,7 @@ Minecraft world.
 
 ![Minecraft screen](http://media.manufacturaindependente.org/blocktype-screen.jpg "Minecraft font design")
 
-<video src="http://media.manufacturaindependente.org/blocktype-minecraft.mp4" controls>
+<video src="http://media.manufacturaindependente.org/blocktype-minecraft.mp4" width="500" controls>
   Your browser does not support embedded HTML5 video.
 </video>
 
@@ -70,10 +70,13 @@ The result
 After much work and refinement, our script did its magic and the Mozblock
 typeface was born!
 
-![Mozblock specimen](http://media.manufacturaindependente.org/blocktype-specimen.png "Mozblock type specimen")
+![Mozblock
+specimen](http://media.manufacturaindependente.org/blocktype-specimen.png
+"Mozblock type specimen")
 
-You can download the font package containing all necessary formats for
-inclusion in HTML pages.
+You can [download the font
+package](http://media.manufacturaindependente.org/files/Mozblock.zip)
+containing all necessary formats for inclusion in HTML pages.
 
 
 Our last Minecraft workshop
@@ -144,8 +147,18 @@ Credits
 *Acknowledgments*
 
   * Mozilla Festival and the Art of the Web track organisers:
-    * Kat Braybrooke
-    * Paula le Dieu
-    * Erik Nelson
-  * All workshop participants
+    * [Kat Braybrooke](https://twitter.com/codekat)
+    * [Paula le Dieu](https://twitter.com/archiville)
+    * [Erik Nelson](http://wreckandsalvage.com)
+
+  * Workshop participants:
+    * [Jens Aronsson](https://twitter.com/jensaronsson)
+    * [Metod Blejec](https://twitter.com/metodb)
+    * [Johan Hermansson](https://twitter.com/oans)
+    * [David Moulton](https://twitter.com/davidcmoulton)
+    * [Louis Reed](https://twitter.com/_louisreed)
+    * [Oliver Roick](https://twitter.com/oliverroick)
+    * [Adam Sofokleous](https://twitter.com/adam_cy)
+    * [Jennifer Steele](https://twitter.com/jenieloulou)
+    * [Camellia Xueyi](https://twitter.com/11thme)
     
