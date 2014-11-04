@@ -1,5 +1,5 @@
 Title: Blocktype
-Summary: Open web fonts in Minecraft
+Summary: Open web fonts & Minecraft at MozFest 2014
 Date: 2014-10-26 16:44
 Author: manufactura
 Category: Workshops
@@ -53,7 +53,7 @@ Minecraft world.
 
 ![Minecraft screen](http://media.manufacturaindependente.org/blocktype-screen.jpg "Minecraft font design")
 
-<video src="http://media.manufacturaindependente.org/blocktype-minecraft.mp4" controls>
+<video src="http://media.manufacturaindependente.org/blocktype-minecraft.mp4" width="500" controls>
   Your browser does not support embedded HTML5 video.
 </video>
 
@@ -70,10 +70,13 @@ The result
 After much work and refinement, our script did its magic and the Mozblock
 typeface was born!
 
-![Mozblock specimen](http://media.manufacturaindependente.org/blocktype-specimen.png "Mozblock type specimen")
+![Mozblock
+specimen](http://media.manufacturaindependente.org/blocktype-specimen.png
+"Mozblock type specimen")
 
-You can download the font package containing all necessary formats for
-inclusion in HTML pages.
+You can [download the font
+package](http://media.manufacturaindependente.org/files/Mozblock.zip)
+containing all necessary formats for inclusion in HTML pages.
 
 
 Our last Minecraft workshop
