@@ -1,5 +1,5 @@
 Title: AgitProp
-Summary: Hacking monospaced fonts at ERG, Brussels
+Summary: Hacking monospaced fonts at ERG
 Date: 2014-09-11 16:44
 Author: manufactura
 Category: Workshops

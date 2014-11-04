@@ -94,7 +94,8 @@ pre, code {
 	font-family: 'Fantasque Mono', monospace;
 }
 
-small {
+small,
+#footer p {
     font-size: 80%;
 }
 
@@ -151,6 +152,9 @@ pre
     
     #header p:first-child a { border-bottom: 0; }
 
+#footer {
+    margin-top: 1em;
+}
 
 /* Homepage
 */
