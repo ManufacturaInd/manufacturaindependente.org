@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-mediawiki-and-version-control
 Lang: en
 
-[![](http://media.manufacturaindependente.org/IMAG0170-1024x495.jpg "IMAG0170")](http://media.manufacturaindependente.org/IMAG0170.jpg)
+[![Media Wiki install screenshot](http://media.manufacturaindependente.org/IMAG0170-1024x495.jpg "IMAG0170")](http://media.manufacturaindependente.org/IMAG0170.jpg)
 
 We’re now busy getting [MediaWiki](http://www.mediawiki.org/) up and
 running for Open Font Library, as it will be the backend for the OFLB

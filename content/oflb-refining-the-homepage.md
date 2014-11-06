@@ -13,7 +13,7 @@ the OFLB homepage.
 Some changes might be almost invisible but they’re getting us closer to
 the final thing.
 
-[![](http://media.manufacturaindependente.org/homepage-e1312560839651.png "homepage")](http://manufacturaindependente.com/oflb/20110805-homepage/)
+[![OFLB Homepage](http://media.manufacturaindependente.org/homepage-e1312560839651.png "homepage")](http://manufacturaindependente.com/oflb/20110805-homepage/)
 
 Starting from top to bottom we’ll go through the changes since the [last
 published

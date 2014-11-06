@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: en
 
-[![](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
+[![Main menu](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
 
 Last friday we did some sketches for the OFLB main menu. We started
 laying it out based on our

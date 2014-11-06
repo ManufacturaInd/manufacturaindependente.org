@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-catalogue-views-ii
 Lang: en
 
-[![](http://media.manufacturaindependente.org/Screenshot-1-293x300.png "Catalogue — Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
+[![Catalogue — Paragraph view 1](http://media.manufacturaindependente.org/Screenshot-1-293x300.png "Catalogue — Paragraph view 1")](http://manufacturaindependente.com/oflb/20110727-catalogue/catalogue-sentence.html)
 
 Following our [layout
 ideas](http://blog.manufacturaindependente.org/2011/07/oflb-catalogue-views/)

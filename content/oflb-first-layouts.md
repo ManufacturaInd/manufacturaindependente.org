@@ -11,7 +11,7 @@ We've been making a few (physical) sketches in order to find a good
 layout for the website home page. From there, we'll be able to derive
 the layout of other pages.
 
-[![](http://media.manufacturaindependente.org/IMAG0166-1024x613.jpg "Home page sketch")](http://media.manufacturaindependente.org/IMAG0166.jpg)
+[![Sketches for the layout](http://media.manufacturaindependente.org/IMAG0166-1024x613.jpg "Home page sketch")](http://media.manufacturaindependente.org/IMAG0166.jpg)
 
 By doing pencil-on-paper mockups, we find that it's easier to get a
 better view of the whole layout and figure out what should fit where,

@@ -7,9 +7,9 @@ Tags: oflb
 Slug: oflb-the-homepage
 Lang: en
 
-[![](http://media.manufacturaindependente.org/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://media.manufacturaindependente.org/homepageofbl-white-bg.png)
-[![](http://media.manufacturaindependente.org/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://media.manufacturaindependente.org/homepageofbl-transparent-bg.png)
-[![](http://media.manufacturaindependente.org/homepageofbl-no-bg-150x150.png "homepageofbl-no-bg")](http://media.manufacturaindependente.org/homepageofbl-no-bg.png)
+[![Homepage OFLB, white background](http://media.manufacturaindependente.org/homepageofbl-white-bg-150x150.png "homepageofbl-white-bg")](http://media.manufacturaindependente.org/homepageofbl-white-bg.png)
+[![Homepage OFLB, transparentbackground](http://media.manufacturaindependente.org/homepageofbl-transparent-bg-150x150.png "homepageofbl-transparent-bg")](http://media.manufacturaindependente.org/homepageofbl-transparent-bg.png)
+[![Homepage OFLB, no background](http://media.manufacturaindependente.org/homepageofbl-no-bg-150x150.png "homepageofbl-no-bg")](http://media.manufacturaindependente.org/homepageofbl-no-bg.png)
 
 We started to work on the OFLB by redesigning its homepage. This would
 allow us to set the mood for the website and define structural elements

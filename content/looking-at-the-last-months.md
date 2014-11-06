@@ -35,7 +35,7 @@ typefaces, publications, typography books and a selection of F/LOSS
 manuals. All for free copying — while at the bar, anyone can pick up the
 box and use the USB cable to copy everything to their computer.
 
-![](http://www.kitgrafica.manufacturaindependente.org/media/img/kitgraficalivre-white.png)
+![Kit Gráfica Livre](http://www.kitgrafica.manufacturaindependente.org/media/img/kitgraficalivre-white.png)
 
 Our plan is to bring free culture and free software closer to students
 with this kit. There is an ample amount of open and free materials,

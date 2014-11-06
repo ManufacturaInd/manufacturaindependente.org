@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: en
 
-[![](http://media.manufacturaindependente.org/IMAG0163-1024x613.jpg "IMAG0163")](http://media.manufacturaindependente.org/IMAG0163.jpg)
+[![Paper sketches](http://media.manufacturaindependente.org/IMAG0163-1024x613.jpg "IMAG0163")](http://media.manufacturaindependente.org/IMAG0163.jpg)
 
 We got our hands full with the first phase of the work for releasing
 Open Font Library 0.3. We kept sketching and making notes during an
@@ -38,5 +38,5 @@ this is a very rough second draft.) We're still trying out ideas and
 shapes, and once we're happy with a visual style we will adapt them to a
 design that can work in very small sizes.
 
-[![](http://media.manufacturaindependente.org/flag-icons1.png "flag-icons")](http://media.manufacturaindependente.org/flag-icons1.png)
+[![Flag icons, version 1](http://media.manufacturaindependente.org/flag-icons1.png "flag-icons")](http://media.manufacturaindependente.org/flag-icons1.png)
 

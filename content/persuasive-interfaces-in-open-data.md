@@ -101,7 +101,7 @@ in popularity, we should be careful about what to focus on in our
 efforts to provide meaningful information.
 
 [caption id="attachment\_241" align="alignnone"
-width="640"][![](http://media.manufacturaindependente.org/bad-info-1024x601.jpg "Bad infographic")](http://media.manufacturaindependente.org/bad-info.jpg)
+width="640"][![Bad infographic](http://media.manufacturaindependente.org/bad-info-1024x601.jpg "Bad infographic")](http://media.manufacturaindependente.org/bad-info.jpg)
 Graphically pretty, but hard to read (hat-tip: [Erick
 Schonfeld](http://erickschonfeld.com/2012/06/28/infographics-broken/))[/caption]
 
@@ -174,7 +174,28 @@ audiences that you wouldn't even consider in the first place.
 
 **Update:** Here are the slides.
 
-[gallery columns="8"
-ids="331,332,333,334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353"]
-  
+[![Persuasive Interfaces, slide 1](http://media.manufacturaindependente.org/010-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/010.png)
+[![Persuasive Interfaces, slide 2](http://media.manufacturaindependente.org/012-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/012.png)
+[![Persuasive Interfaces, slide 3](http://media.manufacturaindependente.org/020-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/020.png)
+[![Persuasive Interfaces, slide 4](http://media.manufacturaindependente.org/030-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/030.png)
+[![Persuasive Interfaces, slide 5](http://media.manufacturaindependente.org/040-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/040.png)
+[![Persuasive Interfaces, slide 6](http://media.manufacturaindependente.org/050-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/050.png)
+[![Persuasive Interfaces, slide 7](http://media.manufacturaindependente.org/060-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/060.png)
+[![Persuasive Interfaces, slide 8](http://media.manufacturaindependente.org/070-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/070.png)
+[![Persuasive Interfaces, slide 9](http://media.manufacturaindependente.org/090-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/090.png)
+[![Persuasive Interfaces, slide 10](http://media.manufacturaindependente.org/092-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/092.png)
+[![Persuasive Interfaces, slide 11](http://media.manufacturaindependente.org/100-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/100.png)
+[![Persuasive Interfaces, slide 12](http://media.manufacturaindependente.org/102-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/102.png)
+[![Persuasive Interfaces, slide 13](http://media.manufacturaindependente.org/104-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/104.png)
+[![Persuasive Interfaces, slide 14](http://media.manufacturaindependente.org/110-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/110.png)
+[![Persuasive Interfaces, slide 15](http://media.manufacturaindependente.org/112-calendario-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/112-calendario.png)
+[![Persuasive Interfaces, slide 16](http://media.manufacturaindependente.org/115-doquesefalou-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/115-doquesefalou.png)
+[![Persuasive Interfaces, slide 17](http://media.manufacturaindependente.org/120-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/120.png)
+[![Persuasive Interfaces, slide 18](http://media.manufacturaindependente.org/122-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/122.png)
+[![Persuasive Interfaces, slide 19](http://media.manufacturaindependente.org/124-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/124.png)
+[![Persuasive Interfaces, slide 20](http://media.manufacturaindependente.org/130-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/130.png)
+[![Persuasive Interfaces, slide 21](http://media.manufacturaindependente.org/140-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/140.png)
+[![Persuasive Interfaces, slide 22](http://media.manufacturaindependente.org/150-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/150.png)
+[![Persuasive Interfaces, slide 23](http://media.manufacturaindependente.org/200-150x150.png "Persuasive Interfaces, slide 01")](http://media.manufacturaindependente.org/200.png)
+
 
