@@ -1,6 +1,6 @@
 Title: Colorfonts
 Summary: Designing multicoloured typefaces at Constant Variable
-Date: 2014-09-11 16:44
+Date: 2011-02-21 16:44
 Author: manufactura
 Category: Workshops
 Tags: workshops, type
