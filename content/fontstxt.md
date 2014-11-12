@@ -44,6 +44,7 @@ Uppercase and figures!
 * Setperset
 
 
+<link rel="stylesheet" href="../theme/css/font-sampler.css">
 <style>
     @font-face {
       font-family: 'Sisperdotze';
@@ -78,33 +79,30 @@ Uppercase and figures!
 </style>
 
 <div id="tester">
-    <input id="tester-box" type="text" placeholder="Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!" />
+    <input id="tester-box" type="text" placeholder="Test these lovely fonts!" />
 </div>
 <ul id="font-list">
     <li id="sisperdotze">
-        <span class="sample" style="font-family: 'Sisperdotze'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <span class="sample" style="font-family: 'Sisperdotze'">The quick brown fox jumps over the lazy dog</span>
         <p class="details">
             <span class="name">Sisperdotze</span> by
             <span class="authors">Óscar Pereira, Irene Farré Márquez, Kira Riera Contijoch,
             Dario Trapasso, María Florencia Fernández, Maria Luisa Jimenez</span>
-            <a class="download" href="">Download</a>
         </p>
     </li>
         <li id="deuperset">
-        <span class="sample" style="font-family: 'Deuperset'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <span class="sample" style="font-family: 'Deuperset'">The quick brown fox jumps over the lazy dog</span>
         <p class="details">
             <span class="name">Deuperset</span> by
             <span class="authors">Alba Clemente, Sílvia Fabra, Nuría Fernández, Maitane González,
             Aurora Alonso and Adrià Valls</span>
-            <a class="download" href="">Download</a>
         </p>
     </li>
         <li id="setperset">
-        <span class="sample" style="font-family: 'Setperset'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <span class="sample" style="font-family: 'Setperset'">The quick brown fox jumps over the lazy dog</span>
         <p class="details">
             <span class="name">Setperset</span> by
             <span class="authors">Oriol Gayán, Nelson Dieguez, Vanessa Pacheco, Irene Serrano</span>
-            <a class="download" href="">Download</a>
         </p>
     </li>
 </ul>

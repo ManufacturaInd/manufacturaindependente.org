@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $("#tester-box").bind('keypress keyup blur', function() {
         if ($(this).val() == '') {
-            $(".sample").text('Jove xef, porti whisky amb quinze glaçons d\'hidrogen, coi!');       
+            $(".sample").text('The quick brown fox jumps over the lazy dog');       
         }
         else {
             $(".sample").text($(this).val());

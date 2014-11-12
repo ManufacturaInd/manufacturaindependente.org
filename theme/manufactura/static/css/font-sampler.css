@@ -1,0 +1,46 @@
+
+/* Tester
+*/
+
+#tester input {
+    width: 100%;
+    padding: 0.75em 0.5em;
+    border: 1px solid #3e4652;
+}
+
+/* Fonts
+*/
+
+#font-list {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+
+#font-list li {
+    padding: 1em 0 .5em;
+}
+
+#font-list li .sample {
+    font-size: 12px;
+    line-height: 1.2;
+    display: block;
+    padding-top: .8em;
+    padding-bottom: .5em;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#font-list li .details {
+    font-size: 80%;
+    line-height: 1.1;
+    padding: .35em 0;
+    margin-top: 0;
+    border-top: 2px solid #3e4652;
+    position: relative;
+}
+
+#font-list li .name {
+    font-family: 'Roboto Bold';
+    font-weight: normal;
+}
