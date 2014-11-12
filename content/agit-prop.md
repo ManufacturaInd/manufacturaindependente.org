@@ -1,6 +1,6 @@
 Title: AgitProp
 Summary: Hacking monospaced fonts at ERG
-Date: 2014-09-11 16:44
+Date: 2014-02-04 16:44
 Author: manufactura
 Category: Workshops
 Tags: workshops, type, command-line

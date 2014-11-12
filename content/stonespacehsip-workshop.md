@@ -1,6 +1,6 @@
 Title: From Stone to Spaceship
 Summary: Collaborative typeface design at Medialab-Prado
-Date: 2014-09-11 16:44
+Date: 2012-07-17 16:44
 Author: manufactura
 Category: Workshops
 Tags: workshops, type
