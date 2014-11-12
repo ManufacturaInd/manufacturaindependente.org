@@ -42,3 +42,73 @@ Uppercase and figures!
 * Sisperdotze
 * Setperdeu
 * Setperset
+
+
+<style>
+    @font-face {
+      font-family: 'Sisperdotze';
+      src: url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.eot');
+      src: url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.woff') format('woff'), 
+           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.ttf')  format('truetype'),
+           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.svg#svgFontName') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Deuperset';
+      src: url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.eot');
+      src: url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.woff') format('woff'), 
+           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.ttf')  format('truetype'),
+           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.svg#svgFontName') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Setperset';
+      src: url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.eot');
+      src: url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.woff') format('woff'), 
+           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.ttf')  format('truetype'),
+           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.svg#svgFontName') format('svg');
+      font-weight: normal;
+      font-style: normal;
+    }
+</style>
+
+<div id="tester">
+    <input id="tester-box" type="text" placeholder="Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!" />
+</div>
+<ul id="font-list">
+    <li id="sisperdotze">
+        <span class="sample" style="font-family: 'Sisperdotze'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <p class="details">
+            <span class="name">Sisperdotze</span> by
+            <span class="authors">Óscar Pereira, Irene Farré Márquez, Kira Riera Contijoch,
+            Dario Trapasso, María Florencia Fernández, Maria Luisa Jimenez</span>
+            <a class="download" href="">Download</a>
+        </p>
+    </li>
+        <li id="deuperset">
+        <span class="sample" style="font-family: 'Deuperset'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <p class="details">
+            <span class="name">Deuperset</span> by
+            <span class="authors">Alba Clemente, Sílvia Fabra, Nuría Fernández, Maitane González,
+            Aurora Alonso and Adrià Valls</span>
+            <a class="download" href="">Download</a>
+        </p>
+    </li>
+        <li id="setperset">
+        <span class="sample" style="font-family: 'Setperset'">Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!</span>
+        <p class="details">
+            <span class="name">Setperset</span> by
+            <span class="authors">Oriol Gayán, Nelson Dieguez, Vanessa Pacheco, Irene Serrano</span>
+            <a class="download" href="">Download</a>
+        </p>
+    </li>
+</ul>
+
+<script src="../theme/js/jquery-1.11.1.min.js"></script>
+<script src="../theme/js/modernizr-2.8.3-custom.min.js"></script>
+<script src="../theme/js/font-sampler.js"></script>
