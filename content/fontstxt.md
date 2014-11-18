@@ -7,31 +7,35 @@ Tags: type
 Slug: fontstxt
 Lang: en
 
+![Setting characters](http://media.manufacturaindependente.org/fontstxt-02.jpg "Setting characters")
 
-We were invited to participate in FCForum with a keynote and a type design workshop.
+We were invited to participate in [FCForum](http://lab.2014.fcforum.net/en/)
+with a keynote and a type design workshop.
 
-This time, our theme was plaintext: as part of our experiments in alternative
-interfaces for type design, this time our challenge would be to design bitmap
-fonts using simple text files. Reminiscent of ASCII art and the practice of
-drawing with text characters, our pipeline again used the Graphicore bitmap font
-library to convert the text files into OpenType fonts.
-
-The fonts.txt workshop featured our usual double-purpose workshop approach: test
+The **fonts.txt** workshop featured our usual double-purpose workshop approach: test
 a system that we've been working on, as well as producing concrete results that
 everyone can share and take home.
+
+This time, our theme was **plaintext**: as part of our experiments in alternative
+interfaces for type design, our challenge would be to design bitmap
+fonts using simple text files. Reminiscent of ASCII art and the practice of
+drawing with text characters, our pipeline again used the [Graphicore bitmap
+font](http://lab.2014.fcforum.net/en/) library to convert the text files into
+OpenType fonts.
 
 
 The workshop
 ------------
 
 Once again, we put our traditional font editor aside and propose a different
-kind of workflow, this time based on plaintext files.  
+kind of workflow.  
 
-The Graphicore Bitmap Font Format proposes a bitmap font representation that we
-particularly enjoy: each glyph is described in a separate `.txt` file,
-containing a visual representation that brings us back to ASCII art. For
-instance, here's an example of what you'd find in a text file that describes a
-capital A:
+The [Graphicore Bitmap Font
+Format](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack)
+proposes a bitmap font representation that we particularly enjoy: each glyph is
+described in a separate `.txt` file, containing a visual representation that
+brings us back to ASCII art. For instance, here's an example of what you'd find
+in a text file that describes a capital A:
 
     ...###...
     ..#...#..
@@ -46,9 +50,9 @@ speed with creating digital versions of bitmap typefaces. The fact that each
 glyph lives in a separate file makes it possible to have teams working on the
 same font.
 
-We had a full house with more than 20 people, more than enough to form 3 teams
-who could work on separate fonts. Each team was assigned a specific proportion
-for the typeface they'd design:
+We had a full house with more than enough people to form 3 teams who could work
+on separate fonts. Each team was assigned a specific proportion for the
+typeface they'd design:
 
 * Team A: a typeface taller than it is wide (condensed)
 * Team B: a typeface wider than it is tall (extended)
@@ -56,17 +60,28 @@ for the typeface they'd design:
 
 From there, the teams moved to quickly iterate through possible designs and make
 fast decisions where to go next, with Ana and Ricardo serving as [benevolent
-dictators] whenever a complex decision needed to be taken -- otherwise there
-would be no way to end up with a finished typeface in 4 hours!
+dictators](http://en.wikipedia.org/wiki/Benevolent_dictator_for_life) whenever
+a complex decision needed to be taken -- otherwise there would be no way to end
+up with a finished typeface in 4 hours!
 
-Stemming from the [X11 fonts] style of naming fonts after their proportion
-(`5x8` or `6x10`), we decided on using a Catalan transliteration from the
-proportions of each team's fontnames for the fonts:
+![Sketching](http://media.manufacturaindependente.org/fontstxt-01.jpg "Sketching")
+![Sketching 2](http://media.manufacturaindependente.org/fontstxt-09.jpg "Sketching 2")
+![Sketching 3](http://media.manufacturaindependente.org/fontstxt-06.jpg "Sketching 3")
+
+Stemming from the [X11
+fonts](ihttps://packages.debian.org/sid/all/xfonts-base/filelist) style of
+naming fonts after their proportion (`5x8` or `6x10`), we decided on using a
+Catalan transliteration from the proportions of each team's font:
 
 * 6 by 12 = **Sisperdotze**
-* 7 by 10 = **Deuperset**
+* 7 by 10 = **Setperdeu**
 * 7 by 7 = **Setperset**
 
+
+![Digitising](http://media.manufacturaindependente.org/fontstxt-07.jpg "Digitising")
+![Digitising Sisperdotze](http://media.manufacturaindependente.org/fontstxt-10.jpg "Digitising Sisperdotze")
+![Digitising Setperset](http://media.manufacturaindependente.org/fontstxt-08.jpg "Digitising Setperset")
+![Digitising in Notepad](http://media.manufacturaindependente.org/fontstxt-16.jpg "Digitising in Notepad")
 
 The outcomes
 ------------
@@ -77,35 +92,24 @@ to end up with TTF files. Our goal was to have *at least* the uppercase glyphs
 covered, and we were delighted that each team was able to tackle figures as
 well!
 
-Sisperdotze is an elegant and thin sans-serif which stays close to the terminal
+**Sisperdotze** is an elegant and thin sans-serif which stays close to the terminal
 font aesthetic
 
-Deuperset has a blocky and (dare we say) retro look that brings us back to early
+![Sisperdotze](http://media.manufacturaindependente.org/fontstxt-03.jpg "Sisperdotze")
+
+**Deuperset** has a blocky and (dare we say) retro look that brings us back to early
 Atari-type TV consoles.
 
-Setperset is a daring proposal to put forward a serif design which stands out
+![Deuperset](http://media.manufacturaindependente.org/fontstxt-04.jpg "Deuperset")
+
+**Setperset** is a daring proposal to put forward a serif design which stands out
 from its play on a square frame.
 
-Now they're available at the [Open Font Library], check out, download, use and
-hack on them! Be sure to [contact us] if you happen to use or create your own
-version of the typefaces -- we'd be more than happy to see where they end up!
+![Setperset](http://media.manufacturaindependente.org/fontstxt-05.jpg "Setperset")
 
-
-Acknowledgments
----------------
-
-Image credits
-  * [Carla Boserman]
-  * [Manufactura Independente]
-
-Special thanks
-  * the FCForum team for organising an energetic and deep-reaching event, and
-    for highlighting the "open design" ecosystem; our <3 to [Jaron Rowan],
-    [Carla Boserman], [Jara Rocha] and everyone involved in organising and
-    supporting this one-of-a-kind event.
-  * all the participants in the workshop, who did some excellent work in a
-    particularly tight timeframe!
-
+After digitising these designs and passing them through our script pipeline, we
+now have beautiful outline versions that can be used in web sites or print
+layouts.
 
 <link rel="stylesheet" href="../theme/css/font-sampler.css">
 <style>
@@ -169,6 +173,56 @@ Special thanks
         </p>
     </li>
 </ul>
+
+Now they're available at the [Open Font Library](http://openfontlibrary.org),
+so check out, download, use and hack on them!
+
+
+Acknowledgments
+---------------
+
+##### Image credits
+
+  * [Carla Boserman](http://twitter.com/cboserman)
+  * [Manufactura Independente](http://twitter.com/manufacturaind)
+
+##### Workshop participants
+
+  * *Sisperdotze*:
+    - Kira Riera Contijoch
+    - María Florencia Fernández
+    - Maria Luisa Jimenez
+    - Irene Farré Márquez
+    - Óscar Pereira
+    - Dario Trapasso
+
+  * *Deuperset*:
+    - Aurora Alonso
+    - Alba Clemente
+    - Sílvia Fabra
+    - Nuría Fernández
+    - Maitane González
+    - Adrià Valls
+
+  * *Setperset*:
+    - Nelson Dieguez
+    - Oriol Gayán
+    - Vanessa Pacheco
+    - Irene Serrano
+
+##### Special thanks
+
+  * the FCForum team for organising an energetic and deep-reaching event, and
+    for highlighting the "open design" ecosystem; our <3 to [Jaron
+    Rowan](http://twitter.com/sirjaron), [Carla
+    Boserman](http://twitter.com/cboserman), [Jara
+    Rocha](http://twitter.com/jararocha) and everyone involved in organising
+    and supporting this one-of-a-kind event.
+  * all the participants in the workshop, who did some excellent work in a
+    particularly tight timeframe!
+
+![Group photo](http://media.manufacturaindependente.org/fontstxt-12.jpg "Group photo")
+
 
 <script src="../theme/js/jquery-1.11.1.min.js"></script>
 <script src="../theme/js/modernizr-2.8.3-custom.min.js"></script>
