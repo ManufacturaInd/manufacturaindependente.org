@@ -1,5 +1,5 @@
 Title: Tools for a Read-Write World
-Summary: What happened at LGM and Interactivos?’13 in Madrid?
+Summary: What happened at LGM and Interactivos?’13 in Madrid
 Date: 2013-04-24 16:15
 Author: manufactura
 Category: Post
