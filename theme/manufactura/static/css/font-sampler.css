@@ -25,8 +25,6 @@
     font-size: 12px;
     line-height: 1.2;
     display: block;
-    padding-top: .8em;
-    padding-bottom: .5em;
     white-space: nowrap;
     overflow: hidden;
 }
@@ -44,3 +42,13 @@
     font-family: 'Roboto Bold';
     font-weight: normal;
 }
+
+
+/* Fonts.txt post
+*/
+
+#font-list #sisperdotze .sample { font-size: 12px; padding-top: 0.8em; padding-bottom: 0.5em; }
+
+#font-list #deuperset .sample,
+#font-list #setperset .sample { font-size: 24px; }
+
