@@ -1,5 +1,5 @@
 Title: Nióbio
-Summary: Theather poster design
+Summary: Theatre poster design
 Date: 2012-06-01 16:44
 Author: manufactura
 Category: Work
