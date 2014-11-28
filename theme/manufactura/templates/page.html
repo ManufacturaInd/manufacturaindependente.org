@@ -12,7 +12,7 @@
     
     <footer class="translation row large-collapse">
         {% import 'translations.html' as translations with context %}
-        <p class="row large-collapse"><small>{{ translations.translations_for(page) }}</small>
+        <small>{{ translations.translations_for(page) }}</small>
     </footer><!-- /.post-info -->
 	{% if page.modified %}
 		<p class="row large-collapse">
