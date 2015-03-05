@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=manufactura
+SSH_HOST=dh
 SSH_PORT=22
-SSH_USER=manufactura
-SSH_TARGET_DIR=/home/manufactura/manufacturaindependente.org
+SSH_USER=rlaf
+SSH_TARGET_DIR=/home/rlaf/www/manufacturaindependente.org
 
 S3_BUCKET=my_s3_bucket
 
