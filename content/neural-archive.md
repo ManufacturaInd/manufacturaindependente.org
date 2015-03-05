@@ -7,5 +7,10 @@ Tags: webdesign, webdev, python
 Slug: neural-archive
 Lang: en
 
-[The Neural Archive](http://archive.neural.org) is a platform to catalogue and index Neural.it's vast collection of publications.
-We created a custom site using the Web2Py framework, following the new Neural.it design. This new platform allows the Neural editors to easily add and edit the catalogue contents, with custom categories to help order the publications according to the editors' specifications. 
+[The Neural Archive](http://archive.neural.it) is a platform to catalogue 
+and index Neural.it's vast collection of publications.
+We created a custom site using the Web2Py framework, following the new 
+[Neural.it](http://manufacturaindependente.org/neural-it.html) design. 
+This new platform allows the Neural editors to easily add and edit 
+the catalogue contents, with custom categories to help order 
+the publications according to the editors' specifications. 
