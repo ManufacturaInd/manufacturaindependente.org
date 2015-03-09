@@ -200,6 +200,10 @@ pre
     padding-bottom: 0.5em !important;
 }
 
+.undocumented {
+    color: #C09A96;
+}
+
 .article .entry-content p {
     margin-bottom: 0;
     margin-top: 1.25rem;
