@@ -41,6 +41,13 @@ SITE_DESCRIPTION = 'Manufactura, Libre Graphics Design & Research Studio.'
 
 SITE_LOGO = '/theme/images/manufactura.png'
 
+
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+
 #COVER_IMG_URL = 'theme/images/cutis.jpg'
 #PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'
 #TAGLINE = 'A Manufactura é que é.'
