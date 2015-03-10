@@ -7,6 +7,8 @@ Tags: webdesign, webdev, python
 Slug: neural-archive
 Lang: en
 
+![The Neural Archive](http://media.manufacturaindependente.org/archive-neural.jpg)
+
 [The Neural Archive](http://archive.neural.it) is a platform to catalogue 
 and index Neural.it's vast collection of publications.
 We created a custom site using the Web2Py framework, following the new 

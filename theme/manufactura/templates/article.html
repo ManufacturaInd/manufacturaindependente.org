@@ -18,15 +18,15 @@
 {% block content %}
 <section id="content" class="article">
     <header class="row large-collapse">
-    <h2 class="entry-title columns large-12">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-    </h2>
-    <p class="entry-date columns large-12">
-        <abbr class="published" title="{{ article.date.isoformat() }}">
-            {{ article.date|strftime('%d %B %Y') }}
-        </abbr>
-    <p>
+        <h2 class="entry-title columns large-12">
+          <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+             title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+        </h2>
+        <p class="entry-date columns large-12">
+            <abbr class="published" title="{{ article.date.isoformat() }}">
+                {{ article.date|strftime('%d %B %Y') }}
+            </abbr>
+        <p>
     </header>
     <div class="entry-content row large-collapse">
         <div class="large-8 medium-9 columns large-centered">
