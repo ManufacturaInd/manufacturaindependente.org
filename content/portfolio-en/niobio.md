@@ -45,7 +45,11 @@ the [Lobster font](http://www.impallari.com/lobster).
 
 ![Nióbio](http://media.manufacturaindependente.org/niobio-postal.png "Nióbio")  
 
+![Nióbio](http://media.manufacturaindependente.org/niobio.jpg "Nióbio")  
+
 ![Cartaz - Pormenor](http://media.manufacturaindependente.org/niobio-pormenor-1.jpg "Cartaz - Pormenor")  
+
+![Cartaz - Pormenor 2](http://media.manufacturaindependente.org/niobio-pormenor-2.jpg "Cartaz - Pormenor 2")  
 
 ### Official Trailer
 
