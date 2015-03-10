@@ -7,12 +7,18 @@ Tags: texts
 Slug: ficheiros-secretos
 Lang: en
 
-We collaborated with [Visões Úteis](http://visoesuteis.pt "Visões Úteis") in the play 
-[Ficheiros Secretos](http://www.visoesuteis.pt/en/component/k2/item/917-ficheiros-secretos "Ficheiros Secretos"), 
-aiding with their research on the topics of hacking, computer security and online surveillance.
+![Ficheiros Secretos](http://media.manufacturaindependente.org/ficheiros-secretos.jpg)
 
-To document our conversations and their connections to the plays' narrative 
-we were invited to write an essay for the catalogue.
+We collaborated with [Visões Úteis](http://visoesuteis.pt "Visões Úteis") in
+the play [Ficheiros
+Secretos](http://www.visoesuteis.pt/en/component/k2/item/917-ficheiros-secretos
+"Ficheiros Secretos"), aiding with their research on the topics of hacking,
+computer security and online surveillance. For the first time, our role was not
+related to design, but with our practice as digital media designers and
+activists, providing feedback and advice for Visões Úteis's Snowden-era screenplay.
+
+To document our conversations and their connections to the play's narrative, we
+were invited to write an essay for the play's accompanying booklet.
 
 The full text is published below (in Portuguese) and a PDF version is available 
 [here](http://www.visoesuteis.pt/en/component/k2/item/877-joguemos-o-jogo "Joguemos o Jogo - PDF").
