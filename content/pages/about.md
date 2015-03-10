@@ -28,5 +28,5 @@ Your can reach us at *hi@manufacturaindependente.org*
 #####MORE
 
 We tweet [@manufacturaind](http://twitter.com/manufacturaind)  
-and we have a [Github](http://github.com/manufacturaind) and a [Gitorious](http://gitorious.org/manufacturaind) account.
+and we have a [Github](http://github.com/manufacturaind) and a [Gitorious](http://gitorious.org/manufacturaind) accounts.
 
