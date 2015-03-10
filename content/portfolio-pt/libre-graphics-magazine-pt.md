@@ -4,6 +4,7 @@ Author: manufactura
 Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
+Status: Draft
 Lang: pt
 
 Há muito que procurávamos uma publicação que pudesse combinar
