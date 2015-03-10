@@ -4,6 +4,7 @@ Author: manufactura
 Category: Work
 Tags: data, webdesign, webdev
 Slug: demo-cratica
+Status: Draft
 Lang: pt
 
 A partir do nosso trabalho como parte do coletivo Transparência Hackday Portugal, 

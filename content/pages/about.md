@@ -11,22 +11,23 @@ It was founded in 2010 by [Ana Isabel Carvalho](https://twiiter.com/aiscarvalho)
 
 The studio works in different areas, going from print to web design, engaging in both community/cultural projects and commercial work.
 
-#####SERVICES
+### Services
 
 **—Print:** graphic identity, layout  
 **—Web & Code:** front-end and back-end development, task automation, custom tools  
-**—Other:** consultancy, workshops"
+**—Other:** consultancy, workshops
 
-###Contacts
+### Contact
 
-Your can reach us at *hi@manufacturaindependente.org*
+Your can reach us at *hi@manufacturaindependente.org*. For snail mail, this is
+how letters can reach us:
 
     Manufactura Independente  
     Rua Elísio de Melo 28, sala 36  
     4000-196 Porto  
+    Portugal
 
-#####MORE
-
-We tweet [@manufacturaind](http://twitter.com/manufacturaind)  
-and we have a [Github](http://github.com/manufacturaind) and a [Gitorious](http://gitorious.org/manufacturaind) accounts.
+We are also on [Twitter](http://twitter.com/manufacturaind),
+[Github](http://github.com/manufacturaind) and
+[Gitorious](http://gitorious.org/manufacturaind).
 

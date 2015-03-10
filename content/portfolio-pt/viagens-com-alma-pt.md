@@ -4,6 +4,7 @@ Author: manufactura
 Category: Work
 Tags: print
 Slug: viagens-com-alma
+Status: Draft
 Lang: pt
 
 [![8\_cluny-1-copy](http://media.manufacturaindependente.org/8_cluny-1-copy.png)](http://media.manufacturaindependente.org/8_cluny-1-copy.png)

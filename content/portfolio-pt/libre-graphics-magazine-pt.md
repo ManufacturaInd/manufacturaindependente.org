@@ -4,6 +4,7 @@ Author: manufactura
 Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
+Status: Draft
 Lang: pt
 
 ![Libre Gaphics Magazine](http://media.manufacturaindependente.org/opening-image.jpg)

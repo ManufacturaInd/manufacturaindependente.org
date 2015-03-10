@@ -4,6 +4,7 @@ Author: manufactura
 Category: Work
 Tags: webdesign, webdev, wordpress
 Slug: neural-it
+Status: Draft
 Lang: pt
 
 A revista Neural é a maior referência no campo da
