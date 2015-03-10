@@ -62,11 +62,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6,
-.article .entry-date {
+.article .entry-date,
+.home .entry-content p {
   font-family: 'Roboto Light';
 }
 
-.entry-date {
+.entry-date,
+.home .entry-title {
 	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
 }
 
@@ -171,9 +173,17 @@ pre
     margin-bottom: 0;
 }
 
-.list-page .entry-title {
+.list-page .hentry {
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
+}
+
+.list-page .entry-title,
+.list-page .entry-content {
     font-size: 1em;
     margin-bottom: 0;
+    margin-top: 0;
+    line-height: 1.2;
 }
 
 .list-page .entry-date abbr {
