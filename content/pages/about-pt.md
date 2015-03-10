@@ -3,6 +3,7 @@ Date: 2010-11-28 16:11
 Author: manufactura
 Category: page
 Slug: about
+Status: draft
 Lang: pt
 
 A Manufactura Independente é um estúdio de
