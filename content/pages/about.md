@@ -19,7 +19,7 @@ The studio works in different areas, going from print to web design, engaging in
 
 ### Contact
 
-Your can reach us at *hi@manufacturaindependente.org*. For snail mail, this is
+You can reach us at *hi@manufacturaindependente.org*. For snail mail, this is
 how letters can reach us:
 
     Manufactura Independente  
