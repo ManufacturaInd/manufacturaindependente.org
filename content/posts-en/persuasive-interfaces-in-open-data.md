@@ -45,9 +45,10 @@ straightforward path towards what you want – but also provide you with
 *things you didn't know you wanted in the first place*. The best example
 we could find is how Wikipedia manages to accomplish exactly this:
 
-[caption id="" align="alignnone" width="500"][![The Problem with
+[![The Problem with
 Wikipedia](http://imgs.xkcd.com/comics/the_problem_with_wikipedia.png "The Problem with Wikipedia")](http://xkcd.com/214/)
-Xkcd: The Problem with Wikipedia[/caption]
+
+<small>Xkcd: The Problem with Wikipedia</small>
 
 When we consider open parliamentary data, it's definitely a field where
 we want to motivate users – government and parliamentary websites don't
@@ -100,10 +101,10 @@ numbers. And while these ways to display information have been soaring
 in popularity, we should be careful about what to focus on in our
 efforts to provide meaningful information.
 
-[caption id="attachment\_241" align="alignnone"
-width="640"][![Bad infographic](http://media.manufacturaindependente.org/bad-info-1024x601.jpg "Bad infographic")](http://media.manufacturaindependente.org/bad-info.jpg)
-Graphically pretty, but hard to read (hat-tip: [Erick
-Schonfeld](http://erickschonfeld.com/2012/06/28/infographics-broken/))[/caption]
+[![Bad infographic](http://media.manufacturaindependente.org/bad-info-1024x601.jpg "Bad infographic")](http://media.manufacturaindependente.org/bad-info.jpg)
+
+<small>Graphically pretty, but hard to read (hat-tip: [Erick
+Schonfeld](http://erickschonfeld.com/2012/06/28/infographics-broken/))</smal>
 
 For instance, ranking politicians. In Portugal there was a Parliament
 monitoring site which ranked politicians based on the amount of bills
