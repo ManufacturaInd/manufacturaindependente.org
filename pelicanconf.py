@@ -47,6 +47,11 @@ ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+DRAFT_URL = 'private/{slug}/'
+DRAFT_SAVE_AS = 'private/{slug}/index.html'
+DRAFT_LANG_URL = 'private/{slug}-{lang}/'
+DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
+
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 OUTPUT_PATH = "output/"
