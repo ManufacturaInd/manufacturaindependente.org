@@ -36,6 +36,9 @@ believe this virtual residency program is a precious opportunity to support its
 development and release of a first working version of our vision.
 
 
+![](http://media.manufacturaindependente.org/fib-workflow.png "Fib-based web foundry workflow")
+
+
 Project goals
 -------------
 
