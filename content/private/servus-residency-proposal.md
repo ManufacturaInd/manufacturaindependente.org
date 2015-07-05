@@ -22,19 +22,18 @@ the process, using our libre type workshops and fonts we created as the base
 for their development. We know for a fact that other free-culture-aware
 designers face the same issues when making their foundry sites, and are led to
 develop custom frameworks that end up as a wasteful duplication of efforts (we
-participated on a BOF about this at Libre Graphics Meeting 2013 -
-http://titanpad.com/lgm13-typography). Additionally, we see a need to
+participated on a [birds-of-a-feather meeting about
+this](http://titanpad.com/lgm13-typography) at [Libre Graphics Meeting
+2013](http://libregraphicsmeeting.org/2013/)).  Additionally, we see a need to
 decentralize open font distribution, currently based on very few nodes (mostly
 Google Web Fonts and other non-free portals like Font Squirrel), which can only
 be possible if there are tools that enable people to create their own type
-foundries and collections.
-
-As for current progress, we still have a way to go. The architecture for our
-ideal font publishing system was initially described in a published paper;
-however, the project's focus on open fonts and libre type design makes its
-development dependent on outside funding, which is why we believe this virtual
-residency program is a precious opportunity to support its development and
-release of a first working version of our vision.
+foundries and collections.  As for current progress, we still have a way to go.
+The architecture for our ideal font publishing system was initially described
+in a published paper; however, the project's focus on open fonts and libre type
+design makes its development dependent on outside funding, which is why we
+believe this virtual residency program is a precious opportunity to support its
+development and release of a first working version of our vision.
 
 
 Project goals
@@ -67,10 +66,11 @@ Use cases
 Current state
 -------------
 
-We've already presented and published a paper detailing the architecture of
-this project. We have also developed a minimal version of the command-line
-tool, as well as a tentative first version of the Font Package format, which we
-need to invest further time to develop into a full specification.
+We've already [presented](http://web.ipca.pt/5et/painel4_pt.html#p4_ana) and
+published a paper detailing the architecture of this project ([pdf version]()).
+We have also developed a minimal version of the command-line tool, as well as a
+tentative first version of the Font Package format, which we need to invest
+further time to develop into a full specification.
 
 If this project is accepted, the residency would enable us to finish the
 development and documentation of the spec and scripts, as well as a first
@@ -97,8 +97,9 @@ Another concern in its design is that it's easy to store as a Git repository,
 making these packages easily redistributable.
 
 We have already fleshed out parts of the spec in our paper, but want to develop
-these into a full specification document, using the Data Package spec as
-reference.
+these into a full specification document, using the [Data Package format
+spec](http://data.okfn.org/doc/data-package) as reference (this format was the
+direct inspiration for the Font Package format).
 
 ### Command line tool for working with font packages
 
@@ -117,7 +118,7 @@ usage of this tool.
 
 ### Live hosted web service for font distribution and foundry hosting
 
-The final piece is a simple web service (http://foundri.es) that can:
+The final piece is a simple web service that can:
 
 * host Git repositories for font package publishing
 * provide a searchable index for hosted fonts
