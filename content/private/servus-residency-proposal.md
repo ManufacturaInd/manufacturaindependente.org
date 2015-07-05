@@ -42,12 +42,12 @@ Project goals
 * Provide a way to publish font collections with a focus on free culture and
   libre type design
 * Reduce friction in the font publishing process
-* Facilitate a network effect by presenting a "standard" to publish fonts and a
+* Facilitate a network effect by proposing a "standard" to publish fonts and a
   set of best practices for modification and redistribution
 * Give libre typographers all the tools for self-publishing, cutting out
   middlemen and reducing the overhead of maintaining a foundry site
 * Allow for the easy creation of curated font collections
-* Create a free software based toolchain based on Fontforge, Git, Python and
+* Create a free software toolchain based on Fontforge, Git, Python and
   other libre tools
 
 
@@ -67,9 +67,14 @@ Current state
 -------------
 
 We've already [presented](http://web.ipca.pt/5et/painel4_pt.html#p4_ana) and
-published a paper detailing the architecture of this project ([pdf version]()).
-We have also developed a minimal version of the command-line tool, as well as a
-tentative first version of the Font Package format, which we need to invest
+published a paper detailing the architecture of this project
+(<small>[ODT](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.odt
+"Foundry-in-a-box paper, 192Kb") or
+[PDF](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.pdf
+"Foundry-in-a-box paper, 585Kb")</small>).  We have also
+developed a minimal version of the command-line tool
+([repository](https://gitlab.com/manufacturaind/fib)), as well as a tentative
+first version of the Font Package format, which we need to invest
 further time to develop into a full specification.
 
 If this project is accepted, the residency would enable us to finish the
