@@ -22,9 +22,7 @@ the process, using our libre type workshops and fonts we created as the base
 for their development. We know for a fact that other free-culture-aware
 designers face the same issues when making their foundry sites, and are led to
 develop custom frameworks that end up as a wasteful duplication of efforts (we
-participated on a BOF about this at Libre Graphics Meeting 2013 -
-http://titanpad.com/lgm13-typography). Additionally, we see a need to
-decentralize open font distribution, currently based on very few nodes (mostly
+participated on a [typography BOF at Libre Graphics Meeting 2013](http://titanpad.com/lgm13-typography) about these issues). Additionally, we see a need to decentralize open font distribution, currently based on very few nodes (mostly
 Google Web Fonts and other non-free portals like Font Squirrel), which can only
 be possible if there are tools that enable people to create their own type
 foundries and collections.
@@ -43,12 +41,12 @@ Project goals
 * Provide a way to publish font collections with a focus on free culture and
   libre type design
 * Reduce friction in the font publishing process
-* Facilitate a network effect by presenting a "standard" to publish fonts and a
+* Facilitate a network effect by proposing a "standard" to publish fonts and a
   set of best practices for modification and redistribution
 * Give libre typographers all the tools for self-publishing, cutting out
   middlemen and reducing the overhead of maintaining a foundry site
 * Allow for the easy creation of curated font collections
-* Create a free software based toolchain based on Fontforge, Git, Python and
+* Create a free software toolchain based on Fontforge, Git, Python and
   other libre tools
 
 
@@ -68,9 +66,9 @@ Current state
 -------------
 
 We've already presented and published a paper detailing the architecture of
-this project. We have also developed a minimal version of the command-line
+this project (<small>[ODT](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.odt "Foundry-in-a-box paper, 192Kb") or [PDF](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.pdf "Foundry-in-a-box paper, 585Kb")</small>). We have also developed a minimal version of the command-line
 tool, as well as a tentative first version of the Font Package format, which we
-need to invest further time to develop into a full specification.
+need to invest further time to develop into a full specification ([fib repository](https://gitlab.com/manufacturaind/fib)).
 
 If this project is accepted, the residency would enable us to finish the
 development and documentation of the spec and scripts, as well as a first
