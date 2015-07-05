@@ -7,27 +7,17 @@ Tags: webdesign, webdev, wordpress
 Slug: neural-it
 Lang: en
 
-Neural Magazine is the highest reference on media art for more
-than 20 years now. We were commissioned to design and implement a new
-website for its digital sister site [Neural.it](http://neural.it).
+[Neural Magazine](http://neural.it) is the highest reference on media art for more than 20 years now. A staple reference during our graduation years, it was a privilege to take on the challenge of completely redesigning the magazine's web site.
 
-The effort involved much more than a re-design: we wrote extensive
-scripts in order to convert more than 10 years of articles from Movable
-Type to WordPress. This task involved merging English and Italian posts,
-fixing and updating old HTML tags, generating custom RSS feeds and
-adapting the internal taxonomy to the WordPress structure — all done
-automatically using our carefully crafted custom Python parsers.
+The previous iteration was a Movable Type installation which had been functioning for ten years. We were tasked with coordinating and implementing a move to Wordpress. This was our first opportunity to have full control of the transition, both on the user-facing design and the technical backend. Alessandro Ludovico, Neural's director, had very clear ideas about the editorial needs for such a site, and we went out of our way to see them happen.
 
-The theme we built from scratch makes heavy use of custom WordPress post
-types and taxonomies. This way, the Neural editors are able to organise
-and manage posts, microposts, display ads, issue releases and other
-content through the WordPress interface with little hassle.
+The development of this project spanned many months, and consisted in several steps:
 
-We also executed a lighter version for Neural's music blog, [Wicked
-Style](http://wickedstyle.neural.it/).  
-Finally, we created a JavaScript snippet that allows the user to strip
-the site from any colour, making it all black and white. It's a tiny
-detail, but we do love the monochrome visuals as they complete an
-overall design that heavily refers to the printed page without looking
-old-school.
+  * Imagine a new look for Neural's online presence, based on a post-digital, post-print design direction which draws heavily from printed matter design patterns while looking contemporary and functional.
+  * Create a set of fine-tuned scripts which could convert 10 years of archives to the new Wordpress backend, successfully dealing with bilingual posts, custom RSS feeds, automagically updating old markup and adapting the internal taxonomy to a new modern structure.
+  * Design and implement a new Wordpress theme from scratch, making heavy use of advanced Wordpress features such as custom post types and taxonomies.
+  * Tweak and fine-tune the Wordpress workflow to allow smooth editing of posts, microposts, display ads, issue releases and other necessary content.
+  * Implement a quirky feature to disable all colour from the website and make it black-and-white only.
+  * Adapt the Neural.it theme to a simplified version for use in its sister site focused on music, [Wicked Style](http://wickedstyle.neural.it/).
 
+![Neural.it](http://media.manufacturaindependente.org/neural.png "Neural.it")  
