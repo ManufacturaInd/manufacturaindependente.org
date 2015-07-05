@@ -7,9 +7,11 @@ Slug: demo-cratica
 Status: Draft
 Lang: pt
 
-A partir do nosso trabalho como parte do coletivo Transparência Hackday Portugal, 
-criámos o Demo.cratica, um portal que torna fácil o acesso à informação do
-Parlamento. O Demo.cratica é um exercício de design de interfaces para
+A partir do nosso trabalho como parte do coletivo 
+[Transparência Hackday Portugal](http://transparenciahackday.org), 
+criámos o [Demo.cratica](http://demo.cratica.org), um portal que 
+torna fácil o acesso à informação do Parlamento. 
+O Demo.cratica é um exercício de design de interfaces para
 providenciar uma forma simples e direta de aceder às informações sobre
 deputados e às transcrições das sessões plenárias.  
 O site oficial do Parlamento esconde a maioria da informação útil por
