@@ -24,16 +24,19 @@ designers face the same issues when making their foundry sites, and are led to
 develop custom frameworks that end up as a wasteful duplication of efforts (we
 participated on a [birds-of-a-feather meeting about
 this](http://titanpad.com/lgm13-typography) at [Libre Graphics Meeting
-2013](http://libregraphicsmeeting.org/2013/)).  Additionally, we see a need to
-decentralize open font distribution, currently based on very few nodes (mostly
-Google Web Fonts and other non-free portals like Font Squirrel), which can only
-be possible if there are tools that enable people to create their own type
-foundries and collections.  As for current progress, we still have a way to go.
-The architecture for our ideal font publishing system was initially described
-in a published paper; however, the project's focus on open fonts and libre type
-design makes its development dependent on outside funding, which is why we
-believe this virtual residency program is a precious opportunity to support its
-development and release of a first working version of our vision.
+2013](http://libregraphicsmeeting.org/2013/)). 
+
+Additionally, we see a need to decentralize open font distribution, currently
+based on very few nodes (mostly Google Web Fonts and other non-free portals
+like Font Squirrel), which can only be possible if there are tools that enable
+people to create their own type foundries and collections.  
+
+As for current progress, we still have a way to go.  The architecture for our
+ideal font publishing system was initially described in a published paper;
+however, the project's focus on open fonts and libre type design makes its
+development dependent on outside funding, which is why we believe this virtual
+residency program is a precious opportunity to support its development and
+release of a first working version of our vision.
 
 
 ![](http://media.manufacturaindependente.org/fib-workflow.png "Fib-based web foundry workflow")
@@ -88,6 +91,11 @@ Font Package format.
 
 Deliverables
 ------------
+
+We divided the project into three steps. We anticipate each will take around a
+month to carry out, but we are more than open to accomodate any constraints
+that can pop up.
+
 
 ### Specification for the Font Package Format
 
