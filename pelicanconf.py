@@ -52,6 +52,14 @@ DRAFT_SAVE_AS = 'private/{slug}/index.html'
 DRAFT_LANG_URL = 'private/{slug}-{lang}/'
 DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
 
+STATIC_SAVE_AS = '{path}'
+STATIC_URL = '{path}'
+STATIC_PATHS = [
+    'extra/htaccess',
+]
+EXTRA_PATH_METADATA = {
+    'extra/htaccess': {'path': '.htaccess'},
+}
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 OUTPUT_PATH = "output/"
@@ -78,9 +86,9 @@ GALLERY_PRESETS = [
 # THUMBNAIL_GALLERY_CLASS = "span2"
 
 
-# COVER_IMG_URL = 'theme/images/cutis.jpg'
-# PROFILE_IMAGE_URL =  'theme/images/cutis.jpg'
-# TAGLINE = 'A Manufactura é que é.'
+# COVER_IMG_URL = 'theme/images/cover.jpg'
+# PROFILE_IMAGE_URL =  'theme/images/profile.jpg'
+# TAGLINE = 'Olá!'
 # SOCIAL = (
 #            ('github', 'https://github.com/manufacturaind/'),
 #            ('twitter-square', 'https://twitter.com/manufacturaind'),
