@@ -9,7 +9,6 @@ SITESUBTITLE = "Libre Graphics & Design research studio"
 SITEURL = 'http://manufacturaindependente.org'
 
 PATH = 'content'
-STATIC_PATHS = ['images']
 
 TIMEZONE = 'Europe/Lisbon'
 
@@ -55,10 +54,13 @@ DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
 STATIC_SAVE_AS = '{path}'
 STATIC_URL = '{path}'
 STATIC_PATHS = [
+    'images',
     'extra/htaccess',
+    'files',
 ]
 EXTRA_PATH_METADATA = {
     'extra/htaccess': {'path': '.htaccess'},
+    'files': {'path': 'files'},
 }
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
