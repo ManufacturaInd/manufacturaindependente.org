@@ -22,11 +22,19 @@
           <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
              title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </h2>
-        <p class="entry-date columns large-12">
-            <abbr class="published" title="{{ article.date.isoformat() }}">
-                {{ article.date|strftime('%d %B %Y') }}
-            </abbr>
-        <p>
+        {% if article.category.name in ['Writing', 'Workshops'] %}
+            <p class="entry-date columns large-12">
+                <abbr class="published" title="{{ article.date.isoformat() }}">
+                    {{ article.date|strftime('%d %B %Y') }}
+                </abbr>
+            <p>
+        {% else %}
+            <p class="entry-date columns large-12">
+                <abbr class="published" title="{{ article.date.isoformat() }}">
+                    {{ article.date|strftime('%B %Y') }}
+                </abbr>
+            <p>
+        {% endif %}
     </header>
     <div class="entry-content row large-collapse">
     {% if article.category.name == 'Work' %}
@@ -34,7 +42,6 @@
             <ul class="details">
                 <li><strong>{{ article.title }}</strong></li>
                 <li>{{ article.description }} for {{ article.client }}</li>
-                <li><small>{{ article.date|strftime('%B %Y') }}</small></li>
                 <li><small>{{ article.location }}</small></li>
             </ul>
         </div>
