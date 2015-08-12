@@ -269,6 +269,14 @@ pre
     font-size: 80%;
 }
 
+.entry-content ul.details {
+    list-style-type: none;
+    margin-top: 1.25rem;
+    margin-left: 0;
+    line-height: 1.2;
+    font-size: 90%;
+}
+
 #content pre {
     font-size: 0.875em;
     background-color: #f5f2ee;

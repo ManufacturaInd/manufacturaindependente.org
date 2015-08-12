@@ -6,6 +6,9 @@ Category: Work
 Tags: print
 Slug: niobio
 Lang: en
+Client: Visões Úteis
+Location: Porto, Portugal
+Description: Poster and flyer
 
 [Nióbio](http://www.visoesuteis.pt/en/works/item/610-ni%C3%B3bio) is an
 original theater play written by [Visões Úteis](http://visoesuteis.pt "Visões
