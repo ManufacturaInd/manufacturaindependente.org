@@ -5,6 +5,8 @@ Category: page
 Slug: about
 Lang: en
 
+![Manufactura Independente](http://media.manufacturaindependente.org/manufacturaindependente_2013.jpg)
+
 Manufactura Independente is a design studio based in Porto (Portugal), running fully on free and open source software.
 
 It was founded in 2010 by [Ana Isabel Carvalho](https://twiiter.com/aiscarvalho) and [Ricardo Lafuente](https://twitter.com/rlaf) as a space for both comissioned work and autonomous/self-initiated projects.

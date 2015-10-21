@@ -6,6 +6,8 @@ Slug: about
 Status: draft
 Lang: pt
 
+![Manufactura Independente](http://media.manufacturaindependente.org/manufacturaindependente_2013.jpg)
+
 A Manufactura Independente é um estúdio de
 investigação em design criado em 2010 no Porto, em Portugal.
 
