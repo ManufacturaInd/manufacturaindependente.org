@@ -1,6 +1,7 @@
 PY?=python
 PELICAN?=pelican
 PELICANOPTS=
+LOAD_VENV_CMD=. `pwd`/.env/bin/activate
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -38,8 +39,13 @@ help:
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
 
+install:
+	virtualenv .env --no-site-packages --distribute --prompt=\(manufactura\)
+	. `pwd`/.env/bin/activate; pip install -r requirements.txt
+	cd site; npm install; bower install
+
 build:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)

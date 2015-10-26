@@ -2,3 +2,4 @@ cache/
 output/
 *.pyc
 *.swp
+.env
