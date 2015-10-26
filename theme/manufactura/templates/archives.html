@@ -1,13 +1,33 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content" class="body">
-    <div class="row large-collapse"><h1 class="columns large-12">Archives for {{ SITENAME }}</h1></div>
-    
-    <dl class="row large-collapse">
-    {% for article in dates %}
-        <dt>{{ article.locale_date }}</dt>
-        <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
-    {% endfor %}
-    </dl>
+<section id="content" class="archive-page">
+
+  <div class="row large-collapse">
+    <h3 class="small-12 columns">Archive</h3>
+    <div class="small-12 columns">
+      <ul class="medium-block-grid-4 small-block-grid-2"> 
+        {% for article in dates %}
+          {% if not 'undocumented' in article.tags %}
+            <li>        
+              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                <h3 class="entry-title">{{ article.title }}</h3>
+                {% if article.featured_image %}
+                  <p><img src="{{ article.featured_image }}"></p>
+                {% endif %}
+              </a>
+          </li>
+          {% else %}
+            <li>
+              <h3 class="entry-title">{{ article.title }}</h3>
+              {% if article.featured_image %}
+                <p><img src="{{ article.featured_image }}"></p>
+              {% endif %}
+            </li>      
+          {% endif %}
+        {% endfor %}
+      </ul><!-- /#work thumbnails -->
+    </div>
+  </div>
+  
 </section><!-- /#content -->
-{% endblock %}
+{% endblock content %}

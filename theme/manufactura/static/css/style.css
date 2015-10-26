@@ -299,6 +299,36 @@ pre
     color: #c09a96;
 }
 
+
+
+/* Archive template
+*/
+
+.archive-page .row li {
+    position: relative;
+    border: 1px solid #c09a96;
+}
+
+.archive-page .row li a { display: block; }
+
+.archive-page .row li .entry-title {
+    line-height: 1.2;
+    position: absolute;
+    bottom: 0;
+    left:  0;
+    right: 0;
+    margin: 0;
+    background-color: rgba(255,255,255,0.3);
+    padding: 10px;
+}
+
+.archive-page .row li p {
+    margin: 0;
+    height: 260px;
+    overflow: hidden;
+}
+
+
 /* large-collapse */
 
 @media only screen and (min-width: 64.063em) {
