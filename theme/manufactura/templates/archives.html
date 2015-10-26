@@ -7,22 +7,30 @@
     <div class="small-12 columns">
       <ul class="medium-block-grid-4 small-block-grid-2"> 
         {% for article in dates %}
-          {% if not 'undocumented' in article.tags %}
-            <li>        
-              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+          {% if article.category.name in ['Work', 'Workshops'] %}
+            {% if not 'undocumented' in article.tags %}
+              <li>        
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                  <h3 class="entry-title">{{ article.title }}</h3>
+                  {% if article.featured_image %}
+                    <p><img src="{{ article.featured_image }}"></p>
+                  {% else %}
+                    <!-- empty paragraph to align layout; remove when all entries have images! -->
+                    <p>&nbsp;</p>
+                  {% endif %}
+                </a>
+            </li>
+            {% else %}
+              <li>
                 <h3 class="entry-title">{{ article.title }}</h3>
                 {% if article.featured_image %}
                   <p><img src="{{ article.featured_image }}"></p>
+                {% else %}
+                  <!-- empty paragraph to align layout; remove when all entries have images! -->
+                  <p>&nbsp;</p>
                 {% endif %}
-              </a>
-          </li>
-          {% else %}
-            <li>
-              <h3 class="entry-title">{{ article.title }}</h3>
-              {% if article.featured_image %}
-                <p><img src="{{ article.featured_image }}"></p>
-              {% endif %}
-            </li>      
+              </li>      
+            {% endif %}
           {% endif %}
         {% endfor %}
       </ul><!-- /#work thumbnails -->
