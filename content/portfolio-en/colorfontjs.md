@@ -6,6 +6,9 @@ Category: Work
 Tags: hacks, type
 Slug: colorfont-js
 Lang: en
+Client: Self comissioned
+Location: 
+Description: jQuery library for multi-colored type
 
 
 We were commissioned by Dave Crossland to work on Eben Sorkin’s idea of Art Deco-style colored typefaces. Our efforts ended up in the form of a JavaScript library, [Colorfont.js](http://manufacturaindependente.com/colorfont), which enables the use of layered typefaces in web documents.

@@ -6,6 +6,9 @@ Category: Work
 Tags: data, webdesign, webdev
 Slug: demo-cratica
 Lang: en
+Client: Self comissioned
+Location: Porto, Portugal
+Description: Parliamentary open data portal
 
 From our work as part of the [Transparência Hackday Portugal]
 (http://transparenciahackday.org) collective, we created the 

@@ -6,6 +6,9 @@ Category: Work
 Tags: texts
 Slug: ficheiros-secretos
 Lang: en
+Client: Visões Úteis
+Location: Porto, Portugal
+Description: Text
 
 ![Ficheiros Secretos](http://media.manufacturaindependente.org/ficheiros-secretos.jpg)
 

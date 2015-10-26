@@ -5,6 +5,9 @@ Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
 Lang: pt
+Client: Self comissioned
+Location: Porto(Portugal) — Toronto(Canada)
+Description: Visual identity, posters, flyers and CD case
 
 ![Libre Gaphics Magazine](http://media.manufacturaindependente.org/opening-image.jpg)
 

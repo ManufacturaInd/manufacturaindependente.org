@@ -6,8 +6,11 @@ Tags: print
 Slug: viagens-com-alma
 Status: Draft
 Lang: pt
+Client: Visões Úteis
+Location: Porto, Portugal
+Description: Visual identity, posters, flyers and CD case
 
-[![8\_cluny-1-copy](http://media.manufacturaindependente.org/8_cluny-1-copy.png)](http://media.manufacturaindependente.org/8_cluny-1-copy.png)
+![Cluny](http://media.manufacturaindependente.org/8_cluny-1-copy.png)
 
 Colaborámos frequentemente com os [Visões
 Úteis](http://visoesuteis.pt "Visões Úteis"), uma companhia de teatro do
