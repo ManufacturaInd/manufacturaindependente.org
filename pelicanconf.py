@@ -67,7 +67,7 @@ BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 OUTPUT_PATH = "output/"
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["gallery"]
+PLUGINS = ["gallery", "representative_image"]
 
 # Gallery plug-in
 GALLERY_FOLDER = "galleries"

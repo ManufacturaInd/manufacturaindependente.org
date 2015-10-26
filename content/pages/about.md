@@ -14,6 +14,7 @@ for both comissioned work and self-initiated projects.
 Approach:
 * work and involvement with free culture
 * libre software workflows applied to design practice
+* engagement with software -- not just tool operators
 * exclusive use of F/LOSS
 * creation and sharing of small, specialised and often experimental design tools
 * community engagement (workshops, LGmag, open data)
