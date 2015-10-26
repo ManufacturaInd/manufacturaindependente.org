@@ -1,4 +1,4 @@
-Jinja2==2.7.3
+Jinja2==2.8
 Markdown==2.5.1
 MarkupSafe==0.23
 Pillow==2.7.0

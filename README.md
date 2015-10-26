@@ -20,6 +20,10 @@ Todo o conteúdo está no diretório `content`, que tem vários subdiretórios:
     preciso editar o campo EXTRA_FILE_METADATA no pelicanconf.py quando
     adicionarmos ficheiros aqui.
 
+## Instalar todas as dependências
+
+ * `sudo apt-get install python-dev` (para poder compilar o Pillow)
+
 ## Atualizar o site
 
 Para re-gerar todo o site:
