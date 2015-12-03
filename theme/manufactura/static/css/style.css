@@ -299,7 +299,18 @@ pre
     color: #c09a96;
 }
 
+.entry-content .small-block-grid-2,
+.entry-content .small-block-grid-3,
+.entry-content .small-block-grid-4,
+.entry-content .small-block-grid-5,
+.entry-content .small-block-grid-6 {
+    margin-top: 1.25rem;
+}
 
+
+.entry-content ul + p {
+    margin-top: 0.5rem;
+}
 
 /* Archive template
 */

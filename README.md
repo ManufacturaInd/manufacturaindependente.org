@@ -28,7 +28,7 @@ Todo o conteúdo está no diretório `content`, que tem vários subdiretórios:
 
 Para re-gerar todo o site:
 
-    make html
+    make build
 
 Para ver que ficheiros vão ser acrescentados, apagados ou atualizados no
 servidor, antes de os enviar de vez para o site live:

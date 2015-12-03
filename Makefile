@@ -54,16 +54,16 @@ regenerate:
 
 serve:
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	. `pwd`/.env/bin/activate; cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	. `pwd`/.env/bin/activate; cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
 devserver:
 ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
+	. `pwd`/.env/bin/activate; $(BASEDIR)/develop_server.sh restart $(PORT)
 else
-	$(BASEDIR)/develop_server.sh restart
+	. `pwd`/.env/bin/activate; $(BASEDIR)/develop_server.sh restart
 endif
 
 stopserver:
@@ -72,7 +72,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	. `pwd`/.env/bin/activate; $(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

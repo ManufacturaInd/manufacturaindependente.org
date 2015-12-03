@@ -12,10 +12,10 @@ Description: Interactive visualization
 
 ![40 Years of Abstention](http://media.manufacturaindependente.org/work/40-Anos-de-Abstencao.png)
 
-[40 Years of Abstention](https://tmmv.github.io/abstencao) is a visualization
-of the abstention in the Portuguese legislative election results, between 1975 and 2015.
+[40 Years of Abstention](https://tmmv.github.io/abstencao) is an interactive visualization
+of the abstention in the Portuguese legislative elections, between 1975 and 2015.
 
-It was developed in the context of the [Transparência Hackday Portugal](http://transparenciahackday.org) collective as an exploration of open data datasets.
-After gathering and processing a comprehensive dataset of all the legislative election 
-results in Portugal we wanted to find a visual way to show the evolution of abstention 
-since the 75 revolution.
+It was developed in the context of the [Transparência Hackday Portugal](http://transparenciahackday.org) collective as an exploration of what can be done using public open data.
+
+After gathering and processing a comprehensive [dataset with all the results of the legislative elections in Portugal](http://centraldedados.pt/eleicoes-legislativas) we wanted to find a visual way to show the evolution of abstention 
+since the 75 revolution. The vertical axis divides two ways to look at the results: on the left, the votes for each party as regularly presented; on the right, the votes in each party recalculated to include the abstention percentage.
