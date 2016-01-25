@@ -10,6 +10,8 @@ founded in 2010 by **Ana Isabel Carvalho** and **Ricardo Lafuente** as a space
 for both comissioned work and self-initiated projects.
 
 
+### About our practice
+
 Our approach floats around a set of key principles:
 
 * **Involvement with free/libre culture.** It's not only about switching
@@ -27,13 +29,6 @@ Our approach floats around a set of key principles:
 * **Community engagement.** Be it through workshops, publications or work with
   public data, it's more fun to do it with others.
 
-Areas:
-* Type design and technology. We love fonts and what makes them work.
-* Editorial and graphic design. 
-* Full-stack web development and design.
-* Code-based design tactics.
-The studio works in different areas, going from print to web design, engaging
-in both community/cultural projects and commercial work.
 
 ### Services
 
