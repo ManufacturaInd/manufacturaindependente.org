@@ -6,7 +6,7 @@ Category: Work
 Tags: print, webdesign, webdev
 Slug: futureplaces
 Lang: en
-Client: FurePlaces Medialab
+Client: FuturePlaces Medialab
 Location: Porto, Portugal
 Description: Print and online identity design
 
