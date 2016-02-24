@@ -316,24 +316,19 @@ pre
 */
 
 .archive-page .row li {
-    position: relative;
     padding: 0;
-    border: 1px solid #c09a96;
+    border: 1px solid #fff; /*#c09a96*/
 }
 
 .archive-page .row li a { display: block; }
 
 .archive-page .row li .entry-title {
     display: none;
-    font-size: 1.375rem;
+    font-family: 'Roboto Bold';
+    font-size: 5rem;
     line-height: 1.2;
     position: absolute;
-    bottom: 0;
-    left:  0;
-    right: 0;
     margin: 0;
-    color: #fff;
-    background-color: rgba(62,70,82,0.7);
     padding: 10px;
 }
 
