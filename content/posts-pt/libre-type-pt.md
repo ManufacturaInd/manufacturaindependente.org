@@ -11,7 +11,7 @@ Lang: pt
 Camanho](http://itsagoodlifeifyoudontweaken.tumblr.com)</small>
 
 No dia 3 de Maio fizemos uma apresentação na [Libre Graphics Meeting
-2012](www.libregraphicsmeeting.org/2012/ "Libre Graphics Meeting 2012"),
+2012](http://libregraphicsmeeting.org/2012/ "Libre Graphics Meeting 2012"),
 em Viena, sobre *Os super poderes das fontes livres*.  
 (os slides estão
 [aqui](http://manufacturaindependente.com/files/awesome-libre-type_lgm2012.zip "The Awesome things libre typography enables you to do, Manufactura Independente, LGM 2012")).

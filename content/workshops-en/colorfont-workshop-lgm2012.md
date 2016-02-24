@@ -13,7 +13,7 @@ Lang: en
 During the recent Libre Graphics Meeting in Vienna, we hosted a
 typography workshop, under the theme of multicoloured fonts. While
 developing version 1.1 of
-[Colorfont.js](http://manufacturaindependente.org/colorfont), we put
+[Colorfont.js](http://manufacturaindependente.com/colorfont), we put
 together a collection of colorfonts — variations of one font that can
 be used with different colours, overlaying each other.
 
