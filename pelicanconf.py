@@ -54,7 +54,7 @@ DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
 STATIC_SAVE_AS = '{path}'
 STATIC_URL = '{path}'
 STATIC_PATHS = [
-    'images',
+    'media',
     'extra/htaccess',
     'files',
 ]
