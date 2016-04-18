@@ -99,7 +99,7 @@ Here is the list of some of the things we did while at Montréal:
     it*](http://www.drawnandquarterly.com/shopCatalogLong.php?st=art&art=a3dff7dd51fc01),
     by Chester Brown at Drawn & Quarterly's bookshop.
 
--   Got a private [Krita](%20http://www.krita.org) introduction by Boudewijn
+-   Got a private [Krita](http://www.krita.org) introduction by Boudewijn
     and AnimTim. Looking forward to do beautiful work with it.
 
 -   Ate bland cantine food at the Polytechnique and experienced two

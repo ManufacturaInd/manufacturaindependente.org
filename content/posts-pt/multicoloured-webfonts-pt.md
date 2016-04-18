@@ -6,7 +6,7 @@ Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
 Lang: pt
 
-[![](../wp-content/uploads/2011/02/Screenshot-300x111.png "Screenshot")](../wp-content/uploads/2011/02/Screenshot.png)
+[![]({filename}/images/Screenshot-300x111.png "Screenshot")]({filename}/images/Screenshot.png)
 
 Em poucos dias, e depois de uma achega do [Dave
 Crossland](http://understandingfonts.com/), que perguntou se haveria

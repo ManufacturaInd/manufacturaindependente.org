@@ -69,7 +69,7 @@ up with a finished typeface in 4 hours!
 ![Sketching 3](http://media.manufacturaindependente.org/fontstxt-06.jpg "Sketching 3")
 
 Stemming from the [X11
-fonts](ihttps://packages.debian.org/sid/all/xfonts-base/filelist) style of
+fonts](https://packages.debian.org/sid/all/xfonts-base/filelist) style of
 naming fonts after their proportion (`5x8` or `6x10`), we decided on using a
 Catalan transliteration from the proportions of each team's font:
 
