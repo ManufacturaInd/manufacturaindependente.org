@@ -20,9 +20,11 @@ table {
 /* Overrinding Foundation styles
 */
 
-abbr[title] {
-    border-bottom: 0;
-    cursor: default;
+abbr[title],
+abbr {
+  border-bottom: none !important;
+  cursor: inherit !important;
+  text-decoration: none !important;
 }
 
 hr { border-color: #c09a96; }
