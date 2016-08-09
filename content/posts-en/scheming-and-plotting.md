@@ -63,7 +63,7 @@ rewired. So we broke it open and, armed with the
 provided in the wonderful Chiplotle web site, we all got out the
 soldering iron and breadboard, hoping that the rewiring would work.
 
-[![](http://media.manufacturaindependente.org/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")](http://media.manufacturaindependente.org/DSC02151.jpg)
+[![]({filename}/media/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")]({filename}/media/DSC02151.jpg)
 
 By the end of the day, once we tried our new serial adapter, still no
 practical results. However, whenever we tried to send instructions to
@@ -85,11 +85,11 @@ Independente](http://vimeo.com/user6367848) on
 
 Diogo had the brilliant idea to hook an LED on the print head...
 
-[![](http://media.manufacturaindependente.org/DSC02165-1024x768.jpg "DSC02165")](http://media.manufacturaindependente.org/DSC02165.jpg)
+[![]({filename}/media/DSC02165-1024x768.jpg "DSC02165")]({filename}/media/DSC02165.jpg)
 
 ...and try some long exposure photography:
 
-[![](http://media.manufacturaindependente.org/DSC02171-1024x768.jpg "DSC02171")](http://media.manufacturaindependente.org/DSC02171.jpg)
+[![]({filename}/media/DSC02171-1024x768.jpg "DSC02171")]({filename}/media/DSC02171.jpg)
 
 Exciting times ahead with this new toy!
 

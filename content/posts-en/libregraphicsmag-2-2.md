@@ -7,7 +7,7 @@ Tags: libregraphicsmag
 Slug: out-now-libre-graphics-magazine-issue-2-2-gendering-floss
 Lang: en
 
-![issue2.2](http://media.manufacturaindependente.org/issue2.2.jpg)
+![issue2.2]({filename}/media/issue2.2.jpg)
 
 We're very pleased to announce the release of issue 2.2 of Libre
 Graphics magazine. This issue, built around the theme "Gendering

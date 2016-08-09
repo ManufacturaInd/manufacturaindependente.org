@@ -6,7 +6,7 @@ Tags: hacks, lgru
 Slug: implied-spacing
 Lang: pt
 
-![](http://media.manufacturaindependente.org/salt-post.png "Love like Salt with Implied Spacing")
+![]({filename}/media/salt-post.png "Love like Salt with Implied Spacing")
 Usando a API do
 [Scribus](http://www.scribus.net/canvas/Scribus "Scribus") fizemos um
 script a que chamamos Espaçamentos Implícitos.

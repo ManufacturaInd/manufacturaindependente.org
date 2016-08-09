@@ -7,7 +7,7 @@ Tags: type
 Slug: awesome-libre-typography
 Lang: en
 
-![](http://media.manufacturaindependente.org/DSC_0019-1024x768.jpg "LGM, grafitti in Campanhã (Porto, Portugal)")
+![]({filename}/media/DSC_0019-1024x768.jpg "LGM, grafitti in Campanhã (Porto, Portugal)")
 
 <small>Photo by [Luís
 Camanho](http://itsagoodlifeifyoudontweaken.tumblr.com)</small>

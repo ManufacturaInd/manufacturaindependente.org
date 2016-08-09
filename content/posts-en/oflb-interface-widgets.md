@@ -28,5 +28,5 @@ After hooking up a couple of callbacks, our interface for HTML
 font-preview is already working — now, on to finish the styling and
 placement of the widget elements.
 
-[![Screenshot-5.png](http://media.manufacturaindependente.org/Screenshot-5.png "Screenshot-5.png")](http://media.manufacturaindependente.org/Screenshot-5.png)
+[![Screenshot-5.png]({filename}/media/Screenshot-5.png "Screenshot-5.png")]({filename}/media/Screenshot-5.png)
 

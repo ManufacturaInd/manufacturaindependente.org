@@ -7,7 +7,7 @@ Tags: type
 Slug: fontstxt
 Lang: en
 
-![Setting characters](http://media.manufacturaindependente.org/fontstxt-02.jpg "Setting characters")
+![Setting characters]({filename}/media/fontstxt-02.jpg "Setting characters")
 
 We were invited to participate in [FCForum](http://lab.2014.fcforum.net/en/)
 with a keynote and a type design workshop.
@@ -64,9 +64,9 @@ dictators](http://en.wikipedia.org/wiki/Benevolent_dictator_for_life) whenever
 a complex decision needed to be taken -- otherwise there would be no way to end
 up with a finished typeface in 4 hours!
 
-![Sketching](http://media.manufacturaindependente.org/fontstxt-01.jpg "Sketching")
-![Sketching 2](http://media.manufacturaindependente.org/fontstxt-09.jpg "Sketching 2")
-![Sketching 3](http://media.manufacturaindependente.org/fontstxt-06.jpg "Sketching 3")
+![Sketching]({filename}/media/fontstxt-01.jpg "Sketching")
+![Sketching 2]({filename}/media/fontstxt-09.jpg "Sketching 2")
+![Sketching 3]({filename}/media/fontstxt-06.jpg "Sketching 3")
 
 Stemming from the [X11
 fonts](https://packages.debian.org/sid/all/xfonts-base/filelist) style of
@@ -78,10 +78,10 @@ Catalan transliteration from the proportions of each team's font:
 * 7 by 7 = **Setperset**
 
 
-![Digitising](http://media.manufacturaindependente.org/fontstxt-07.jpg "Digitising")
-![Digitising Sisperdotze](http://media.manufacturaindependente.org/fontstxt-10.jpg "Digitising Sisperdotze")
-![Digitising Setperset](http://media.manufacturaindependente.org/fontstxt-08.jpg "Digitising Setperset")
-![Digitising in Notepad](http://media.manufacturaindependente.org/fontstxt-16.jpg "Digitising in Notepad")
+![Digitising]({filename}/media/fontstxt-07.jpg "Digitising")
+![Digitising Sisperdotze]({filename}/media/fontstxt-10.jpg "Digitising Sisperdotze")
+![Digitising Setperset]({filename}/media/fontstxt-08.jpg "Digitising Setperset")
+![Digitising in Notepad]({filename}/media/fontstxt-16.jpg "Digitising in Notepad")
 
 The outcomes
 ------------
@@ -95,17 +95,17 @@ well!
 **Sisperdotze** is an elegant and thin sans-serif which stays close to the terminal
 font aesthetic
 
-![Sisperdotze](http://media.manufacturaindependente.org/fontstxt-03.jpg "Sisperdotze")
+![Sisperdotze]({filename}/media/fontstxt-03.jpg "Sisperdotze")
 
 **Deuperset** has a blocky and (dare we say) retro look that brings us back to early
 Atari-type TV consoles.
 
-![Deuperset](http://media.manufacturaindependente.org/fontstxt-04.jpg "Deuperset")
+![Deuperset]({filename}/media/fontstxt-04.jpg "Deuperset")
 
 **Setperset** is a daring proposal to put forward a serif design which stands out
 from its play on a square frame.
 
-![Setperset](http://media.manufacturaindependente.org/fontstxt-05.jpg "Setperset")
+![Setperset]({filename}/media/fontstxt-05.jpg "Setperset")
 
 After digitising these designs and passing them through our script pipeline, we
 now have beautiful outline versions that can be used in web sites or print
@@ -115,31 +115,31 @@ layouts.
 <style>
     @font-face {
       font-family: 'Sisperdotze';
-      src: url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.eot');
-      src: url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.woff') format('woff'), 
-           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.ttf')  format('truetype'),
-           url('http://media.manufacturaindependente.org/fonts/Sisperdotze/Sisperdotze-Regular.svg#svgFontName') format('svg');
+      src: url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.eot');
+      src: url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.woff') format('woff'), 
+           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.ttf')  format('truetype'),
+           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
     @font-face {
       font-family: 'Deuperset';
-      src: url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.eot');
-      src: url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.woff') format('woff'), 
-           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.ttf')  format('truetype'),
-           url('http://media.manufacturaindependente.org/fonts/Deuperset/Deuperset-Regular.svg#svgFontName') format('svg');
+      src: url('{filename}/media/fonts/Deuperset/Deuperset-Regular.eot');
+      src: url('{filename}/media/fonts/Deuperset/Deuperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.woff') format('woff'), 
+           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.ttf')  format('truetype'),
+           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
     @font-face {
       font-family: 'Setperset';
-      src: url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.eot');
-      src: url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.woff') format('woff'), 
-           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.ttf')  format('truetype'),
-           url('http://media.manufacturaindependente.org/fonts/Setperset/Setperset-Regular.svg#svgFontName') format('svg');
+      src: url('{filename}/media/fonts/Setperset/Setperset-Regular.eot');
+      src: url('{filename}/media/fonts/Setperset/Setperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('{filename}/media/fonts/Setperset/Setperset-Regular.woff') format('woff'), 
+           url('{filename}/media/fonts/Setperset/Setperset-Regular.ttf')  format('truetype'),
+           url('{filename}/media/fonts/Setperset/Setperset-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
@@ -221,7 +221,7 @@ Acknowledgments
   * all the participants in the workshop, who did some excellent work in a
     particularly tight timeframe!
 
-![Group photo](http://media.manufacturaindependente.org/fontstxt-12.jpg "Group photo")
+![Group photo]({filename}/media/fontstxt-12.jpg "Group photo")
 
 
 <script src="../theme/js/jquery-1.11.1.min.js"></script>

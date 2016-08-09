@@ -9,7 +9,7 @@ Client: Self comissioned
 Location: Porto(Portugal) — Toronto(Canada)
 Description: Visual identity, posters, flyers and CD case
 
-![Libre Gaphics Magazine](http://media.manufacturaindependente.org/opening-image.jpg)
+![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
 
 Há muito que procurávamos uma publicação que pudesse combinar
 a perspetiva crítica de uma revista de arte e design com os campos da
