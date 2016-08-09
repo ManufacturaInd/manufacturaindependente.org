@@ -66,8 +66,8 @@ EXTRA_PATH_METADATA = {
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 OUTPUT_PATH = "output/"
 
-PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["gallery", "representative_image"]
+PLUGIN_PATHS = ["plugins", THEME + "/plugins"]
+PLUGINS = ["gallery", "representative_image", "assets"]
 
 # Gallery plug-in
 GALLERY_FOLDER = "galleries"

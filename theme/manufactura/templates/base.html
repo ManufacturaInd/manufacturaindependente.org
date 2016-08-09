@@ -33,8 +33,11 @@
         {% endblock head %}
         
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css">
-        
+
+        {% assets filters="scss,cssmin", output="css/style.css", "css/font-sampler.css" %}
+          <link rel="stylesheet" href="/{{ ASSET_URL }}">
+        {% endassets %}
+
         <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png">
 
         <!-- Piwik -->

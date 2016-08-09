@@ -14,3 +14,6 @@ pytz==2014.9
 six==1.8.0
 wsgiref==0.1.2
 beautifulsoup4==4.4.1
+sass==2.3
+cssmin==0.2.0
+webassets==0.11.1
