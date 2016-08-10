@@ -32,9 +32,9 @@
         {% endif %}
         {% endblock head %}
         
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">
+        <!--<link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">-->
 
-        {% assets filters="scss,cssmin", output="css/style.css", "css/font-sampler.css" %}
+        {% assets filters="scss,cssmin", output="css/style.scss" %}
           <link rel="stylesheet" href="/{{ ASSET_URL }}">
         {% endassets %}
 

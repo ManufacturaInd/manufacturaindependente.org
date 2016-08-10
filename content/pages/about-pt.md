@@ -3,17 +3,22 @@ Date: 2010-11-28 16:11
 Author: manufactura
 Category: page
 Slug: about
-Status: draft
 Lang: pt
 
 ![Manufactura Independente]({filename}/media/manufacturaindependente_2013.jpg)
 
-A Manufactura Independente é um estúdio de
-investigação em design criado em 2010 no Porto, em Portugal.
 
-É o espaço de laboratório para as experiências de Ana Carvalho e Ricardo
-Lafuente na área do design e noutras em que estes se sentem tentados a
-arriscar.
+A Manufactura Independente é um estúdio de investigação crítica em design e 
+comunicação gráfica, focado nas perspetivas da cultura livre e open-source. 
+Nascida em 2010 e baseada no Porto, a Manufactura é o laboratório de Ana Isabel 
+Carvalho e Ricardo Lafuente nas suas intervenções nas áreas do design, 
+media art, tipografia, metodologias colaborativas, arquitetura de informação 
+e arqueologia de hardware e software. 
+
+Tem orientado vários workshops de natureza exploratória e especulativa à volta 
+dos temas da tipografia, media digitais, layout, edição independente ou cultura 
+livre, em locais como Bruxelas, Londres, Montréal, Linz ou Roterdão.
+
 
 * * * * *
 

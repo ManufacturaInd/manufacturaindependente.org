@@ -5,7 +5,7 @@ Category: Post
 Slug: libre-graphics-meeting-2011
 Lang: pt
 
-[![]({filename}/media/lgm2011-210x300.jpg "lgm2011")]({filename}/media/lgm2011.jpg)
+[![LGM 2011]({filename}/media/lgm2011-210x300.jpg "LGM 2011")]({filename}/media/lgm2011.jpg)
 
 A Libre Graphics Meeting é uma conferência anual, organizada pela
 comunidade, que tem como propósito juntar programadores e utilizadores
