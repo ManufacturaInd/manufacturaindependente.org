@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-bringing-the-layout-to-life
 Lang: pt
 
-[![]({filename}/media/sidebar.png "sidebar")]({filename}/media/sidebar.png)
+[![Image]({filename}/media/sidebar.png "sidebar")]({filename}/media/sidebar.png)
 
 Depois dos esboços em papel da página inicial passamos ao código.
 Queríamos testar a página no ecrã para ver se a composição resultava ou

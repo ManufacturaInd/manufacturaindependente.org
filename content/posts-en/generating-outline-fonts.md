@@ -20,7 +20,7 @@ dispensing with the GUI and allowing for some very interesting
 batch-processing approaches. Plus, the Python bindings are exhaustively
 [documented](http://fontforge.sourceforge.net/python.html).
 
-[![]({filename}/media/douar-outline-1024x640.png "douar-outline")]({filename}/media/douar-outline.png)
+[![Douar Outline]({filename}/media/douar-outline-1024x640.png "douar-outline")]({filename}/media/douar-outline.png)
 
 The window on the left is the GNOME font previewer showing an outline
 version of [VTF Foundry](http://www.vtf.fadebiaye.com/)'s

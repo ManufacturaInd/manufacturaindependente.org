@@ -7,15 +7,15 @@ Tags: hacks, plotter
 Slug: scheming-and-plotting
 Lang: en
 
-![](http://www.plotter-printers.com/wp-content/uploads/2011/03/pen-plotter-pictures.jpg "Desktop pen plotter")For
-a long while, we were pretty curious about the workings of plotters.
-Like regular inkjet printers, they work by mechanically moving a printer
-head over a sheet of paper. Unlike inkjets, plotters use pens to draw,
-instead of spraying little drops of ink over the paper. This came in
-useful for specific uses such as architecture plans, which featured
-mostly linework and few textures or fillings, which made the pen
-approach desirable. Finally, while inkjet printers work with bitmap
-images, pen plotters draw from vector files.
+![Desktop pen plotter](http://www.plotter-printers.com/wp-content/uploads/2011/03/pen-plotter-pictures.jpg "Desktop pen plotter")
+
+For a long while, we were pretty curious about the workings of plotters.  Like
+regular inkjet printers, they work by mechanically moving a printer head over a
+sheet of paper. Unlike inkjets, plotters use pens to draw, instead of spraying
+little drops of ink over the paper. This came in useful for specific uses such
+as architecture plans, which featured mostly linework and few textures or
+fillings, which made the pen approach desirable. Finally, while inkjet printers
+work with bitmap images, pen plotters draw from vector files.
 
 Sadly, plotters are really hard to find. In most print shops, old-school
 plotters have been replaced by large-format inkjet printers which,
@@ -47,7 +47,7 @@ files into it. We'd just need to solve how to connect the computer to
 the plotter.
 
 The Roland DPX-2200 was manufactured between 1987 and 1990, so it's
-no![](http://computerpartsdirect.us/images/products/800A-RS232-unit.jpg "Serial cable and adapter")
+no![Image](http://computerpartsdirect.us/images/products/800A-RS232-unit.jpg "Serial cable and adapter")
 wonder to find an ancient 25-pin serial plug as the sole means of
 connecting to anything else. This meant two parts are needed:
 
@@ -63,7 +63,7 @@ rewired. So we broke it open and, armed with the
 provided in the wonderful Chiplotle web site, we all got out the
 soldering iron and breadboard, hoping that the rewiring would work.
 
-[![]({filename}/media/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")]({filename}/media/DSC02151.jpg)
+[![Breadboard with serial adapter]({filename}/media/DSC02151-1024x768.jpg "Breadboard with serial adapter terminals")]({filename}/media/DSC02151.jpg)
 
 By the end of the day, once we tried our new serial adapter, still no
 practical results. However, whenever we tried to send instructions to
@@ -85,11 +85,11 @@ Independente](http://vimeo.com/user6367848) on
 
 Diogo had the brilliant idea to hook an LED on the print head...
 
-[![]({filename}/media/DSC02165-1024x768.jpg "DSC02165")]({filename}/media/DSC02165.jpg)
+[![LED plotter]({filename}/media/DSC02165-1024x768.jpg "DSC02165")]({filename}/media/DSC02165.jpg)
 
 ...and try some long exposure photography:
 
-[![]({filename}/media/DSC02171-1024x768.jpg "DSC02171")]({filename}/media/DSC02171.jpg)
+[![LED long exposure]({filename}/media/DSC02171-1024x768.jpg "DSC02171")]({filename}/media/DSC02171.jpg)
 
 Exciting times ahead with this new toy!
 

@@ -17,4 +17,4 @@ We put together a bundle of fonts to be used with Colorfont.js.
 
 It was beautifully used for rainbow effects in the site for a protest against Russia's anti-gay initiatives in 2013.
 
-![]({filename}/media/work_colorfont-reglo.jpg "Bonjour Variable, using Reglo Colorfont")
+![Image]({filename}/media/work_colorfont-reglo.jpg "Bonjour Variable, using Reglo Colorfont")

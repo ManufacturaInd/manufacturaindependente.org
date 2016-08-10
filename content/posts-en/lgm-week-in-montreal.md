@@ -14,7 +14,7 @@ still there.
 As a result we got home with a big list of stuff we had done in our
 heads and just decided to write it down quickly to share.
 
-![]({filename}/media/IMG_4109.png "LGM 2011")
+![LGM 2011]({filename}/media/IMG_4109.png "LGM 2011")
 
 Here is the list of some of the things we did while at Montréal:
 
