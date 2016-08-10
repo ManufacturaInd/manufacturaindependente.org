@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 {% block content %}
 <section id="content" class="list-page">
-    <ul>
+    <ul class="row large-collapse">
     {% for category, articles in categories %}
-        <li class="row large-collapse"><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+        <li class="small-12 columns"><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
     {% endfor %}
     </ul>
 </section><!-- /#content -->

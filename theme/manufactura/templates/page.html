@@ -3,7 +3,9 @@
 {% block content %}
 <section id="content" class="page">
     <header class="row large-collapse">
-        <h2 class="entry-title columns large-12">{{ page.title }}</h2>
+      <div class="columns small-12">
+        <h2 class="entry-title">{{ page.title }}</h2>
+      </div>
     </header>
 
     <div class="entry-content row large-collapse">
@@ -16,10 +18,5 @@
         {% import 'translations.html' as translations with context %}
         <small>{{ translations.translations_for(page) }}</small>
     </footer><!-- /.post-info -->
-	{% if page.modified %}
-		<p class="row large-collapse">
-		Last updated: {{ page.locale_modified }}
-		</p>
-	{% endif %}
 </div><!-- /#content -->
 {% endblock %}
