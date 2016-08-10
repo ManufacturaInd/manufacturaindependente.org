@@ -6,8 +6,6 @@ Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
 Lang: pt
 
-[![]({filename}/images/Screenshot-300x111.png "Screenshot")]({filename}/images/Screenshot.png)
-
 Em poucos dias, e depois de uma achega do [Dave
 Crossland](http://understandingfonts.com/), que perguntou se haveria
 hipóteses de criar texto com mais de uma cor que pudesse funcionar num

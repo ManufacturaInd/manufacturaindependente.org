@@ -7,8 +7,6 @@ Tags: hacks
 Slug: a-first-experiment-with-multicoloured-web-fonts
 Lang: en
 
-[![]({filename}/images/thumb-colorfont-screenshot.png "Screenshot")]({filename}/images/colorfont-screenshot.png)
-
 We made a little hack in a couple of days after a poke by [Dave
 Crossland](http://understandingfonts.com/), who asked how hard it would
 be to create multi-colored text that could work in an HTML document.
@@ -93,7 +91,7 @@ duplicate headers just for stylistic effect). We agree, but can't help
 feeling a bit powerless and longing for an easy and elegant solution for
 complex, multi-colored text effects on the web.
 
-Finally, the effect can only be applied on \<h1\> and \<h2\> headings.
+Finally, the effect can only be applied on `<h1>` and `<h2>` headings.
 Bug us in the comments if you need more.
 
 Can i use it?
