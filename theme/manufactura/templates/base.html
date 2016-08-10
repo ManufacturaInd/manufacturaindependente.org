@@ -34,7 +34,7 @@
         
         <!--<link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">-->
 
-        {% assets filters="scss,cssmin", output="css/style.scss" %}
+        {% assets filters="pyscss", output="style.css", "css/style.scss" %}
           <link rel="stylesheet" href="/{{ ASSET_URL }}">
         {% endassets %}
 

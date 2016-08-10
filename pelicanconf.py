@@ -7,40 +7,25 @@ AUTHOR = u'Manufactura Independente'
 SITENAME = u'Manufactura Independente'
 SITESUBTITLE = "Libre Graphics & Design research studio"
 SITEURL = 'http://manufacturaindependente.org'
+SITE_DESCRIPTION = 'Manufactura Independente, Libre Graphics & Design Research Studio'
+SITE_LOGO = '/theme/images/manufactura.png'
+TIMEZONE = 'Europe/Lisbon'
+DEFAULT_LANG = u'en'
 
 PATH = 'content'
-
-TIMEZONE = 'Europe/Lisbon'
-
-DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+DEFAULT_PAGINATION = False
 
 # Specify a customized theme, via path relative to the settings file
 THEME = 'theme/manufactura'
-
-SITE_DESCRIPTION = 'Manufactura, Libre Graphics Design & Research Studio.'
-
-SITE_LOGO = '/theme/images/manufactura.png'
-
 
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
@@ -69,6 +54,17 @@ OUTPUT_PATH = "output/"
 PLUGIN_PATHS = ["plugins", THEME + "/plugins"]
 PLUGINS = ["gallery", "representative_image", "assets"]
 
+ASSET_CONFIG = (
+    ('sass_style', 'compact'),
+    ('cache', False),
+    ('manifest', False),
+    ('url_expire', False),
+    ('versions', False),
+    ('sass_debug_info', True),
+)
+
+ASSET_SOURCE_PATHS = ['static/css']
+
 # Gallery plug-in
 GALLERY_FOLDER = "galleries"
 GALLERY_SRC_PATH = "%s%s" % (BASE_PATH, "gallery_src")
@@ -84,6 +80,7 @@ GALLERY_PRESETS = [
             {"type": "greyscale"}
         ]},
 ]
+
 # This setting is optional, used for thumbnails in bootstrap
 # THUMBNAIL_GALLERY_CLASS = "span2"
 
@@ -95,3 +92,14 @@ GALLERY_PRESETS = [
 #            ('github', 'https://github.com/manufacturaind/'),
 #            ('twitter-square', 'https://twitter.com/manufacturaind'),
 #         )
+
+
+# Blogroll
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+
+# Social widget
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
