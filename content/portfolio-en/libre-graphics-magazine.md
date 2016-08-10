@@ -7,7 +7,7 @@ Tags: floss, graphic, print
 Slug: libre-graphics-magazine
 Lang: en
 
-![Libre Gaphics Magazine](http://media.manufacturaindependente.org/opening-image.jpg)
+![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
 
 We had yearned for a publication that could combine the
 critical perspective of an art and design magazine with a clear

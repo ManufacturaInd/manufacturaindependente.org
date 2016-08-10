@@ -41,7 +41,7 @@ help:
 
 install:
 	virtualenv .env --no-site-packages --distribute --prompt=\(manufactura\)
-	. `pwd`/.env/bin/activate; pip install -r requirements.txt
+	$(LOAD_VENV_CMD); pip install -r requirements.txt
 
 build:
 	$(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

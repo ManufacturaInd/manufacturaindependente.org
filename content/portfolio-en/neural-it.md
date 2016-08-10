@@ -20,4 +20,4 @@ The development of this project spanned many months, and consisted in several st
   * Implement a quirky feature to disable all colour from the website and make it black-and-white only.
   * Adapt the Neural.it theme to a simplified version for use in its sister site focused on music, [Wicked Style](http://wickedstyle.neural.it/).
 
-![Neural.it](http://media.manufacturaindependente.org/neural.png "Neural.it")  
+![Neural.it]({filename}/media/neural.png "Neural.it")  

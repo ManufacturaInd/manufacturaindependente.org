@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-the-footer
 Lang: en
 
-[![Footer](http://media.manufacturaindependente.org/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
+[![Footer]({filename}/media/footer03-e1312400481801.png "Footer")](http://manufacturaindependente.com/oflb/20110803-footer/index.html#foot)
 
 The footer has been subject to several changes as the redesign and
 layout for the OFLB website evolved.

@@ -13,6 +13,6 @@ From there, we've been refining the design and releasing new versions with each 
 
 You can download PropCourier Sans at [Gitorious](https://gitorious.org/libregraphicsmag/propcouriersans/source/5bfd90cdbfd5ae1487110d43c4ff208cc7f17d67:) or [libregraphicsmag.com](http://libregraphicsmag.com/asset).
 
-![PropCourier 1.1 vs PropCourier 1.2](http://media.manufacturaindependente.org/work_propcourier-versions.png "PropCourier 1.1 vs PropCourier 1.2")
+![PropCourier 1.1 vs PropCourier 1.2]({filename}/media/work_propcourier-versions.png "PropCourier 1.1 vs PropCourier 1.2")
 
-![PropCourier in use by OSP for the graphic identity of Constant Variable](http://media.manufacturaindependente.org/work_propcourier-osp.jpg "PropCourier in use by OSP for the graphic identity of Constant Variable")
+![PropCourier in use by OSP for the graphic identity of Constant Variable]({filename}/media/work_propcourier-osp.jpg "PropCourier in use by OSP for the graphic identity of Constant Variable")

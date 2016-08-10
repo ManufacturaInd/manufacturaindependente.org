@@ -13,4 +13,4 @@ In this workshop, we introduced students to the command line and taught them how
 
 This workshop was hosted at the [École de Recherche Graphique](http://www.erg.be), in Brussels, in February 2014, as part of [Femke Snelting's](http://snelting.domainepublic.net/) Toolbending class.
 
-![Transpacing](http://media.manufacturaindependente.org/transpacing.png)
+![Transpacing]({filename}/media/transpacing.png)

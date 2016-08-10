@@ -10,7 +10,7 @@ Client: Visões Úteis
 Location: Porto, Portugal
 Description: Text
 
-![Ficheiros Secretos](http://media.manufacturaindependente.org/ficheiros-secretos.jpg)
+![Ficheiros Secretos]({filename}/media/ficheiros-secretos.jpg)
 
 We collaborated with [Visões Úteis](http://visoesuteis.pt "Visões Úteis") in
 the play [Ficheiros

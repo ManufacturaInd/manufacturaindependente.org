@@ -39,7 +39,7 @@ residency program is a precious opportunity to support its development and
 release of a first working version of our vision.
 
 
-![](http://media.manufacturaindependente.org/fib-workflow.png "Fib-based web foundry workflow")
+![]({filename}/media/fib-workflow.png "Fib-based web foundry workflow")
 
 
 Project goals
@@ -74,9 +74,9 @@ Current state
 
 We've already [presented](http://web.ipca.pt/5et/painel4_pt.html#p4_ana) and
 published a paper detailing the architecture of this project
-(<small>[ODT](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.odt
+(<small>[ODT]({filename}/media/files/foundry-in-a-box_5et.odt
 "Foundry-in-a-box paper, 192Kb") or
-[PDF](http://media.manufacturaindependente.org/files/foundry-in-a-box_5et.pdf
+[PDF]({filename}/media/files/foundry-in-a-box_5et.pdf
 "Foundry-in-a-box paper, 585Kb")</small>).  We have also
 developed a minimal version of the command-line tool
 ([repository](https://gitlab.com/manufacturaind/fib)), as well as a tentative

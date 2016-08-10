@@ -7,8 +7,8 @@ Tags: @font-face, colorfont, fontforge, workshop
 Slug: colorfont-workshop-at-lgm-2012
 Lang: en
 
-![Workshop](http://media.manufacturaindependente.org/IMG_7895-300x200.jpg "IMG_7895")
-![Workshop 2](http://media.manufacturaindependente.org/IMG_7898-300x200.jpg "Colorfont Workshop Brussels, Constant Variable")
+![Workshop]({filename}/media/IMG_7895-300x200.jpg "IMG_7895")
+![Workshop 2]({filename}/media/IMG_7898-300x200.jpg "Colorfont Workshop Brussels, Constant Variable")
 
 During the recent Libre Graphics Meeting in Vienna, we hosted a
 typography workshop, under the theme of multicoloured fonts. While
@@ -32,7 +32,7 @@ everyone came up with many ideas and input for new colorfont designs,
 during a full afternoon around letters and colour. We took some cues
 from this session to organize the Colorfont Workshop in Vienna.
 
-![Workshop 3](http://media.manufacturaindependente.org/IMG_20120504_140425-1024x768.jpg "IMG_20120504_140425")
+![Workshop 3]({filename}/media/IMG_20120504_140425-1024x768.jpg "IMG_20120504_140425")
 
 We had only two hours available and a mix audience of artists &
 programmers. We started with a quick intro to the theme and moved to
@@ -46,7 +46,7 @@ Black](http://mplus-fonts.sourceforge.jp/mplus-outline-fonts/design/index-en.htm
 printed out the uppercase latin alphabet using outlined letters and
 distributed them among the participants.
 
-![Workshop 4](http://media.manufacturaindependente.org/IMG_20120504_154130-1024x768.jpg "IMG_20120504_154130")
+![Workshop 4]({filename}/media/IMG_20120504_154130-1024x768.jpg "IMG_20120504_154130")
 
 We wanted each person to plan in paper what they would execute later in
 FontForge — it's too easy to lose oneself in the program, so the goal
@@ -54,15 +54,15 @@ was to have everything fleshed out before even touching the computer.
 After that we moved to a quick Fontforge tutorial, focusing on
 techniques for subtracting parts of a glyph.
 
-[![Workshop 5](http://media.manufacturaindependente.org/IMG_20120504_140531-300x225.jpg "IMG_20120504_140531")](http://media.manufacturaindependente.org/IMG_20120504_140531.jpg)
-[![Workshop 6](http://media.manufacturaindependente.org/IMG_20120504_141438-300x225.jpg "IMG_20120504_141438")](http://media.manufacturaindependente.org/IMG_20120504_141438.jpg)
-[![Workshop 7](http://media.manufacturaindependente.org/IMG_20120504_153049-300x225.jpg "IMG_20120504_153049")](http://media.manufacturaindependente.org/IMG_20120504_153049.jpg)
-[![Workshop 8](http://media.manufacturaindependente.org/IMG_20120504_140641-300x225.jpg "IMG_20120504_140641")](http://media.manufacturaindependente.org/IMG_20120504_140641.jpg)
-[![Workshop 9](http://media.manufacturaindependente.org/IMG_20120504_152701-300x225.jpg "IMG_20120504_152701")](http://media.manufacturaindependente.org/IMG_20120504_152701.jpg)
-[![Workshop 10](http://media.manufacturaindependente.org/IMG_20120504_145001-300x225.jpg "IMG_20120504_145001")](http://media.manufacturaindependente.org/IMG_20120504_145001.jpg)
-[![Workshop 11](http://media.manufacturaindependente.org/IMG_20120504_140735-300x225.jpg "IMG_20120504_140735")](http://media.manufacturaindependente.org/IMG_20120504_140735.jpg)
-[![Workshop 12](http://media.manufacturaindependente.org/IMG_20120504_145011-300x225.jpg "IMG_20120504_145011")](http://media.manufacturaindependente.org/IMG_20120504_145011.jpg)
-[![Workshop 13](http://media.manufacturaindependente.org/IMG_20120504_152637-300x225.jpg "IMG_20120504_152637")](http://media.manufacturaindependente.org/IMG_20120504_152637.jpg)
+[![Workshop 5]({filename}/media/IMG_20120504_140531-300x225.jpg "IMG_20120504_140531")]({filename}/media/IMG_20120504_140531.jpg)
+[![Workshop 6]({filename}/media/IMG_20120504_141438-300x225.jpg "IMG_20120504_141438")]({filename}/media/IMG_20120504_141438.jpg)
+[![Workshop 7]({filename}/media/IMG_20120504_153049-300x225.jpg "IMG_20120504_153049")]({filename}/media/IMG_20120504_153049.jpg)
+[![Workshop 8]({filename}/media/IMG_20120504_140641-300x225.jpg "IMG_20120504_140641")]({filename}/media/IMG_20120504_140641.jpg)
+[![Workshop 9]({filename}/media/IMG_20120504_152701-300x225.jpg "IMG_20120504_152701")]({filename}/media/IMG_20120504_152701.jpg)
+[![Workshop 10]({filename}/media/IMG_20120504_145001-300x225.jpg "IMG_20120504_145001")]({filename}/media/IMG_20120504_145001.jpg)
+[![Workshop 11]({filename}/media/IMG_20120504_140735-300x225.jpg "IMG_20120504_140735")]({filename}/media/IMG_20120504_140735.jpg)
+[![Workshop 12]({filename}/media/IMG_20120504_145011-300x225.jpg "IMG_20120504_145011")]({filename}/media/IMG_20120504_145011.jpg)
+[![Workshop 13]({filename}/media/IMG_20120504_152637-300x225.jpg "IMG_20120504_152637")]({filename}/media/IMG_20120504_152637.jpg)
 
 While some went forward translating their paper designs into actual
 colorfonts, other participants struggled with getting Fontforge to work,
@@ -76,11 +76,11 @@ The workshop ended with some bright surprises: not only having finished
 a full uppercase colorfont, Simon Budig found the time and determination
 to fix a selection bug in Colorfont.js.
 
-![Colorfont](http://media.manufacturaindependente.org/selected-colorfont1.png "selected-colorfont")
+![Colorfont]({filename}/media/selected-colorfont1.png "selected-colorfont")
 
 Other participants also came up with some clever and beautiful designs,
 which are now showcased at the Colorfont website.[Check them
 out](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html "Colorfont Workshop, LGM 2012")!
 
-[![Colorfonts from Vienna](http://media.manufacturaindependente.org/Colorfonts-from-Vienna-1024x536.png "Colorfonts-from-Vienna")](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html)
+[![Colorfonts from Vienna]({filename}/media/Colorfonts-from-Vienna-1024x536.png "Colorfonts-from-Vienna")](http://manufacturaindependente.com/colorfont/workshop-lgm2012.html)
 

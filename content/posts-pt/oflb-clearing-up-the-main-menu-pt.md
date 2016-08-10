@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: pt
 
-[![](http://media.manufacturaindependente.org/main-menu00.png "main-menu00")](http://media.manufacturaindependente.org/main-menu00.png)
+[![]({filename}/media/main-menu00.png "main-menu00")]({filename}/media/main-menu00.png)
 
 Na última sexta estivemos a fazer esboços para o menu principal da Open
 Font Library (OFLB). Começamos a compor os vários elementos com base no

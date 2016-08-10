@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-identity-guidelines
 Lang: en
 
-[![Identity manual](http://media.manufacturaindependente.org/identity-1024x478.png "identity")](http://media.manufacturaindependente.org/identity.png)
+[![Identity manual]({filename}/media/identity-1024x478.png "identity")]({filename}/media/identity.png)
 
 We've completed a first concise version of the identity guidelines
 (regard this as alpha!). We took cues from the [Novacut

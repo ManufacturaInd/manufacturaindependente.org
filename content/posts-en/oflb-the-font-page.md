@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-the-font-page
 Lang: en
 
-[![Waterfall](http://media.manufacturaindependente.org/waterfall-e1312288005155.png "Waterfall")](http://manufacturaindependente.com/oflb/20110802-fontpage/)
+[![Waterfall]({filename}/media/waterfall-e1312288005155.png "Waterfall")](http://manufacturaindependente.com/oflb/20110802-fontpage/)
 
 This is the
 [mockup](http://manufacturaindependente.com/oflb/20110802-fontpage/) of

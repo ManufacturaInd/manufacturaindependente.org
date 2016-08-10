@@ -20,17 +20,17 @@ Heitor Alvelos, FuturePlaces curator and agent provocateur, takes the lead as Ar
 ### Future Places 2015 
 
 <ul class="small-block-grid-1 medium-block-grid-2">
-    <li><img src="http://media.manufacturaindependente.org/work/Futureplaces_2015_mupi.png"></li>
-    <li><img src="http://media.manufacturaindependente.org/work/Futureplaces_2015_cartaz.png"></li>
+    <li><img src="{filename}/media/work/Futureplaces_2015_mupi.png"></li>
+    <li><img src="{filename}/media/work/Futureplaces_2015_cartaz.png"></li>
 </ul>
 
 ### Future Places 2013 
 
 <ul class="small-block-grid-1 medium-block-grid-2">
-    <li><img src="http://media.manufacturaindependente.org/work/Futureplaces_2013_mupi.png"></li>
-    <li><img src="http://media.manufacturaindependente.org/work/Futureplaces_2013_cartaz.png"></li>
+    <li><img src="{filename}/media/work/Futureplaces_2013_mupi.png"></li>
+    <li><img src="{filename}/media/work/Futureplaces_2013_cartaz.png"></li>
 </ul>
 
-![Future Places 2013, autocolantes](http://media.manufacturaindependente.org/work/Futureplaces_2013_autocolantes.png)
+![Future Places 2013, autocolantes]({filename}/media/work/Futureplaces_2013_autocolantes.png)
 
 

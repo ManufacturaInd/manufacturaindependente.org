@@ -25,5 +25,5 @@ To be able to organize it efficiently we divided it in three rows:
 bottom margins;  
 \* the third has the catalogue and documentation.
 
-[![Layout with media queries](http://media.manufacturaindependente.org/compo-mediaqueries-1024x382.png "compo-mediaqueries")](http://media.manufacturaindependente.org/compo-mediaqueries.png)
+[![Layout with media queries]({filename}/media/compo-mediaqueries-1024x382.png "compo-mediaqueries")]({filename}/media/compo-mediaqueries.png)
 
