@@ -10,11 +10,10 @@
 @import 'foundation/foundation.scss';
 @import 'foundation/_global.scss';*/
 
-$alarming-red: #AB0635;
+@import "foundation";
 
 body {
   line-height: 1;
-  background: $alarming-red !important;
 }
 
 blockquote, q {
