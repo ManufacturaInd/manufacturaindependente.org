@@ -6,11 +6,48 @@
 	Original author: Manufactura Independente <http://manufacturaindependente.org/>
 */
 
-/*
-@import 'foundation/foundation.scss';
-@import 'foundation/_global.scss';*/
+/* Typography
+*/
 
-@import "foundation";
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Fantasque Mono';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
+}
+
+/* Import Foundation
+*/
+
+@import 'foundation';
 
 body {
   line-height: 1;
@@ -43,78 +80,35 @@ abbr {
 
 hr { border-color: #c09a96; }
 
-/* Typography
-*/
-
-@font-face {
-  font-family: 'Roboto Light';
-  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Regular';
-  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Bold';
-  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Italic';
-  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Fantasque Mono';
-  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
-}
 
 body {
-  font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
-  font-size: 1em;
   line-height: 1.4;
 }
 
-h1, h2, h3, h4, h5, h6,
 .article .entry-date,
 .home .entry-content p {
-  font-family: 'Roboto Light';
+  font-weight: 300;
 }
 
 .entry-date,
 .home .entry-title {
-	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
+	font-weight: 400;
 }
 
 .entry-summary,
 .entry-content {
-	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
+  
 }
 
-em {
-	font-family: 'Roboto Italic';
-	font-style: normal;
-}
-
-strong,
 #header h1,
 .entry-content .post-meta {
-    font-family: 'Roboto Bold';
-    font-weight: normal;
-}
-
-pre, code {
-	font-family: 'Fantasque Mono', monospace;
+    font-weight: 700;
 }
 
 small,
 .post-info p {
     font-size: 80%;
 }
-
-pre 
 
 /* Layout
 */
@@ -171,6 +165,20 @@ pre
     margin-top: 1em;
 }
 
+/* Block grids inside articles, pages... and with <ul> instead of <div>
+*/
+
+.entry-content ul.display {
+  list-style: none;
+  margin-left: 0;
+}
+
+.entry-content .row.display {
+  margin-left: -0.9375rem;
+  margin-right: -0.9375rem;
+}
+
+
 /* Homepage
 */
 
@@ -225,6 +233,11 @@ pre
 .page h2.entry-title {
     display: block;
     padding-bottom: 0.25em !important;
+}
+
+.article .entry-date abbr {
+	font-size: 90%;
+	text-transform: uppercase;
 }
 
 .undocumented {

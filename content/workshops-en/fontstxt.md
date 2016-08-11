@@ -223,7 +223,5 @@ Acknowledgments
 
 ![Group photo]({filename}/media/fontstxt-12.jpg "Group photo")
 
-
-<script src="../theme/js/jquery-1.11.1.min.js"></script>
 <script src="../theme/js/modernizr-2.8.3-custom.min.js"></script>
 <script src="../theme/js/font-sampler.js"></script>
