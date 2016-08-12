@@ -96,9 +96,7 @@ body {
 }
 
 .entry-summary,
-.entry-content {
-  
-}
+.entry-content {}
 
 #header h1,
 .entry-content .post-meta {
@@ -113,32 +111,34 @@ small,
 /* Layout
 */
 
+/*
 .row.large-collapse > .columns {
-    padding-right: 0.9375em;
+    padding-right: 0.9375rem;
 }
 
 .row.large-collapse > .columns:last-child {
     padding-right: 0;
-}
+}*/
 
 #header {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 #content {
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
 .list-page ul {
     margin-left: 0;
     list-style: none;
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
-#content ul li .hentry {
-    border-bottom: 1px solid #47505e;
-    padding: 0.25em 0;
+#content ul li .hentry.row {
+    border-top: 1px solid #47505e;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 #content ul li .hentry p {
@@ -147,8 +147,8 @@ small,
 }
 
 .list-page #content h3 {
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 .page h1.entry-title {
@@ -162,7 +162,7 @@ small,
     #header p:first-child a { border-bottom: 0; }
 
 #footer {
-    margin-top: 1em;
+    margin-top: 1rem;
 }
 
 /* Block grids inside articles, pages... and with <ul> instead of <div>
@@ -190,7 +190,7 @@ small,
     display: block;
 }
 
-#header h1 { font-size: 1.75em; }
+#header h1 { font-size: 1.75rem; }
 
 #header p {
     line-height: 1.2;
@@ -198,21 +198,26 @@ small,
 }
 
 .list-page .hentry {
-    margin-top: 0.15em;
-    margin-bottom: 0.15em;
+    margin-top: 0.15rem;
+    margin-bottom: 0.15rem;
 }
 
 .list-page .entry-title,
 .list-page .entry-content {
-    font-size: 1em;
+    font-size: 1rem;
     margin-bottom: 0;
     margin-top: 0;
     line-height: 1.2;
 }
 
+.list-page .entry-content { line-height: 1.4; }
+
+.list-page .entry-title a { display: inline-block; }
+
 .list-page .entry-date abbr {
-	font-size: 0.7em;
+	font-size: 0.7rem;
 	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 
@@ -222,10 +227,9 @@ small,
 
 .article .entry-title,
 .page .entry-title {
-    font-size: 4em;
     line-height: 1;
     margin-bottom: 0;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.5rem;
     border-bottom: 1px solid #3e4652;
 }
 
@@ -235,9 +239,14 @@ small,
     padding-bottom: 0.25em !important;
 }
 
+.article .entry-date { /* Date */
+    border-bottom: 1px solid #3e4652;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
 .article .entry-date abbr {
 	font-size: 90%;
-	text-transform: uppercase;
 }
 
 .undocumented {
@@ -269,24 +278,18 @@ small,
 .article .entry-content h3,
 .article .entry-content h4 {
     margin-top: 1.25rem;
-    padding-bottom: 0.25em;
+    padding-bottom: 0.25rem;
 }
 
 .article .entry-content > h3 {
-    margin-top: 0.25em;
-    padding-bottom: 0.25em;
-}
-
-.article .entry-date { /* Date */
-    border-bottom: 1px solid #3e4652;
-    padding-bottom: 0.25em;
-    margin-bottom: .5em;
+    margin-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 .translation {
     border-top: 1px solid #3e4652;
-    padding-top: 0.25em;
-    margin-top: 2em;
+    padding-top: 0.25rem;
+    margin-top: 2rem;
 }
 
 .other .entry-content a + img {
@@ -307,14 +310,14 @@ small,
 }
 
 #content pre {
-    font-size: 0.875em;
+    font-size: 0.875rem;
     background-color: #f5f2ee;
-    padding: 1em;
+    padding: 1rem;
     margin-top: 1.25rem;
 }
 
 .entry-content iframe {
-    margin-top: 1em;
+    margin-top: 1rem;
 }
 
 .post-info p {
@@ -372,18 +375,21 @@ small,
 }
 
 
-/* large-collapse */
+/* Large and up */
+@media screen and (min-width: 64em) {
 
-@media only screen and (min-width: 64.063em) {
-    .large-collapse {
-        padding: 0;
-    }
-    .large-collapse .columns {
-        padding: 0 1em 0 0;
-    }
-    .large-collapse .columns:last-child {
-        padding: 0;
-    }
-    
-} 
+  /* remove padding in leftmost column and rightmost column, in post/work list */
+  #content ul li .hentry.row .columns:first-child { padding-left: 0; }
+  #content ul li .hentry.row .columns:last-child  { padding-right: 0; }
+  
+  
+  /* remove left padding in post/work list titles */
+  .list-page .row.column { padding-left: 0; }
+
+  .article .entry-title,
+  .page .entry-title { font-size: 4rem; }
+
+  
+}
+ 
 

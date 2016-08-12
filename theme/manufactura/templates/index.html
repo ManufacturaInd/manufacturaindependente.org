@@ -1,14 +1,13 @@
 {% extends "base.html" %}
 {% block content %}
 <section id="content" class="list-page">
-  <div class="row large-collapse">
-    <div class="small-12 columns"><h3>Work</h3></div>
+  <div class="row column">
+    <h3>Work</h3>
   </div>
   <ul id="portfolio-list">  
     {% for article in articles_page.object_list %}
       {% if article.category.name == 'Work' %}
-        <li>
-          <article class="hentry row large-collapse">
+        <li><article class="hentry row">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
@@ -24,19 +23,18 @@
             <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
               {{ article.summary }}
             </div>
-          </article>
-        </li>       
+        </article></li>       
       {% endif %}
     {% endfor %}
   </ul><!-- /#portfolio-list -->
   
-  <div class="row large-collapse">
-    <div class="small-12 columns"><h3>Workshops</h3></div>
+  <div class="row column">
+    <h3>Workshops</h3>
   </div>
   <ul id="workshop-list">  
     {% for article in articles_page.object_list %}
       {% if article.category.name == 'Workshops' %}
-        <li><article class="hentry row large-collapse">
+        <li><article class="hentry row">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
@@ -53,16 +51,15 @@
         </article></li>
       {% endif %}
     {% endfor %}
-  </ul>
+  </ul><!-- /#workshop-list -->
 
-  <div class="row large-collapse">
-    <div class="small-12 columns"><h3>Writings</h3></div>
+  <div class="row column">
+    <h3>Writings</h3>
   </div>
   <ul id="post-list">
     {% for article in articles_page.object_list  %}
       {% if article.category.name == 'Post' %}
-        <li>
-          <article class="hentry row large-collapse">
+        <li><article class="hentry row">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
@@ -74,10 +71,10 @@
             <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
               {{ article.summary }}
             </div>
-          </article></li>
+        </article></li>
       {% endif %}
     {% endfor %}
-  </ul>
+  </ul><!-- /#post-list -->
 
 </section><!-- /#content -->
 {% endblock content %}

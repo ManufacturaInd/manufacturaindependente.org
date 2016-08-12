@@ -63,7 +63,7 @@
 {% else %}
     <body class="other">
 {% endif %}
-        <header id="header" class="row large-collapse">
+        <header id="header" class="row">
           <div class="large-1 medium-2 small-4 columns">
             <p><a href="{{ SITEURL }}/"><img src="{{ SITE_LOGO }}" alt="{{ SITENAME }}"></a></h1>
           </div>  
@@ -79,18 +79,10 @@
         {% block content %}
         {% endblock %}
         
-        <footer id="footer" class="row large-collapse">
+        <footer id="footer" class="row">
           <div class="small-12 columns">
             <p>We're moving things about. Mi casa es su casa, but things might be messy.</p>
           </div>
         </footer><!-- /#footer -->
-        
-        <script src="{{ SITEURL }}/theme/js/vendor/jquery.min.js"></script>
-        <script src="{{ SITEURL }}/theme/js/vendor/what-input.min.js"></script>
-        <script src="{{ SITEURL }}/theme/js/vendor/foundation.min.js"></script>
-        
-        <script type="text/javascript">
-          $(document).foundation()
-        </script>
 </body>
 </html>
