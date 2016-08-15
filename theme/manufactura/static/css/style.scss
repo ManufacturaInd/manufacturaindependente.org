@@ -129,13 +129,17 @@ small,
     margin-bottom: 2rem;
 }
 
-.list-page ul {
-    margin-left: 0;
-    list-style: none;
-    margin-bottom: 2rem;
-}
+.list-page > ul { margin-bottom: 2rem; }
 
+/*
 #content ul li .hentry.row {
+    border-top: 1px solid #47505e;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}*/
+
+/* border-bototm  in category/archive list pages */
+.list-page > ul li  {
     border-top: 1px solid #47505e;
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
@@ -217,7 +221,6 @@ small,
 .list-page .entry-date abbr {
 	font-size: 0.7rem;
 	text-transform: uppercase;
-	letter-spacing: 1px;
 }
 
 
@@ -347,17 +350,18 @@ small,
 /* Archive template
 */
 
-.archive-page .row li {
-    padding: 0;
-    border: 1px solid #fff; /*#c09a96*/
+.archive-page .row li {/*
+    padding: 0;*/
+    border: 1px solid #fff;
 }
 
 .archive-page .row li a { display: block; }
 
-.archive-page .row li .entry-title {
+.archive-page .row li a > .entry-title {
     display: none;
-    font-family: 'Roboto Bold';
-    font-size: 5rem;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 3rem;
     line-height: 1.2;
     position: absolute;
     margin: 0;

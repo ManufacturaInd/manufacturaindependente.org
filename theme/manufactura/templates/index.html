@@ -2,23 +2,23 @@
 {% block content %}
 <section id="content" class="list-page">
   <div class="row column">
-    <h3>Work</h3>
+    <h2>Work</h2>
   </div>
-  <ul id="portfolio-list">  
+  <ul id="portfolio-list" class="no-bullet">  
     {% for article in articles_page.object_list %}
       {% if article.category.name == 'Work' %}
-        <li><article class="hentry row">
+        <li class="row"><article class="hentry">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
             <header class="entry-header columns large-5 medium-10 small-9">
-              <h2 class="entry-title">
+              <h3 class="entry-title">
                 {% if not 'undocumented' in article.tags %}
                   <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
                 {% else %}
                   <span class="undocumented">{{ article.title }}</span>
                 {% endif %}
-              </h2>
+              </h3>
             </header>
             <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
               {{ article.summary }}
@@ -29,23 +29,23 @@
   </ul><!-- /#portfolio-list -->
   
   <div class="row column">
-    <h3>Workshops</h3>
+    <h2>Workshops</h2>
   </div>
-  <ul id="workshop-list">  
+  <ul id="workshop-list" class="no-bullet">  
     {% for article in articles_page.object_list %}
       {% if article.category.name == 'Workshops' %}
-        <li><article class="hentry row">
+        <li class="row"><article class="hentry">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
             <header class="entry-header columns large-5 medium-10 small-9">
-              <h2 class="entry-title">
+              <h3 class="entry-title">
                 {% if not 'undocumented' in article.tags %}
                   <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
                 {% else %}
                   <span class="undocumented">{{ article.title }}</span>
                 {% endif %}
-              </h2>
+              </h3>
             </header>
             <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0"> {{ article.summary }} </div>
         </article></li>
@@ -54,19 +54,19 @@
   </ul><!-- /#workshop-list -->
 
   <div class="row column">
-    <h3>Writings</h3>
+    <h2>Writings</h2>
   </div>
-  <ul id="post-list">
+  <ul id="post-list" class="no-bullet">
     {% for article in articles_page.object_list  %}
       {% if article.category.name == 'Post' %}
-        <li><article class="hentry row">
+        <li class="row"><article class="hentry">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
             <header class="entry-header columns large-5 medium-10 small-9">
-              <h2 class="entry-title">
+              <h3 class="entry-title">
                 <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-              </h2>
+              </h3>
             </header>
             <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
               {{ article.summary }}

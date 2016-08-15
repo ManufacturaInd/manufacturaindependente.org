@@ -2,28 +2,16 @@
 {% block content %}
 <section id="content" class="archive-page">
 
-  <div class="row large-collapse">
-    <div class="small-12 columns">
+    <div class="row column">
       <h3>Archive</h3>
     </div>
-    <div class="small-12 columns">
-      <ul class="medium-block-grid-4 small-block-grid-2"> 
-        {% for article in dates %}
-          {% if article.category.name in ['Work', 'Workshops'] %}
-            {% if not 'undocumented' in article.tags %}
-              <li>        
-                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
-                  <h3 class="entry-title">{{ article.title }}</h3>
-                  {% if article.featured_image %}
-                    <p><img src="{{ article.featured_image }}"></p>
-                  {% else %}
-                    <!-- empty paragraph to align layout; remove when all entries have images! -->
-                    <p>&nbsp;</p>
-                  {% endif %}
-                </a>
-            </li>
-            {% else %}
-              <li>
+
+    <ul class="row small-up-2 medium-up-4 no-bullet"> 
+      {% for article in dates %}
+        {% if article.category.name in ['Work', 'Workshops'] %}
+          {% if not 'undocumented' in article.tags %}
+            <li class="column">        
+              <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
                 <h3 class="entry-title">{{ article.title }}</h3>
                 {% if article.featured_image %}
                   <p><img src="{{ article.featured_image }}"></p>
@@ -31,13 +19,22 @@
                   <!-- empty paragraph to align layout; remove when all entries have images! -->
                   <p>&nbsp;</p>
                 {% endif %}
-              </li>
-            {% endif %}
+              </a>
+          </li>
+          {% else %}
+            <li>
+              <h3 class="entry-title">{{ article.title }}</h3>
+              {% if article.featured_image %}
+                <p><img src="{{ article.featured_image }}"></p>
+              {% else %}
+                <!-- empty paragraph to align layout; remove when all entries have images! -->
+                <p>&nbsp;</p>
+              {% endif %}
+            </li>
           {% endif %}
-        {% endfor %}
-      </ul><!-- /#work thumbnails -->
-    </div>
-  </div>
+        {% endif %}
+      {% endfor %}
+    </ul>
   
 </section><!-- /#content -->
 {% endblock content %}
