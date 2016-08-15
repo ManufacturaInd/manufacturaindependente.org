@@ -6,11 +6,11 @@
       <h3>Archive</h3>
     </div>
 
-    <ul class="row small-up-2 medium-up-4 no-bullet"> 
+    <div class="row collapse small-up-2 medium-up-4"> 
       {% for article in dates %}
         {% if article.category.name in ['Work', 'Workshops'] %}
           {% if not 'undocumented' in article.tags %}
-            <li class="column">        
+            <div class="column">        
               <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
                 <h3 class="entry-title">{{ article.title }}</h3>
                 {% if article.featured_image %}
@@ -20,9 +20,9 @@
                   <p>&nbsp;</p>
                 {% endif %}
               </a>
-          </li>
+          </div>
           {% else %}
-            <li>
+            <div class="column">
               <h3 class="entry-title">{{ article.title }}</h3>
               {% if article.featured_image %}
                 <p><img src="{{ article.featured_image }}"></p>
@@ -30,11 +30,11 @@
                 <!-- empty paragraph to align layout; remove when all entries have images! -->
                 <p>&nbsp;</p>
               {% endif %}
-            </li>
+            </div>
           {% endif %}
         {% endif %}
       {% endfor %}
-    </ul>
+    </div>
   
 </section><!-- /#content -->
 {% endblock content %}

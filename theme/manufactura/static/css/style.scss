@@ -350,14 +350,14 @@ small,
 /* Archive template
 */
 
-.archive-page .row li {/*
+.archive-page .row .column {/*
     padding: 0;*/
     border: 1px solid #fff;
 }
 
-.archive-page .row li a { display: block; }
+.archive-page .row a { display: block; }
 
-.archive-page .row li a > .entry-title {
+.archive-page .row a > .entry-title {
     display: none;
     font-family: "Roboto";
     font-weight: 300;
@@ -368,13 +368,12 @@ small,
     padding: 10px;
 }
 
-.archive-page .row li:hover .entry-title {
-    display: block;
-}
+.archive-page .row a:hover .entry-title { display: block; }
 
-.archive-page .row li p {
+.archive-page .row .column p {
     margin: 0;
     height: 160px;
+    width: auto;
     overflow: hidden;
 }
 
