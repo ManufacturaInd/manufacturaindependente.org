@@ -27,6 +27,8 @@ DEFAULT_PAGINATION = False
 # Specify a customized theme, via path relative to the settings file
 THEME = 'theme/manufactura'
 
+UNDOCUMENTED_TAG = 'undocumented'
+
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = '{slug}/'

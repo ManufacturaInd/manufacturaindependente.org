@@ -14,10 +14,10 @@
             </p>
             <header class="entry-header columns large-5 medium-10 small-9">
               <h2 class="entry-title">
-                {% if not 'undocumented' in article.tags %}
-                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-                {% else %}
+                {% if UNDOCUMENTED_TAG in article.tags %}
                   <span class="undocumented">{{ article.title }}</span>
+                {% else %}
+                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
                 {% endif %}
               </h2>
             </header>
