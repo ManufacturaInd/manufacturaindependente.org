@@ -6,11 +6,48 @@
 	Original author: Manufactura Independente <http://manufacturaindependente.org/>
 */
 
-/*
-@import 'foundation/foundation.scss';
-@import 'foundation/_global.scss';*/
+/* Typography
+*/
 
-@import "foundation";
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Fantasque Mono';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
+}
+
+/* Import Foundation
+*/
+
+@import 'foundation';
 
 body {
   line-height: 1;
@@ -43,70 +80,27 @@ abbr {
 
 hr { border-color: #c09a96; }
 
-/* Typography
-*/
-
-@font-face {
-  font-family: 'Roboto Light';
-  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Regular';
-  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Bold';
-  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto Italic';
-  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Fantasque Mono';
-  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
-}
 
 body {
-  font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
-  font-size: 1em;
   line-height: 1.4;
 }
 
-h1, h2, h3, h4, h5, h6,
 .article .entry-date,
 .home .entry-content p {
-  font-family: 'Roboto Light';
+  font-weight: 300;
 }
 
 .entry-date,
 .home .entry-title {
-	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
+	font-weight: 400;
 }
 
 .entry-summary,
-.entry-content {
-	font-family: 'Roboto Regular', 'DejaVu Sans', sans-serif;
-}
+.entry-content {}
 
-em {
-	font-family: 'Roboto Italic';
-	font-style: normal;
-}
-
-strong,
 #header h1,
 .entry-content .post-meta {
-    font-family: 'Roboto Bold';
-    font-weight: normal;
-}
-
-pre, code {
-	font-family: 'Fantasque Mono', monospace;
+    font-weight: 700;
 }
 
 small,
@@ -114,37 +108,41 @@ small,
     font-size: 80%;
 }
 
-pre 
-
 /* Layout
 */
 
+/*
 .row.large-collapse > .columns {
-    padding-right: 0.9375em;
+    padding-right: 0.9375rem;
 }
 
 .row.large-collapse > .columns:last-child {
     padding-right: 0;
-}
+}*/
 
 #header {
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 #content {
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 }
 
-.list-page ul {
-    margin-left: 0;
-    list-style: none;
-    margin-bottom: 2em;
-}
+.list-page > ul { margin-bottom: 2rem; }
 
-#content ul li .hentry {
-    border-bottom: 1px solid #47505e;
-    padding: 0.25em 0;
+/*
+#content ul li .hentry.row {
+    border-top: 1px solid #47505e;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}*/
+
+/* border-bototm  in category/archive list pages */
+.list-page > ul li  {
+    border-top: 1px solid #47505e;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 #content ul li .hentry p {
@@ -153,8 +151,8 @@ pre
 }
 
 .list-page #content h3 {
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 .page h1.entry-title {
@@ -168,8 +166,22 @@ pre
     #header p:first-child a { border-bottom: 0; }
 
 #footer {
-    margin-top: 1em;
+    margin-top: 1rem;
 }
+
+/* Block grids inside articles, pages... and with <ul> instead of <div>
+*/
+
+.entry-content ul.display {
+  list-style: none;
+  margin-left: 0;
+}
+
+.entry-content .row.display {
+  margin-left: -0.9375rem;
+  margin-right: -0.9375rem;
+}
+
 
 /* Homepage
 */
@@ -182,7 +194,7 @@ pre
     display: block;
 }
 
-#header h1 { font-size: 1.75em; }
+#header h1 { font-size: 1.75rem; }
 
 #header p {
     line-height: 1.2;
@@ -190,20 +202,24 @@ pre
 }
 
 .list-page .hentry {
-    margin-top: 0.15em;
-    margin-bottom: 0.15em;
+    margin-top: 0.15rem;
+    margin-bottom: 0.15rem;
 }
 
 .list-page .entry-title,
 .list-page .entry-content {
-    font-size: 1em;
+    font-size: 1rem;
     margin-bottom: 0;
     margin-top: 0;
     line-height: 1.2;
 }
 
+.list-page .entry-content { line-height: 1.4; }
+
+.list-page .entry-title a { display: inline-block; }
+
 .list-page .entry-date abbr {
-	font-size: 0.7em;
+	font-size: 0.7rem;
 	text-transform: uppercase;
 }
 
@@ -214,10 +230,9 @@ pre
 
 .article .entry-title,
 .page .entry-title {
-    font-size: 4em;
     line-height: 1;
     margin-bottom: 0;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.5rem;
     border-bottom: 1px solid #3e4652;
 }
 
@@ -225,6 +240,16 @@ pre
 .page h2.entry-title {
     display: block;
     padding-bottom: 0.25em !important;
+}
+
+.article .entry-date { /* Date */
+    border-bottom: 1px solid #3e4652;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+.article .entry-date abbr {
+	font-size: 90%;
 }
 
 .undocumented {
@@ -256,24 +281,18 @@ pre
 .article .entry-content h3,
 .article .entry-content h4 {
     margin-top: 1.25rem;
-    padding-bottom: 0.25em;
+    padding-bottom: 0.25rem;
 }
 
 .article .entry-content > h3 {
-    margin-top: 0.25em;
-    padding-bottom: 0.25em;
-}
-
-.article .entry-date { /* Date */
-    border-bottom: 1px solid #3e4652;
-    padding-bottom: 0.25em;
-    margin-bottom: .5em;
+    margin-top: 0.25rem;
+    padding-bottom: 0.25rem;
 }
 
 .translation {
     border-top: 1px solid #3e4652;
-    padding-top: 0.25em;
-    margin-top: 2em;
+    padding-top: 0.25rem;
+    margin-top: 2rem;
 }
 
 .other .entry-content a + img {
@@ -294,14 +313,14 @@ pre
 }
 
 #content pre {
-    font-size: 0.875em;
+    font-size: 0.875rem;
     background-color: #f5f2ee;
-    padding: 1em;
+    padding: 1rem;
     margin-top: 1.25rem;
 }
 
 .entry-content iframe {
-    margin-top: 1em;
+    margin-top: 1rem;
 }
 
 .post-info p {
@@ -331,46 +350,49 @@ pre
 /* Archive template
 */
 
-.archive-page .row li {
-    padding: 0;
-    border: 1px solid #fff; /*#c09a96*/
+.archive-page .row .column {/*
+    padding: 0;*/
+    border: 1px solid #fff;
 }
 
-.archive-page .row li a { display: block; }
+.archive-page .row a { display: block; }
 
-.archive-page .row li .entry-title {
+.archive-page .row a > .entry-title {
     display: none;
-    font-family: 'Roboto Bold';
-    font-size: 5rem;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 3rem;
     line-height: 1.2;
     position: absolute;
     margin: 0;
     padding: 10px;
 }
 
-.archive-page .row li:hover .entry-title {
-    display: block;
-}
+.archive-page .row a:hover .entry-title { display: block; }
 
-.archive-page .row li p {
+.archive-page .row .column p {
     margin: 0;
     height: 160px;
+    width: auto;
     overflow: hidden;
 }
 
 
-/* large-collapse */
+/* Large and up */
+@media screen and (min-width: 64em) {
 
-@media only screen and (min-width: 64.063em) {
-    .large-collapse {
-        padding: 0;
-    }
-    .large-collapse .columns {
-        padding: 0 1em 0 0;
-    }
-    .large-collapse .columns:last-child {
-        padding: 0;
-    }
-    
-} 
+  /* remove padding in leftmost column and rightmost column, in post/work list */
+  #content ul li .hentry.row .columns:first-child { padding-left: 0; }
+  #content ul li .hentry.row .columns:last-child  { padding-right: 0; }
+  
+  
+  /* remove left padding in post/work list titles */
+  .list-page .row.column { padding-left: 0; }
+
+  .article .entry-title,
+  .page .entry-title { font-size: 4rem; }
+
+  
+}
+ 
 

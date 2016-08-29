@@ -34,8 +34,8 @@
         
         <!--<link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.css">-->
 
-        {% assets filters="pyscss", output="style.css", "css/style.scss" %}
-          <link rel="stylesheet" href="/{{ ASSET_URL }}">
+        {% assets filters="pyscss", output="css/style.css", "css/style.scss" %}
+          <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
         {% endassets %}
 
         <link rel="shortcut icon" href="{{ SITEURL }}/theme/images/favicon.png">
@@ -63,7 +63,7 @@
 {% else %}
     <body class="other">
 {% endif %}
-        <header id="header" class="row large-collapse">
+        <header id="header" class="row">
           <div class="large-1 medium-2 small-4 columns">
             <p><a href="{{ SITEURL }}/"><img src="{{ SITE_LOGO }}" alt="{{ SITENAME }}"></a></h1>
           </div>  
@@ -79,7 +79,7 @@
         {% block content %}
         {% endblock %}
         
-        <footer id="footer" class="row large-collapse">
+        <footer id="footer" class="row">
           <div class="small-12 columns">
             <p>We're moving things about. Mi casa es su casa, but things might be messy.</p>
           </div>

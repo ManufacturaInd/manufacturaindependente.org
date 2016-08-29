@@ -115,31 +115,31 @@ layouts.
 <style>
     @font-face {
       font-family: 'Sisperdotze';
-      src: url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.eot');
-      src: url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.woff') format('woff'), 
-           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.ttf')  format('truetype'),
-           url('{filename}/media/fonts/Sisperdotze/Sisperdotze-Regular.svg#svgFontName') format('svg');
+      src: url('../media/fonts/Sisperdotze/Sisperdotze-Regular.eot');
+      src: url('../media/fonts/Sisperdotze/Sisperdotze-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('../media/fonts/Sisperdotze/Sisperdotze-Regular.woff') format('woff'), 
+           url('../media/fonts/Sisperdotze/Sisperdotze-Regular.ttf')  format('truetype'),
+           url('../media/fonts/Sisperdotze/Sisperdotze-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
     @font-face {
       font-family: 'Deuperset';
-      src: url('{filename}/media/fonts/Deuperset/Deuperset-Regular.eot');
-      src: url('{filename}/media/fonts/Deuperset/Deuperset-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.woff') format('woff'), 
-           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.ttf')  format('truetype'),
-           url('{filename}/media/fonts/Deuperset/Deuperset-Regular.svg#svgFontName') format('svg');
+      src: url('../media/fonts/Deuperset/Deuperset-Regular.eot');
+      src: url('../media/fonts/Deuperset/Deuperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('../media/fonts/Deuperset/Deuperset-Regular.woff') format('woff'), 
+           url('../media/fonts/Deuperset/Deuperset-Regular.ttf')  format('truetype'),
+           url('../media/fonts/Deuperset/Deuperset-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
     @font-face {
       font-family: 'Setperset';
-      src: url('{filename}/media/fonts/Setperset/Setperset-Regular.eot');
-      src: url('{filename}/media/fonts/Setperset/Setperset-Regular.eot?#iefix') format('embedded-opentype'), 
-           url('{filename}/media/fonts/Setperset/Setperset-Regular.woff') format('woff'), 
-           url('{filename}/media/fonts/Setperset/Setperset-Regular.ttf')  format('truetype'),
-           url('{filename}/media/fonts/Setperset/Setperset-Regular.svg#svgFontName') format('svg');
+      src: url('../media/fonts/Setperset/Setperset-Regular.eot');
+      src: url('../media/fonts/Setperset/Setperset-Regular.eot?#iefix') format('embedded-opentype'), 
+           url('../media/fonts/Setperset/Setperset-Regular.woff') format('woff'), 
+           url('../media/fonts/Setperset/Setperset-Regular.ttf')  format('truetype'),
+           url('../media/fonts/Setperset/Setperset-Regular.svg#svgFontName') format('svg');
       font-weight: normal;
       font-style: normal;
     }
@@ -223,7 +223,6 @@ Acknowledgments
 
 ![Group photo]({filename}/media/fontstxt-12.jpg "Group photo")
 
-
-<script src="../theme/js/jquery-1.11.1.min.js"></script>
+<script src="../theme/js/vendor/jquery.min.js"></script>
 <script src="../theme/js/modernizr-2.8.3-custom.min.js"></script>
 <script src="../theme/js/font-sampler.js"></script>

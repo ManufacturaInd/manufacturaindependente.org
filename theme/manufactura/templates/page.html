@@ -2,19 +2,19 @@
 {% block title %}{{ page.title }}{%endblock%}
 {% block content %}
 <section id="content" class="page">
-    <header class="row large-collapse">
+    <header class="row">
       <div class="columns small-12">
         <h2 class="entry-title">{{ page.title }}</h2>
       </div>
     </header>
 
-    <div class="entry-content row large-collapse">
-        <div class="large-8 medium-9 columns large-centered">
+    <div class="entry-content row">
+        <div class="large-8 medium-8 small-12 columns medium-centered">
             {{ page.content }}
         </div>
     </div>
     
-    <footer class="translation row large-collapse">
+    <footer class="translation row">
         {% import 'translations.html' as translations with context %}
         <small>{{ translations.translations_for(page) }}</small>
     </footer><!-- /.post-info -->
