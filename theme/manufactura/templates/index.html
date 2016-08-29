@@ -34,7 +34,7 @@
   <ul id="workshop-list" class="no-bullet">  
     {% for article in articles_page.object_list %}
       {% if article.category.name == 'Workshops' %}
-        <li class="row"><article class="hentry">
+        <li><article class="hentry row">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
@@ -59,7 +59,7 @@
   <ul id="post-list" class="no-bullet">
     {% for article in articles_page.object_list  %}
       {% if article.category.name == 'Post' %}
-        <li class="row"><article class="hentry">
+        <li><article class="hentry row">
             <p class="entry-date columns large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
