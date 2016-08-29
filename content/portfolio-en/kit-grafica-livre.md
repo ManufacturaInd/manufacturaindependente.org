@@ -6,4 +6,12 @@ Category: Work
 Tags: type, undocumented
 Slug: kit-grafica-livre
 Lang: en
+Client: Manufactura in collaboration with AEFBAUP
+Location: Fine Arts Faculty, Porto
+Description: Hotspot with free tools for designers
+Image: /media/work/Kit-Grafica-Livre-01.jpg
 
+![Kit Gráfica Livre]({filename}/media/work/Kit-Grafica-Livre-01.jpg)
+
+[Kit Gráfica Livre](http://kitgrafica.manufacturaindependente.org) is a mutant dead-drop filled with libre materials 
+and software, aimed at designers.
