@@ -9,6 +9,7 @@ Lang: en
 Client: Medialab Prado
 Location: Madrid, Spain
 Description: Design and layout for Interactivos?13 catalogue
+Image: /media/work/InteractivosBook_catalogue_01.jpg
 
 ![Interactivos?13 Catalogue]({filename}/media/work/InteractivosBook_catalogue_01.jpg)
 
