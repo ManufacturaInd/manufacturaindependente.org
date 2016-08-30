@@ -7,3 +7,5 @@ Tags: print, undocumented
 Slug: le-jerk
 Lang: en
 
+Le Jerk is a typeface by Frank Adebiaye which we set out to re-draw based on the author's original drawings. 
+

@@ -10,6 +10,15 @@ Client: Visões Úteis
 Location: Porto, Portugal
 Description: Poster and flyer
 
+Nióbio is a play by Visões Úteis dedicated to questions and dilemmas around
+national identity, featuring a quirky group of separatist agitators who secede
+from Portugal in order to create the new nation of Nióbio. We took care of the
+identity and advertising materials for the play, which are based on
+re-imaginations of the Portuguese flag's icons into a new form based on
+Nióbio's national mascot, the lobster.
+
+--
+
 [Nióbio](http://www.visoesuteis.pt/en/works/item/610-ni%C3%B3bio) is an
 original theater play written by [Visões Úteis](http://visoesuteis.pt "Visões
 Úteis") for the celebrations of Guimarães, 2012th European Capital of Culture.

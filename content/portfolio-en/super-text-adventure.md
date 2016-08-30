@@ -7,3 +7,6 @@ Tags: undocumented
 Slug: super-text-adventure
 Lang: en
 
+Super Text Adventure 3000 is an interactive installation which plays on gaming,
+predictive text and randomness, developed and presented at Relearn 2015.
+

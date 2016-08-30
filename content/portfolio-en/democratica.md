@@ -10,6 +10,12 @@ Client: Self comissioned
 Location: Porto, Portugal
 Description: Parliamentary open data portal
 
+Demo.cratica is a public portal to easily access the workings of the Portuguese
+parliament, with info on MP's and plenary sessions, which we initiated because
+of the frustration caused by the official portal's complex interface.
+
+--
+
 From our work as part of the [Transparência Hackday Portugal]
 (http://transparenciahackday.org) collective, we created the 
 parliamentary monitoring website

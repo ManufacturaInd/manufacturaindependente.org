@@ -7,6 +7,14 @@ Tags: print
 Slug: vento
 Lang: en
 
+
+O Vento is a Visões Úteis theatre play involving the beautiful Afurada
+riverside and its community.
+
+The poster references the wind, the main character in the play, and the
+journeys of Don Quixote.
+
+
 ![O Vento]({filename}/media/vento.jpg)
 
 [O Vento](http://www.visoesuteis.pt/en/component/k2/item/184-o-vento "O Vento")

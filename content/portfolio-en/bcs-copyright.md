@@ -7,3 +7,13 @@ Tags: undocumented
 Slug: bcs-copyright
 Lang: en
 
+Best Case Scenarios for Copyright was a campaign we designed for Communia,
+presenting the best examples of copyright in different countries of the EU.
+
+We went with our usual approach of solely working with source materials that
+are free and open, For the campaign visuals, we worked with images in the
+Public Domain and composed them into layouts meant to be printed at home. 
+
+The typeface employed for the project's identity is the always-classy Reglo by
+Love Letters.
+

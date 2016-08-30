@@ -11,6 +11,18 @@ Location: Madrid, Spain
 Description: Design and layout for Interactivos?13 catalogue
 Image: /media/work/InteractivosBook_catalogue_01.jpg
 
+
+Interactivos?'13 / Tools for a Read-Write World was a residency initiative
+hosted by Medialab Prado which gathered a large group of practitioners with the
+plan to execute several art and media projects related to the general topic of
+open tools. 
+
+We integrated the event as part of the advisory team responsible for helping
+with each project's direction and issues, both on the technical and conceptual
+side.
+
+
+
 ![Interactivos?13 Catalogue]({filename}/media/work/InteractivosBook_catalogue_01.jpg)
 
 In 2013 we integrated the advisors' team for in [Interactivos?13: Tools for a Read-Write World](http://medialab-prado.es/article/future_tools), together with [ginger coons](http://adaptstudio.ca), [Femke Snelting](http://www.jenniferdopazo.com/graphic), [Jennifer Dopazo](http://www.jenniferdopazo.com/graphic), [Samer Hassan](http://samer.hassan.name) and [Vicente Ruiz Jurado](http://medialab-prado.es/person/vicente_jurado).

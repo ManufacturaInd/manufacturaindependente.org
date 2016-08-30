@@ -7,3 +7,9 @@ Tags: undocumented
 Slug: eggsandham
 Lang: en
 
+Eggs & Ham in Rotterdam is a collection of 22 short stories first written and
+illustrated in 2006, when we were living in the Netherlands.
+
+We re-illustrated the stories and documented the production process for the
+edition by Porto based publisher Plana.
+

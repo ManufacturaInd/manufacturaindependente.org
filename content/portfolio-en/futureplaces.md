@@ -3,12 +3,15 @@ Summary: Print and online identity design
 Date: 2015-10-20 16:00
 Author: manufactura
 Category: Work
-Tags: print, webdesign, webdev
+Tags: print, webdesign, webdev, undocumented
 Slug: futureplaces
 Lang: en
 Client: FuturePlaces Medialab
 Location: Porto, Portugal
 Description: Print and online identity design
+
+
+
 
 The <a target="_blank" href="http://futureplaces.org">FuturePlaces</a> medialab, based in Porto, organizes a annual event to serve as a catalyst of the work developed in their citizen labs and a space to interact with the city.
 
@@ -18,6 +21,12 @@ Heitor Alvelos, FuturePlaces curator and agent provocateur, takes the lead as Ar
 
 
 ### Future Places 2015 
+
+Future Places 2015 is the 8th edition of the festival/medialab rooted on the mix of academia and citizenship.
+
+For the third consecutive year, we took care of setting up the festival's communication infrastructure: the website expanded with new sections and refined design; post-production and fine-tunning of printed materials (posters, schedules and stickers).
+
+The visual concept and art direction of each edition is the work of Heitor Alvelos and a few regular conspirators of Future Places.
 
 <ul class="display row small-up-1 medium-up-2">
     <li class="column"><img src="{filename}/media/work/Futureplaces_2015_mupi.png"></li>

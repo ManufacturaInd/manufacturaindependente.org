@@ -7,3 +7,7 @@ Tags: undocumented
 Slug: lgru
 Lang: en
 
+The Libre Graphics Research Unit was a European project which brought together
+design studios and art institutions around Europe in order to collectively
+explore the implications and affordances of libre tools and processes.
+
