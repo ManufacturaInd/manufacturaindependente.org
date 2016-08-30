@@ -10,6 +10,15 @@ Client: Visões Úteis
 Location: Porto, Portugal
 Description: Text
 
+
+Ficheiros Secretos was a play conceived by Visões Úteis around the themes of
+widespread surveillance, contemporary citizenship and hidden archives. 
+
+We contributed with an essay about the then-recent Snowden revelations and
+their impact on post-modern perspectives about society.
+
+--
+
 ![Ficheiros Secretos]({filename}/media/ficheiros-secretos.jpg)
 
 We collaborated with [Visões Úteis](http://visoesuteis.pt "Visões Úteis") in

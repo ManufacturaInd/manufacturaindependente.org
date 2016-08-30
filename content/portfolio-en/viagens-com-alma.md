@@ -7,6 +7,15 @@ Tags: print
 Slug: viagens-com-alma
 Lang: en
 
+Viagens Com Alma was a long-duration project by Visões Úteis, spanning several
+months and many artists reflecting on religious imagery and subjective
+geography.
+
+We designed the graphic identity of Viagens Com Alma, as well as creating some
+of the printed materials for public moments, along the two years it took place.
+
+--
+
 ![Viagens com Alma 1]({filename}/media/viagens-com-alma-1.png)
 
 We’ve been frequent collaborators of [Visões Úteis](http://visoesuteis.pt

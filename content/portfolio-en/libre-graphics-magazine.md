@@ -10,7 +10,14 @@ Location: Porto&emdash;Montreal
 Description: Free culture & design publication
 Image: /media/opening-image.jpg
 
-![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
+The Libre Graphics magazine was a print publication dedicated to the
+cross-overs between the fields of art & design and the world of libre and open
+culture. The editorial team was led by ginger coons, with us taking care of
+designing and co-editing the publication.
+
+--
+
+![Libre Graphics Magazine]({filename}/media/opening-image.jpg)
 
 We had yearned for a publication that could combine the
 critical perspective of an art and design magazine with a clear

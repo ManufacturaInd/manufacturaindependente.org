@@ -11,4 +11,11 @@ Location: Porto, Portugal
 Description: Web quiz
 Image: /media/work/Totonome.png
 
-![Totonome]({filename}/media/work/Totonome.png)  
+
+Totonome is a web game which exposes the intricacies of the Portuguese naming process. 
+
+It draws on the official database of accepted and rejected baby names to put
+forward a quiz which tries to shed light and make sense of the bureaucratic
+decisions behind Portugal's name policies.
+
+![Totonome]({filename}/media/work/Totonome.png)
