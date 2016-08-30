@@ -6,6 +6,9 @@ Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
 Lang: en
+Location: Porto&emdash;Montreal
+Description: Free culture & design publication
+Image: /media/opening-image.jpg
 
 ![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
 

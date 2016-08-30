@@ -6,4 +6,9 @@ Category: Work
 Tags: undocumented
 Slug: eggsandham
 Lang: en
+Client: Plana Press
+Location: Rotterdam, Holland
+Description: Printed publication
+Image: /media/work/Eggs-and-Ham.jpg
 
+![Totonome]({filename}/media/work/Eggs-and-Ham.jpg)

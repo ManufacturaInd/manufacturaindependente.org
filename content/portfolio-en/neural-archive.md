@@ -6,8 +6,12 @@ Category: Work
 Tags: webdesign, webdev, python
 Slug: neural-archive
 Lang: en
+Client: Neural magazine
+Location: Bari, Italy
+Description: Design and code for a custom web-framework
+Image: /media/work/Neural-Archive.jpg
 
-![The Neural Archive]({filename}/media/archive-neural.jpg)
+![The Neural Archive]({filename}/media/work/Neural-Archive.jpg)
 
 [The Neural Archive](http://archive.neural.it) is a platform to catalogue 
 and index Neural.it's vast collection of publications.
@@ -15,4 +19,4 @@ We created a custom site using the Web2Py framework, following the new
 [Neural.it](http://manufacturaindependente.org/neural-it) design. 
 This new platform allows the Neural editors to easily add and edit 
 the catalogue contents, with custom categories to help order 
-the publications according to the editors' specifications. 
+the publications according to the editors' specifications.

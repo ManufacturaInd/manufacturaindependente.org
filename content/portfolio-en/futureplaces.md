@@ -9,6 +9,7 @@ Lang: en
 Client: FuturePlaces Medialab
 Location: Porto, Portugal
 Description: Print and online identity design
+Image: /media/work/Futureplaces_2013_cartaz.png
 
 The <a target="_blank" href="http://futureplaces.org">FuturePlaces</a> medialab, based in Porto, organizes a annual event to serve as a catalyst of the work developed in their citizen labs and a space to interact with the city.
 
