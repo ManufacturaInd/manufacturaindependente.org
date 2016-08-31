@@ -9,6 +9,7 @@ Lang: en
 Client: FuturePlaces Medialab
 Location: Porto, Portugal
 Description: Print and online identity design
+Image: /media/work/Futureplaces_2013_cartaz.png
 
 
 

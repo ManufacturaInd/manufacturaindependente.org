@@ -6,6 +6,9 @@ Category: Work
 Tags: floss, graphic, print
 Slug: libre-graphics-magazine
 Lang: en
+Location: Porto&emdash;Montreal
+Description: Free culture & design publication
+Image: /media/opening-image.jpg
 
 The Libre Graphics magazine was a print publication dedicated to the
 cross-overs between the fields of art & design and the world of libre and open

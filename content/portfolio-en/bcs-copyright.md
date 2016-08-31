@@ -6,6 +6,10 @@ Category: Work
 Tags: undocumented
 Slug: bcs-copyright
 Lang: en
+Client: Communia
+Location: Brussels, Belgium
+Description: Graphic identity and design of the campaign materials
+Image: /media/work/BCS-Parody.jpg
 
 Best Case Scenarios for Copyright was a campaign we designed for Communia,
 presenting the best examples of copyright in different countries of the EU.
@@ -17,3 +21,4 @@ Public Domain and composed them into layouts meant to be printed at home.
 The typeface employed for the project's identity is the always-classy Reglo by
 Love Letters.
 
+All the materials produced are available [here](http://gitlab.com/manufacturaind/best-case-scenarios-copyright).
