@@ -6,6 +6,10 @@ Category: Work
 Tags: undocumented
 Slug: public-domain-day-2016
 Lang: en
+Client: Communia
+Location: Brussels, Belgium
+Description: Poster design
+Image: /media/work/public-domain-day-2016.jpg
 
 Public Domain Day 2016 is series of three foldable A2 posters, celebrating
 authors whose work is in the Public Domain. 
