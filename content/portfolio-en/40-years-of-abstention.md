@@ -3,7 +3,7 @@ Summary: Visualizing abstention in the Portuguese legislative elections
 Date: 2015-10-03 10:00
 Author: manufactura
 Category: Work
-Tags: data, visualization, webdesign, webdev
+Tags: data, visualization, webdesign, webdev, featured
 Slug: 40-years-of-abstention
 Lang: en
 Client: Self comissioned, in collaboration with Tiago Vieira

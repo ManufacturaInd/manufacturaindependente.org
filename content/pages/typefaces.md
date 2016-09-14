@@ -1,8 +1,8 @@
-Title: Foundry
+Title: Typefaces
 Date: 2016-08-29 15:11
 Author: manufactura
 Category: page
-Slug: foundry
+Slug: typefaces
 Lang: en
 
 Libre fonts ....

@@ -3,13 +3,13 @@ Summary: A new face for Neural magazine’s website
 Date: 2013-10-01 15:52
 Author: manufactura
 Category: Work
-Tags: webdesign, webdev, wordpress
+Tags: webdesign, webdev, wordpress, featured
 Slug: neural-it
 Lang: en
 Client: Neural magazine
 Location: Bari, Italy
 Description: Design and web implementation
-Image: /media/work/Neural.jpg
+Image: /media/work/Neural-crop.png
 
 
 [Neural Magazine](http://neural.it) is the highest reference on media art for more than 20 years now. A staple reference during our graduation years, it was a privilege to take on the challenge of completely redesigning the magazine's web site.
@@ -25,4 +25,4 @@ The development of this project spanned many months, and consisted in several st
   * Implement a quirky feature to disable all colour from the website and make it black-and-white only.
   * Adapt the Neural.it theme to a simplified version for use in its sister site focused on music, [Wicked Style](http://wickedstyle.neural.it/).
 
-![Neural.it]({filename}/media/work/Neural.png "Neural.it")  
+![Neural.it]({filename}/media/work/Neural.png "Neural.it")
