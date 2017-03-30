@@ -12,16 +12,16 @@ Lang: en
 We were invited to participate in [FCForum](http://lab.2014.fcforum.net/en/)
 with a keynote and a type design workshop.
 
-The **fonts.txt** workshop featured our usual double-purpose workshop approach: test
-a system that we've been working on, as well as producing concrete results that
-everyone can share and take home.
+The **fonts.txt** workshop featured our usual double-purpose workshop approach: 
+test a system that we've been working on, as well as producing concrete results 
+that everyone can share and take home.
 
 This time, our theme was **plaintext**: as part of our experiments in alternative
 interfaces for type design, our challenge would be to design bitmap
 fonts using simple text files. Reminiscent of ASCII art and the practice of
 drawing with text characters, our pipeline again used the [Graphicore bitmap
-font](http://lab.2014.fcforum.net/en/) library to convert the text files into
-OpenType fonts.
+font](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack) library 
+to convert the text files into OpenType fonts.
 
 
 The workshop
@@ -30,12 +30,11 @@ The workshop
 Once again, we put our traditional font editor aside and propose a different
 kind of workflow.  
 
-The [Graphicore Bitmap Font
-Format](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack)
-proposes a bitmap font representation that we particularly enjoy: each glyph is
-described in a separate `.txt` file, containing a visual representation that
-brings us back to ASCII art. For instance, here's an example of what you'd find
-in a text file that describes a capital A:
+The Graphicore Bitmap Font Format proposes a bitmap font representation that 
+we particularly enjoy: each glyph is described in a separate `.txt` file, 
+containing a visual representation that brings us back to ASCII art. 
+For instance, here's an example of what you'd find in a text file that 
+describes a capital A:
 
     ...###...
     ..#...#..
