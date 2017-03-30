@@ -7,6 +7,8 @@ Tags: type
 Slug: typebits
 Lang: en
 
+![Type:Bits Avilés]({filename}/media/typebits-aviles-06.jpg "Type:Bits Avilés")
+
 Type:Bits is a collaborative type design workshop following on the steps of
 [fonts.txt](http://manufacturaindependente.org/fontstxt).  The methodologies
 and workflows that we employ to generate the fonts are mostly the same: paper
@@ -15,6 +17,8 @@ digitised following the [Graphicore bitmap
 font](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack) format;
 the Graphicore scripts are then used to create OpenType and TrueType versions
 of these fonts.
+
+![Shoplift, comparison]({filename}/media/typebits-aviles-01.jpg "Shoplift, comparison")
 
 As we continue to explore the possibilities of bitmap-based designs,  we took
 the cue to expand on our tool chain. This time, instead of having participants
@@ -39,6 +43,14 @@ review, organise and publish the small scripts and tools we make. GitLab made
 it possible to share the work done in the workshops in a clean way. Commit
 histories transparently document the rhythm of production and the contribution
 of each participant.
+
+
+<ul class="small-block-grid-2 medium-block-grid-4">
+  <li><img src="../media/typebits-aviles-02.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles-03.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles-04.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles-05.jpg" alt="Type:Bits Avilés"></li>
+</ul>
 
 Finally, we taking advantage of Gitlab pages to build an HTML specimen for the 
 fonts. This is great for reviewing letter design as during the workshop (or 
