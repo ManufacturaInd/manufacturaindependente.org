@@ -7,7 +7,7 @@ Tags: type
 Slug: typebits
 Lang: en
 
-![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés")
+![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés, photo by Manufactura")
 
 Type:Bits is a collaborative type design workshop following on the steps of
 [fonts.txt](http://manufacturaindependente.org/fontstxt).  The methodologies
@@ -18,7 +18,7 @@ font](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack) format;
 the Graphicore scripts are then used to create OpenType and TrueType versions
 of these fonts.
 
-![Shoplift, comparison]({filename}/media/typebits-aviles_01.jpg "Shoplift, comparison")
+![Shoplift sketches, photo by Manufactura]({filename}/media/typebits-aviles_01.jpg "Shoplift sketches, photo by Manufactura")
 
 As we continue to explore the possibilities of bitmap-based designs,  we took
 the cue to expand on our tool chain. This time, instead of having participants
@@ -45,12 +45,20 @@ histories transparently document the rhythm of production and the contribution
 of each participant.
 
 
-<ul class="small-block-grid-2 medium-block-grid-4">
-  <li><img src="../media/typebits-aviles_02.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles_03.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles_04.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles_05.jpg" alt="Type:Bits Avilés"></li>
-</ul>
+<div class="row small-up-1 medium-up-2">
+  <div class="column">
+    <p><img src="../media/typebits-aviles_04.jpg" alt="Type:Bits Avilés, photo by Manufactura"></p>
+  </div>
+  <div class="column">
+    <p><img src="../media/typebits-aviles_03.jpg" alt="Type:Bits Avilés, photo by Emilio García Otero"></p>
+  </div>
+  <div class="column">
+    <p><img src="../media/typebits-aviles_02.jpg" alt="Type:Bits Avilés, photo by Emilio García Otero"></p>
+  </div>
+  <div class="column">
+    <p><img src="../media/typebits-aviles_05.jpg" alt="Type:Bits Avilés, photo by Manufactura"></p>
+  </div>
+</div>
 
 Finally, we taking advantage of Gitlab pages to build an HTML specimen for the 
 fonts. This is great for reviewing letter design as during the workshop (or 
