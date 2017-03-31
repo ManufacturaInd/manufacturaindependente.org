@@ -7,7 +7,7 @@ Tags: type
 Slug: typebits
 Lang: en
 
-![Type:Bits Avilés]({filename}/media/typebits-aviles-06.jpg "Type:Bits Avilés")
+![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés")
 
 Type:Bits is a collaborative type design workshop following on the steps of
 [fonts.txt](http://manufacturaindependente.org/fontstxt).  The methodologies
@@ -18,7 +18,7 @@ font](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack) format;
 the Graphicore scripts are then used to create OpenType and TrueType versions
 of these fonts.
 
-![Shoplift, comparison]({filename}/media/typebits-aviles-01.jpg "Shoplift, comparison")
+![Shoplift, comparison]({filename}/media/typebits-aviles_01.jpg "Shoplift, comparison")
 
 As we continue to explore the possibilities of bitmap-based designs,  we took
 the cue to expand on our tool chain. This time, instead of having participants
@@ -46,10 +46,10 @@ of each participant.
 
 
 <ul class="small-block-grid-2 medium-block-grid-4">
-  <li><img src="../media/typebits-aviles-02.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles-03.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles-04.jpg" alt="Type:Bits Avilés"></li>
-  <li><img src="../media/typebits-aviles-05.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles_02.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles_03.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles_04.jpg" alt="Type:Bits Avilés"></li>
+  <li><img src="../media/typebits-aviles_05.jpg" alt="Type:Bits Avilés"></li>
 </ul>
 
 Finally, we taking advantage of Gitlab pages to build an HTML specimen for the 
@@ -57,17 +57,17 @@ fonts. This is great for reviewing letter design as during the workshop (or
 after!) and quickly showcase the font.
 
 This year, in Avilés, we did two workshops and ended up with four fonts: 
-
-* [Muralla](https://gitlab.com/typebits/font-muralla), 
-* [Roseta](https://gitlab.com/typebits/font-roseta), 
-* [Ladrillo](https://gitlab.com/typebits/font-ladrillo) and 
-* [Persiana](https://gitlab.com/typebits/font-persiana). 
+[Muralla](https://gitlab.com/typebits/font-muralla), 
+[Roseta](https://gitlab.com/typebits/font-roseta), 
+[Ladrillo](https://gitlab.com/typebits/font-ladrillo) and 
+[Persiana](https://gitlab.com/typebits/font-persiana). 
 
 We've also published three fonts created in our 2016 Type:Bits workshop in Tomelloso:
-
-* [Avestruz](https://gitlab.com/typebits/font-avestruz), 
-* [Flamingo](https://gitlab.com/typebits/font-flamingo) and 
-* [Tucan](https://gitlab.com/typebits/font-tucan). 
+[Avestruz](https://gitlab.com/typebits/font-avestruz), 
+[Flamingo](https://gitlab.com/typebits/font-flamingo) and 
+[Tucan](https://gitlab.com/typebits/font-tucan). 
 
 All of these fonts are under the Open Font License. They are now ours and yours
 to use, improve, share and redistribute.
+
+**Photo credits**: Ana Isabel Carvalho, Emilio Garcia Otero.
