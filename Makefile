@@ -9,9 +9,9 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=manufactura
+SSH_HOST=dh
 SSH_PORT=22
-SSH_USER=aiscarvalho
+SSH_USER=rlaf
 SSH_TARGET_DIR=/home/rlaf/www/manufacturaindependente.org
 
 GITHUB_PAGES_BRANCH=gh-pages
