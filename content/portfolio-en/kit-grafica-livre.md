@@ -3,7 +3,7 @@ Summary: Hotspot with free tools for designers
 Date: 2013-09-01 16:00
 Author: manufactura
 Category: Work
-Tags: type, undocumented
+Tags: type
 Slug: kit-grafica-livre
 Lang: en
 Client: Manufactura in collaboration with AEFBAUP

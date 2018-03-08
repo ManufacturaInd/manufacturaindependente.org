@@ -3,7 +3,7 @@ Summary: European campaign for copyright reform
 Date: 2016-07-01 16:00
 Author: manufactura
 Category: Work
-Tags: undocumented
+Tags: copyleft
 Slug: bcs-copyright
 Lang: en
 Client: Communia
