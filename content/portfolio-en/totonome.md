@@ -19,3 +19,14 @@ forward a quiz which tries to shed light and make sense of the bureaucratic
 decisions behind Portugal's name policies.
 
 ![Totonome]({filename}/media/work/Totonome.png)
+
+Portugal has a child naming policy based on a fixed list of accepted names.
+There are procedures for parents who want to pick a name outside the list; it
+is up to officers at IRN to determine whether the proposed name is acceptable
+or not.
+
+During one [Date With Data](http://www.datewithdata.pt) event, we stumbled into
+the list of accepted and rejected names and decided to do something with them.
+Along with Tiago Vieira and Chiara Carrozza, we processed the PDF into a proper
+dataset that we [published](http://) in open formats. From there, we went on to 
+
