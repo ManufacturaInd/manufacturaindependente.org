@@ -10,9 +10,9 @@ Lang: en
 
 We are in Linz this week to work, share and exchange ideas on our ongoing  project Foundry-in-a-box (FIB). In the summer we applied for the Artist Run Data Center program, at [Servus](http://core.servus.at) with the wish dedicate more time to this dear project.
 
-<ul class="display row small-up-2">
-  <li class="column"><img src="{filename}/media/servus_ardc_fontjson.jpg" alt="FontJSON window"></li>
-  <li class="column"><img src="{filename}/media/servus_ardc_fontforge-script.jpg" alt="FontForge script window"></li>
+<ul class="display grid-x grid-margin-x small-up-2">
+  <li class="cell"><img src="{filename}/media/servus_ardc_fontjson.jpg" alt="FontJSON window"></li>
+  <li class="cell"><img src="{filename}/media/servus_ardc_fontforge-script.jpg" alt="FontForge script window"></li>
 </ul>
 
 After some months of distant communication we're physically here, at a walking distance from the server where we've been working on.

@@ -1,18 +1,15 @@
 {% extends "base.html" %}
 {% block content %}
 <section id="content" class="list-page">
-    
-    <div class="row column"><h2>{{ category }}</h2></div>
-    <div class="row large-collapse">
-      <ul class="list no-bullet">    
-          {% for article in articles_page.object_list %}
-              <li><article class="hentry row large-collapse">
-                  <p class="entry-date columns large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
-                  <header class="entry-header columns large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
-                  <div class="entry-content columns large-6"> {{ article.summary }} </div><!-- /.entry-content -->
-              </article></li>
-          {% endfor %}
-      </ul><!-- /.list -->
-    </div>
+    <h2>{{ category }}</h2>
+    <ul class="list no-bullet">    
+      {% for article in articles_page.object_list %}
+          <li><article class="hentry grid-x grid-margin-x">
+              <p class="entry-date cell large-1"><abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+              <header class="entry-header cell large-5"><h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+              <div class="entry-content cell large-6"> {{ article.summary }} </div><!-- /.entry-content -->
+          </article></li>
+      {% endfor %}
+    </ul><!-- /.list -->
 </section><!-- #content -->
 {% endblock %}

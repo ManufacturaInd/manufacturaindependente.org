@@ -4,9 +4,11 @@
 
 {% block content %}
 <section id="content" class="list-page">
-    <div class="row large-collapse"><h1 class="columns large-12">Tags for {{ SITENAME }}</h1></div>
-    {%- for tag, articles in tags|sort %}
-        <li class="row large-collapse"><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-    {% endfor %}
+    <h2 class="columns large-12">Tags for {{ SITENAME }}</h2>
+    <ul class="list no-bullet">
+        {%- for tag, articles in tags|sort %}
+            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+        {% endfor %}
+    </ul>
 </section><!-- /#content -->
 {% endblock %}

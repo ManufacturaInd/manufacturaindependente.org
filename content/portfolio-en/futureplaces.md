@@ -29,16 +29,16 @@ For the third consecutive year, we took care of setting up the festival's commun
 
 The visual concept and art direction of each edition is the work of Heitor Alvelos and a few regular conspirators of Future Places.
 
-<ul class="display row small-up-1 medium-up-2">
-    <li class="column"><img src="{filename}/media/work/Futureplaces_2015_mupi.png"></li>
-    <li class="column"><img src="{filename}/media/work/Futureplaces_2015_cartaz.png"></li>
+<ul class="display grid-x grid-margin-x small-up-1 medium-up-2">
+    <li class="cell"><img src="{filename}/media/work/Futureplaces_2015_mupi.png"></li>
+    <li class="cell"><img src="{filename}/media/work/Futureplaces_2015_cartaz.png"></li>
 </ul>
 
 ### Future Places 2013 
 
-<ul class="display row small-up-1 medium-up-2">
-    <li class="column"><img src="{filename}/media/work/Futureplaces_2013_mupi.png"></li>
-    <li class="column"><img src="{filename}/media/work/Futureplaces_2013_cartaz.png"></li>
+<ul class="display grid-x grid-margin-x small-up-1 medium-up-2">
+    <li class="cell"><img src="{filename}/media/work/Futureplaces_2013_mupi.png"></li>
+    <li class="cell"><img src="{filename}/media/work/Futureplaces_2013_cartaz.png"></li>
 </ul>
 
 ![Future Places 2013, autocolantes]({filename}/media/work/Futureplaces_2013_autocolantes.png)

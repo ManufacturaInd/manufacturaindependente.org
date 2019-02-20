@@ -2,34 +2,34 @@
 {% block content %}
 <section id="content" class="archive-page">
 
-    <div class="row column">
+    <header>
       <h3>Archive</h3>
-    </div>
+    </header>
 
-    <div class="row collapse small-up-2 medium-up-4"> 
+    <div class="grid-x small-up-2 medium-up-4 large-up-5" data-equalizer id="workgrid"> 
       {% for article in dates %}
         {% if article.category.name in ['Work', 'Workshops'] %}
           {% if not 'undocumented' in article.tags %}
-            <div class="column">        
+            <div class="cell" data-equalizer-watch>        
               <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
-                <h3 class="entry-title">{{ article.title }}</h3>
                 {% if article.featured_image %}
-                  <p><img src="{{ article.featured_image }}"></p>
+                  <img src="{{ article.featured_image }}">
                 {% else %}
                   <!-- empty paragraph to align layout; remove when all entries have images! -->
-                  <p>&nbsp;</p>
+                  <span>&nbsp;</span>
                 {% endif %}
+                <h3 class="entry-title">{{ article.title }}</h3>
               </a>
           </div>
           {% else %}
-            <div class="column">
-              <h3 class="entry-title">{{ article.title }}</h3>
+            <div class="cell" data-equalizer-watch>
               {% if article.featured_image %}
-                <p><img src="{{ article.featured_image }}"></p>
+                <img src="{{ article.featured_image }}">
               {% else %}
                 <!-- empty paragraph to align layout; remove when all entries have images! -->
-                <p>&nbsp;</p>
+                <span>&nbsp;</span>
               {% endif %}
+              <h3 class="entry-title">{{ article.title }}</h3>
             </div>
           {% endif %}
         {% endif %}

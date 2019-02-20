@@ -6,6 +6,7 @@ Category: Workshops
 Tags: type
 Slug: typebits
 Lang: en
+Image: /media/typebits-aviles_06.jpg
 
 ![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés, photo by Manufactura")
 
@@ -45,17 +46,17 @@ histories transparently document the rhythm of production and the contribution
 of each participant.
 
 
-<div class="row small-up-1 medium-up-2">
-  <div class="column">
+<div class="grid-x grid-margin-x small-up-1 medium-up-2">
+  <div class="cell">
     <p><img src="../media/typebits-aviles_04.jpg" alt="Type:Bits Avilés, photo by Manufactura"></p>
   </div>
-  <div class="column">
+  <div class="cell">
     <p><img src="../media/typebits-aviles_03.jpg" alt="Type:Bits Avilés, photo by Emilio García Otero"></p>
   </div>
-  <div class="column">
+  <div class="cell">
     <p><img src="../media/typebits-aviles_02.jpg" alt="Type:Bits Avilés, photo by Emilio García Otero"></p>
   </div>
-  <div class="column">
+  <div class="cell">
     <p><img src="../media/typebits-aviles_05.jpg" alt="Type:Bits Avilés, photo by Manufactura"></p>
   </div>
 </div>

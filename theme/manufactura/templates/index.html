@@ -1,87 +1,108 @@
 {% extends "base.html" %}
 {% block content %}
-<section id="content" class="list-page">
-  <div class="row column">
-    <form action="https://manufacturaindependente.hosted.phplist.com/lists/?p=subscribe" method="post">
-    <input type="text" name="email" value="Enter your email" />
-    <button type="submit">Subscribe to our newsletters</button>
-    </form>
-  </div>
-
-  <div class="row column">
-    <h2>Work</h2>
-  </div>
-  <ul id="portfolio-list" class="no-bullet">  
-    {% for article in articles_page.object_list %}
-      {% if article.category.name == 'Work' %}
-        <li><article class="hentry row">
-            <p class="entry-date columns large-1 medium-2 small-3">
-              <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
-            </p>
-            <header class="entry-header columns large-5 medium-10 small-9">
-              <h3 class="entry-title">
-                {% if not UNDOCUMENTED_TAG in article.tags %}
-                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-                {% else %}
-                  <span class="undocumented">{{ article.title }}</span>
-                {% endif %}
-              </h3>
-            </header>
-            <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
-              {{ article.summary }}
-            </div>
-        </article></li>       
-      {% endif %}
-    {% endfor %}
-  </ul><!-- /#portfolio-list -->
+<div id="content" class="list-page">
   
-  <div class="row column">
-    <h2>Workshops</h2>
-  </div>
-  <ul id="workshop-list" class="no-bullet">  
-    {% for article in articles_page.object_list %}
-      {% if article.category.name == 'Workshops' %}
-        <li><article class="hentry row">
-            <p class="entry-date columns large-1 medium-2 small-3">
-              <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
-            </p>
-            <header class="entry-header columns large-5 medium-10 small-9">
-              <h3 class="entry-title">
-                {% if not 'undocumented' in article.tags %}
-                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-                {% else %}
-                  <span class="undocumented">{{ article.title }}</span>
-                {% endif %}
-              </h3>
-            </header>
-            <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0"> {{ article.summary }} </div>
-        </article></li>
-      {% endif %}
-    {% endfor %}
-  </ul><!-- /#workshop-list -->
+  <section id="work-mosaic">
+      <ul class="no-bullet grid-x small-up-2 medium-up-4">  
+        {% for article in articles %}
+          {% if article.category.name == 'Work' and FEATURED_TAG in article.tags %}
+            <li class="cell"><article class="hentry">
+                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                      <p><img data-alt-src="{{ article.image }}" src="{{ article.image }}" alt="{{ article.title }}"></p>
+                      <h3 class="p-name">{{ article.title }}</h3>
+                  </a>
+            </article></li>       
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section><!-- /#work-mosaic -->
+  
+  <section id="subscribe">
+    <form action="https://manufacturaindependente.hosted.phplist.com/lists/?p=subscribe" method="post">
+        <div class="input-group">
+          <input class="input-group-field" type="email" name="email" placeholder="Enter your email" >
+          <div class="input-group-button">
+            <input type="submit" class="button hollow" value="Subscribe to our newsletter">
+          </div>
+        </div>
+    </form>
+  </section><!-- /#subscribe -->
 
-  <div class="row column">
+  <section class="work">
+    <h2>Work</h2>
+      <ul id="portfolio-list" class="no-bullet">  
+        {% for article in articles_page.object_list %}
+          {% if article.category.name == 'Work' %}
+            <li><article class="hentry grid-x grid-margin-x">
+                <p class="entry-date cell large-1 medium-2 small-3">
+                  <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+                </p>
+                <header class="entry-header cell large-5 medium-10 small-9">
+                  <h3 class="entry-title">
+                    {% if not UNDOCUMENTED_TAG in article.tags %}
+                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                    {% else %}
+                      <span class="undocumented">{{ article.title }}</span>
+                    {% endif %}
+                  </h3>
+                </header>
+                <div class="entry-content cell large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
+                  {{ article.summary }}
+                </div>
+            </article></li>       
+          {% endif %}
+        {% endfor %}
+      </ul><!-- /#portfolio-list -->
+  </section><!-- /.work -->
+  
+  <section class="workshops">
+    <h2>Workshops</h2>
+      <ul id="workshop-list" class="no-bullet">  
+        {% for article in articles_page.object_list %}
+          {% if article.category.name == 'Workshops' %}
+            <li><article class="hentry grid-x grid-margin-x">
+                <p class="entry-date cell large-1 medium-2 small-3">
+                  <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+                </p>
+                <header class="entry-header cell large-5 medium-10 small-9">
+                  <h3 class="entry-title">
+                    {% if not 'undocumented' in article.tags %}
+                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                    {% else %}
+                      <span class="undocumented">{{ article.title }}</span>
+                    {% endif %}
+                  </h3>
+                </header>
+                <div class="entry-content cell large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0"> {{ article.summary }} </div>
+            </article></li>
+          {% endif %}
+        {% endfor %}
+      </ul><!-- /#workshop-list -->
+  </section><!-- /.workshops -->
+  
+
+  <section class="writings">
     <h2>Writings</h2>
-  </div>
-  <ul id="post-list" class="no-bullet">
+    <ul id="post-list" class="no-bullet">
     {% for article in articles_page.object_list  %}
       {% if article.category.name == 'Post' %}
-        <li><article class="hentry row">
-            <p class="entry-date columns large-1 medium-2 small-3">
+        <li><article class="hentry grid-x grid-margin-x">
+            <p class="entry-date cell large-1 medium-2 small-3">
               <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
             </p>
-            <header class="entry-header columns large-5 medium-10 small-9">
+            <header class="entry-header cell large-5 medium-10 small-9">
               <h3 class="entry-title">
                 <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
               </h3>
             </header>
-            <div class="entry-content columns large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
+            <div class="entry-content cell large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
               {{ article.summary }}
             </div>
         </article></li>
       {% endif %}
     {% endfor %}
-  </ul><!-- /#post-list -->
+    </ul><!-- /#post-list -->
+  </section><!-- /.writings -->
 
-</section><!-- /#content -->
+</div><!-- /#content -->
 {% endblock content %}
