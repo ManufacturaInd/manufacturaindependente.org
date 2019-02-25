@@ -88,7 +88,7 @@ section.list-page ul li ,
     padding-bottom: 0.25rem;
 }
 
-#content ul li .hentry p {
+#content ul li.hentry p {
     margin-bottom: 0;
     line-height: 1.2;
 }
@@ -144,13 +144,16 @@ section.list-page ul li ,
     margin-bottom: 0;
 }
 
-#work-mosaic .small-up-2 .hentry,
-.archive-page .small-up-2 .cell  {
+#work-mosaic ul .hentry,
+.archive-page ul .cell  {
     height: 100%;
+    border-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
-#work-mosaic .small-up-2 a,
-.archive-page .small-up-2 a  {
+#work-mosaic ul a,
+.archive-page ul a  {
     position: relative;
     display: flex;
     align-items: center;
@@ -159,25 +162,25 @@ section.list-page ul li ,
     overflow: hidden;
 }
 
-#work-mosaic .small-up-2 a img ,
-.archive-page .small-up-2 a img  {
+#work-mosaic ul a img ,
+.archive-page ul a img  {
     display: block;
 }
 
-.archive-page .small-up-2 a span  {
+.archive-page ul a span  {
     display: block;
     height: 100%;
     width: 100%;
-    background-image: url(../images/green-waved-stripe.png) repeat 0 0;
+    background: transparent url(../images/green-waved-stripe.png) repeat 0 0;
 }
 
-#work-mosaic .small-up-2 a h3,
-.archive-page .small-up-2 a h3 {
+#work-mosaic ul a h3,
+.archive-page ul a h3 {
     display: none;
 }
 
-#work-mosaic .small-up-2 a:hover h3,
-.archive-page .small-up-2 a:hover h3 {
+#work-mosaic ul a:hover h3,
+.archive-page ul a:hover h3 {
     display: block;
     position: absolute; 
     width: 100%;
@@ -210,6 +213,19 @@ section.list-page ul li ,
 .list-page .entry-date abbr {
 	font-size: 0.7rem;
 	text-transform: uppercase;
+}
+
+
+[type="text"], [type="password"], [type="date"], [type="datetime"], [type="datetime-local"], [type="month"], [type="week"], [type="email"], [type="number"], [type="search"], [type="tel"], [type="time"], [type="url"], [type="color"], textarea {
+	border: 1px solid #4a4a5b;
+	background-color: transparent;
+	-webkit-box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
+	box-shadow: 0;
+}
+
+#subscribe .input-group [type="text"],
+#subscribe .input-group [type="email"] {
+    border-right: 0;
 }
 
 
@@ -367,8 +383,8 @@ section.list-page ul li ,
 @media screen and (min-width: 64em) {
 
   /* remove padding in leftmost column and rightmost column, in post/work list */
-  #content ul li .hentry.grid-x .cell:first-child { padding-left: 0; }
-  #content ul li .hentry.grid-x .cell:last-child  { padding-right: 0; }
+  #content ul li.hentry.grid-x .cell:first-child { padding-left: 0; }
+  #content ul li.hentry.grid-x .cell:last-child  { padding-right: 0; }
   
 
   .article .entry-title,

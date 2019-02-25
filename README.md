@@ -41,3 +41,8 @@ Se tudo parecer ok, é hora de atualizar o site live!
 
 Os dois últimos comandos re-geram todo o site, por isso não é preciso fazer
 `make html` antes.
+
+
+## Conteúdos
+
+  * Uma imagem de destaque por trabalho com a proporção 800 x 600 px (altura x largura); o site, em ecrã desktop grandes pode precisar de imagens maiores que 800 x 600; nesse caso podemo s pensar suportar tamanho 1200 x 900 na página individual e 800 x 600 na grelha de imagens (dois tamanho da mesma imagem)
