@@ -1,5 +1,5 @@
 Title: Puré de Notícias
-Summary: Web quiz about naming your child in Portugal
+Summary:
 Date: 2016-01-01 16:00
 Author: manufactura
 Category: Work
@@ -8,6 +8,6 @@ Slug: pure-de-noticias
 Lang: en
 Client: Self comissioned, in collaboration with Tiago Vieira
 Location: Porto, Portugal
-Description: Web quiz
-Image: /media/work/Totonome.png
+Description: Twitter bot
+Image:
 

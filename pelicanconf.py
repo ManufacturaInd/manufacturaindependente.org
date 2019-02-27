@@ -28,6 +28,7 @@ DEFAULT_PAGINATION = False
 THEME = 'theme/manufactura'
 
 UNDOCUMENTED_TAG = 'undocumented'
+FEATURED_TAG = 'featured'
 
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'

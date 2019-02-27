@@ -6,49 +6,6 @@
 	Original author: Manufactura Independente <http://manufacturaindependente.org/>
 */
 
-/* Typography
-*/
-
-@font-face {
-  font-family: 'Roboto';
-  font-weight: 300;
-  font-style: normal;
-  src: local('Roboto Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-weight: 400;
-  font-style: normal;
-  src: local('Roboto Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-weight: 700;
-  font-style: normal;
-  src: local('Roboto Bold'), url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-weight: 400;
-  font-style: italic;
-  src: local('Roboto Italic'), url('../fonts/Roboto/Roboto-Italic.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Fantasque Mono';
-  font-weight: 400;
-  font-style: normal;
-  src: local('Fantasque Mono'), url('../fonts/Fantasque/FantasqueSansMono-Regular.ttf') format('truetype');
-}
-
-/* Import Foundation
-*/
-
-@import 'foundation';
-
 body {
   line-height: 1;
 }
@@ -111,15 +68,6 @@ small,
 /* Layout
 */
 
-/*
-.row.large-collapse > .columns {
-    padding-right: 0.9375rem;
-}
-
-.row.large-collapse > .columns:last-child {
-    padding-right: 0;
-}*/
-
 #header {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -129,23 +77,18 @@ small,
     margin-bottom: 2rem;
 }
 
-.list-page > ul { margin-bottom: 2rem; }
+section.list-page ul,
+.list-page section ul { margin-bottom: 2rem; }
 
-/*
-#content ul li .hentry.row {
-    border-top: 1px solid #47505e;
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
-}*/
-
-/* border-bototm  in category/archive list pages */
-.list-page > ul li .row  {
+/* border-bottom  in category/archive list pages */
+section.list-page ul li ,
+.list-page section ul li  {
     border-top: 1px solid #47505e;
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
 }
 
-#content ul li .hentry p {
+#content ul li.hentry p {
     margin-bottom: 0;
     line-height: 1.2;
 }
@@ -177,7 +120,7 @@ small,
   margin-left: 0;
 }
 
-.entry-content .row.display {
+.entry-content .grid-x.display {
   margin-left: -0.9375rem;
   margin-right: -0.9375rem;
 }
@@ -201,6 +144,55 @@ small,
     margin-bottom: 0;
 }
 
+#work-mosaic ul .hentry,
+.archive-page ul .cell  {
+    height: 100%;
+    border-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#work-mosaic ul a,
+.archive-page ul a  {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    overflow: hidden;
+}
+
+#work-mosaic ul a img ,
+.archive-page ul a img  {
+    display: block;
+}
+
+.archive-page ul a span  {
+    display: block;
+    height: 100%;
+    width: 100%;
+    background: transparent url(../images/green-waved-stripe.png) repeat 0 0;
+}
+
+#work-mosaic ul a h3,
+.archive-page ul a h3 {
+    display: none;
+}
+
+#work-mosaic ul a:hover h3,
+.archive-page ul a:hover h3 {
+    display: block;
+    position: absolute; 
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
 .list-page .hentry {
     margin-top: 0.15rem;
     margin-bottom: 0.15rem;
@@ -221,6 +213,19 @@ small,
 .list-page .entry-date abbr {
 	font-size: 0.7rem;
 	text-transform: uppercase;
+}
+
+
+[type="text"], [type="password"], [type="date"], [type="datetime"], [type="datetime-local"], [type="month"], [type="week"], [type="email"], [type="number"], [type="search"], [type="tel"], [type="time"], [type="url"], [type="color"], textarea {
+	border: 1px solid #4a4a5b;
+	background-color: transparent;
+	-webkit-box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
+	box-shadow: 0;
+}
+
+#subscribe .input-group [type="text"],
+#subscribe .input-group [type="email"] {
+    border-right: 0;
 }
 
 
@@ -334,11 +339,7 @@ small,
     color: #c09a96;
 }
 
-.entry-content .small-block-grid-2,
-.entry-content .small-block-grid-3,
-.entry-content .small-block-grid-4,
-.entry-content .small-block-grid-5,
-.entry-content .small-block-grid-6 {
+.entry-content ul.grid-x {
     margin-top: 1.25rem;
 }
 
@@ -350,14 +351,14 @@ small,
 /* Archive template
 */
 
-.archive-page .row .column {/*
+.archive-page .cell.small-12 {/*
     padding: 0;*/
     border: 1px solid #fff;
 }
 
-.archive-page .row a { display: block; }
+.archive-page .cell a { display: block; }
 
-.archive-page .row a > .entry-title {
+.archive-page .cell a > .entry-title {
     display: none;
     font-family: "Roboto";
     font-weight: 300;
@@ -368,9 +369,9 @@ small,
     padding: 10px;
 }
 
-.archive-page .row a:hover .entry-title { display: block; }
+.archive-page .cell a:hover .entry-title { display: block; }
 
-.archive-page .row .column p {
+.archive-page .cell p {
     margin: 0;
     height: 160px;
     width: auto;
@@ -382,12 +383,9 @@ small,
 @media screen and (min-width: 64em) {
 
   /* remove padding in leftmost column and rightmost column, in post/work list */
-  #content ul li .hentry.row .columns:first-child { padding-left: 0; }
-  #content ul li .hentry.row .columns:last-child  { padding-right: 0; }
+  #content ul li.hentry.grid-x .cell:first-child { padding-left: 0; }
+  #content ul li.hentry.grid-x .cell:last-child  { padding-right: 0; }
   
-  
-  /* remove left padding in post/work list titles */
-  .list-page .row.column { padding-left: 0; }
 
   .article .entry-title,
   .page .entry-title { font-size: 4rem; }

@@ -3,7 +3,7 @@ Summary: A new face for Neural magazine’s website
 Date: 2013-10-01 15:52
 Author: manufactura
 Category: Work
-Tags: webdesign, webdev, wordpress, featured
+Tags: webdesign, webdev, wordpress
 Slug: neural-it
 Lang: en
 Client: Neural magazine
