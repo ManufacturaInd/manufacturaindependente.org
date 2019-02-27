@@ -9,7 +9,9 @@ Lang: en
 
 ![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés, photo by Manufactura")
 
-Type:Bits is a collaborative type design workshop following on the steps of
+Type:Bits is a collaborative type design workshop series.
+
+following on the steps of
 [fonts.txt](http://manufacturaindependente.org/fontstxt).  The methodologies
 and workflows that we employ to generate the fonts are mostly the same: paper
 sketches are the starting point to design basic characters, which are then
@@ -75,7 +77,7 @@ We've also published three fonts created in our 2016 Type:Bits workshop in Tomel
 [Flamingo](https://gitlab.com/typebits/font-flamingo) and 
 [Tucan](https://gitlab.com/typebits/font-tucan). 
 
-All of these fonts are under the Open Font License. They are now ours and yours
+All of these fonts are under the Open Font License. They are now yours and ours
 to use, improve, share and redistribute.
 
 **Photo credits**: Ana Isabel Carvalho, Emilio Garcia Otero.
