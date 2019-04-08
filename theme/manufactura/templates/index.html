@@ -1,4 +1,10 @@
 {% extends "base.html" %}
+
+{% block extrascripts %}
+    <script type="text/javascript" src="/theme/js/vendor/phplist-subscribe-0.2.min.js"></script>
+    <script type="text/javascript">var pleaseEnter = "Your e-mail address"; </script>
+{% endblock extrascripts %}
+
 {% block content %}
 <div id="content" class="list-page">
   
@@ -18,14 +24,16 @@
   </section><!-- /#work-mosaic -->
   
   <section id="subscribe">
-    <form action="https://manufacturaindependente.hosted.phplist.com/lists/?p=subscribe" method="post">
+    <form action="https://manufacturaindependente.hosted.phplist.com/lists/?p=subscribe&id=1" method="post" id="phplistsubscribeform">
         <div class="input-group">
-          <input class="input-group-field" type="email" name="email" placeholder="Enter your email" >
+          <input class="input-group-field" id="emailaddress" type="text" name="email" placeholder="Enter your email" >
           <div class="input-group-button">
-            <input type="submit" class="button hollow" value="Subscribe to our newsletter">
+            <!--<input type="submit" class="button hollow" id="phplistsubscribe" value="Subscribe to our newsletter">-->
+            <button type="submit" id="phplistsubscribe">Subscribe to our newsletters</button>
           </div>
         </div>
     </form>
+    <div id="phplistsubscriberesult"></div>
   </section><!-- /#subscribe -->
 
   <section class="work">
