@@ -9,7 +9,7 @@ Lang: pt
 Client: Self comissioned
 Location: Porto(Portugal) — Toronto(Canada)
 Description: Free culture & design publication
-Image: /media/opening-image.jpg
+Image: /media/libre-graphics-magazine.jpg
 
 ![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
 

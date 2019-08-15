@@ -9,7 +9,7 @@ Lang: en
 Client: Self comissioned
 Location: Porto & Montréal
 Description: Free culture & design publication
-Image: /media/opening-image.jpg
+Image: /media/libre-graphics-magazine.jpg
 
 The Libre Graphics magazine was a print publication dedicated to the
 cross-overs between the fields of art & design and the world of libre and open
