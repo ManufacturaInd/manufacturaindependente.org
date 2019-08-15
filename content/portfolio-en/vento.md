@@ -15,7 +15,7 @@ The poster references the wind, the main character in the play, and the
 journeys of Don Quixote.
 
 
-![O Vento]({filename}/media/vento.jpg)
+![O Vento]({static}/media/vento.jpg)
 
 [O Vento](http://www.visoesuteis.pt/en/component/k2/item/184-o-vento "O Vento")
 is a [Visões Úteis](http://visoesuteis.pt) project involving the beautiful
@@ -40,9 +40,9 @@ Under the windy letter there is an old map. It serves a reference to the
 travelings of D. Quixote and other brave explorers, set out to find the
 unknown.
 
-![O Vento]({filename}/media/vento-1.jpg)
-![O Vento]({filename}/media/vento-2.jpg)
-![O Vento]({filename}/media/vento-3.jpg)
-![O Vento]({filename}/media/vento-4.jpg)
-![O Vento]({filename}/media/vento-5.jpg)
+![O Vento]({static}/media/vento-1.jpg)
+![O Vento]({static}/media/vento-2.jpg)
+![O Vento]({static}/media/vento-3.jpg)
+![O Vento]({static}/media/vento-4.jpg)
+![O Vento]({static}/media/vento-5.jpg)
 

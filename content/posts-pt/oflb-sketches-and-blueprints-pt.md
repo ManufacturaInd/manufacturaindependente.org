@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: pt
 
-[![Image]({filename}/media/IMAG0163-1024x613.jpg "IMAG0163")]({filename}/media/IMAG0163.jpg)
+[![Image]({static}/media/IMAG0163-1024x613.jpg "IMAG0163")]({static}/media/IMAG0163.jpg)
 
 Esta semana temos estado (e vamos estar) ocupados com a primeira fase do
 trabalho de preparação da versão 0.3 da Open Font Library. Fizemos
@@ -40,6 +40,6 @@ fonte pode ter. Ainda estamos a experimentar com cores e formas; no
 momento em que estivermos satisfeitos com um estilo visual, vamos
 adaptar os ícones para que possam funcionar em tamanhos pequenos.
 
-[![Image]({filename}/media/flag-icons1.png "flag-icons")]({filename}/media/flag-icons1.png)
+[![Image]({static}/media/flag-icons1.png "flag-icons")]({static}/media/flag-icons1.png)
 
 

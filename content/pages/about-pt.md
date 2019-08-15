@@ -5,7 +5,7 @@ Category: page
 Slug: about
 Lang: pt
 
-![Manufactura Independente]({filename}/media/manufacturaindependente_2013.jpg)
+![Manufactura Independente]({static}/media/manufacturaindependente_2013.jpg)
 
 
 A Manufactura Independente é um estúdio de investigação crítica em design e 

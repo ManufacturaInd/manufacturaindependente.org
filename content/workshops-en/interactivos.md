@@ -7,7 +7,7 @@ Tags: workshops, undocumented
 Slug: interactivos13
 Lang: en
 
-![Interactivos'13 - Call for Submissions Poster]({filename}/media/workshops_interactivos13-cfs-poster.jpg "Interactivos'13 - Call for Submissions Poster")
+![Interactivos'13 - Call for Submissions Poster]({static}/media/workshops_interactivos13-cfs-poster.jpg "Interactivos'13 - Call for Submissions Poster")
 
 We integrated the advisor team for Interactivos'13.
 Interactivos' is an initiative of the Medialab-Prado, in Madrid. Two intense weeks to excahnge ideas, discuss, learn and develop projects.

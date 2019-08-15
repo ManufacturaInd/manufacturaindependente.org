@@ -11,7 +11,7 @@ After publishing the [initial
 sketch](http://blog.manufacturaindependente.org/2011/08/oflb-the-font-page/)
 for the font page we decided to re-think its structure.
 
-[![Font page mockup]({filename}/media/maquete-fontpage-203x300.png "Font page mockup")]({filename}/media/maquete-fontpage.png)
+[![Font page mockup]({static}/media/maquete-fontpage-203x300.png "Font page mockup")]({static}/media/maquete-fontpage.png)
 
 One the problems we first came across was the large amount of
 information that was necessary to display for font families with
@@ -39,7 +39,7 @@ helpers at the top.
 We maintained the two column layout: the left column for font samples
 and the right sidebar for font information.
 
-[![Font page mockup]({filename}/media/Screenshot-e1314031282603.png "Font page mockup")](http://manufacturaindependente.com/oflb/20110822-fontpage/index.html)
+[![Font page mockup]({static}/media/Screenshot-e1314031282603.png "Font page mockup")](http://manufacturaindependente.com/oflb/20110822-fontpage/index.html)
 
 So in the left column we have:
 

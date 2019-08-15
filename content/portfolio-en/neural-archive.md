@@ -11,7 +11,7 @@ Location: Bari, Italy
 Description: Design and code for a custom web-framework
 Image: /media/work/Neural-Archive.jpg
 
-![The Neural Archive]({filename}/media/work/Neural-Archive.jpg)
+![The Neural Archive]({static}/media/work/Neural-Archive.jpg)
 
 [The Neural Archive](http://archive.neural.it) is a platform to catalogue 
 and index Neural.it's vast collection of publications.

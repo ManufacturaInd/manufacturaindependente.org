@@ -11,7 +11,7 @@ Location: Brussels, Belgium
 Description: Text explorations
 Image: /media/work/Super-Text-Adventure-3000.jpg
 
-![Super Text Adventure 3000]({filename}/media/work/Super-Text-Adventure-3000.jpg)
+![Super Text Adventure 3000]({static}/media/work/Super-Text-Adventure-3000.jpg)
 
 Super Text Adventure 3000 is an interactive installation which plays on gaming,
 predictive text and randomness, developed and presented at Relearn 2015.

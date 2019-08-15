@@ -12,7 +12,7 @@ Description: Graphic identity
 Image: /media/work/LibreBoston.png
 
 
-![Libre Boston]({filename}/media/work/LibreBoston.png)
+![Libre Boston]({static}/media/work/LibreBoston.png)
 
 We created the logo for Libre Boston, a community of Free Software users and activists based in Boston.
 

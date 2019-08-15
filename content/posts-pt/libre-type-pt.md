@@ -5,7 +5,7 @@ Category: Post
 Slug: awesome-libre-typography
 Lang: pt
 
-[![Image]({filename}/media/DSC_0019-1024x768.jpg "LGM, grafitti em Campanhã (Porto, Portugal)")
+[![Image]({static}/media/DSC_0019-1024x768.jpg "LGM, grafitti em Campanhã (Porto, Portugal)")
 
 <small>Foto de [Luís
 Camanho](http://itsagoodlifeifyoudontweaken.tumblr.com)</small>

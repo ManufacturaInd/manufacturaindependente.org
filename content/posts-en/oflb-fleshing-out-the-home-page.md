@@ -13,7 +13,7 @@ version](http://manufacturaindependente.com/oflb/20110721-homepage/) of
 the home page design, even though there's still quite a bit of work
 left.
 
-[![Homepage]({filename}/media/homepage01-1024x719.png "homepage01")]({filename}/media/homepage01.png)
+[![Homepage]({static}/media/homepage01-1024x719.png "homepage01")]({static}/media/homepage01.png)
 
 **Logo**  
 We settled on a logo proposal, and while we were at it, we tried to

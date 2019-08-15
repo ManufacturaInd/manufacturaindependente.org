@@ -11,6 +11,6 @@ Location:
 Description: Tools for publishing fonts and making foundries
 Image: /media/work/Fib.jpg
 
-![Foundry in a box]({filename}/media/work/Fib.jpg)
+![Foundry in a box]({static}/media/work/Fib.jpg)
 
 ....

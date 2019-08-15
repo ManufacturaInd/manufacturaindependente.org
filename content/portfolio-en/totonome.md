@@ -18,7 +18,7 @@ It draws on the official database of accepted and rejected baby names to put
 forward a quiz which tries to shed light and make sense of the bureaucratic
 decisions behind Portugal's name policies.
 
-![Totonome]({filename}/media/work/Totonome.png)
+![Totonome]({static}/media/work/Totonome.png)
 
 Portugal has a child naming policy based on a fixed list of accepted names.
 There are procedures for parents who want to pick a name outside the list; it

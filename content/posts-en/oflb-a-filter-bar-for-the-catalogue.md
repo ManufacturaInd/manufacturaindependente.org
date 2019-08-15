@@ -13,7 +13,7 @@ On one hand this shift allowed for a cleaner and clearer view of the
 fonts displayed. On the other hand, it left us with the hard task of
 integrating the filters in the main column.
 
-[![Filters]({filename}/media/Screenshot-2-e1313504106243.png "Filters")](http://manufacturaindependente.com/oflb/20110812-catalogue/index.html)
+[![Filters]({static}/media/Screenshot-2-e1313504106243.png "Filters")](http://manufacturaindependente.com/oflb/20110812-catalogue/index.html)
 
 To simplify the UI we settled for an horizontal bar containing all the
 filters. This bar was placed below the text preview options. It is

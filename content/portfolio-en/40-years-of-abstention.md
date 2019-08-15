@@ -11,7 +11,7 @@ Location: Porto, Portugal
 Description: Interactive visualization
 Image: /media/work/40-Anos-de-Abstencao.png
 
-![40 Years of Abstention]({filename}/media/work/40-Anos-de-Abstencao.png)
+![40 Years of Abstention]({static}/media/work/40-Anos-de-Abstencao.png)
 
 [40 Years of Abstention](https://tmmv.github.io/abstencao) is an interactive visualization
 of the abstention in the Portuguese legislative elections, between 1975 and 2015.

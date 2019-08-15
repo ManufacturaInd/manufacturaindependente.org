@@ -15,7 +15,7 @@ Crossland, vamos escrevendo aqui, à medida que avançamos no trabalho.
 O resultado da análise deste e de outros sites de tipografia deu-nos as
 primeiras ideias para arrancar.
 
-[![Image]({filename}/media/univers-else-300x159.png "univers-else")]({filename}/media/univers-else.png)
+[![Image]({static}/media/univers-else-300x159.png "univers-else")]({static}/media/univers-else.png)
 
 Uma das coisas que notámos foi a enorme diferença na forma como as
 fontes são apresentadas entre catálogos impressos e repositórios online.

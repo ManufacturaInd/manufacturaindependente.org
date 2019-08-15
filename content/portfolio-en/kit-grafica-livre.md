@@ -11,7 +11,7 @@ Location: Fine Arts Faculty, Porto
 Description: Hotspot with free tools for designers
 Image: /media/work/Kit-Grafica-Livre-01.jpg
 
-![Kit Gráfica Livre]({filename}/media/work/Kit-Grafica-Livre-01.jpg)
+![Kit Gráfica Livre]({static}/media/work/Kit-Grafica-Livre-01.jpg)
 
 [Kit Gráfica Livre](http://kitgrafica.manufacturaindependente.org) is a mutant dead-drop filled with libre materials 
 and software, aimed at designers.

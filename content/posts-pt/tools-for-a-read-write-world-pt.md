@@ -34,7 +34,7 @@ discutidos e encontrar pistas para o design e identidade gráfica desta
 publicação. Nos próximos dois dias e meio trataremos de paginar todo o
 material, rever, imprimir, encadernar e lançar.
 
-[![Image]({filename}/media/interactivos13-fanzine1-1024x768.jpg "interactivos13-fanzine1")]({filename}/media/interactivos13-fanzine1.jpg)
+[![Image]({static}/media/interactivos13-fanzine1-1024x768.jpg "interactivos13-fanzine1")]({static}/media/interactivos13-fanzine1.jpg)
 
 A nossa [investigação e experimentação com
 plotters](http://blog.manufacturaindependente.org/2011/03/scheming-and-plotting/)

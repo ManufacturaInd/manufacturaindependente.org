@@ -7,7 +7,7 @@ Tags: type
 Slug: blocktype-mozfest
 Lang: en
 
-![Workshop poster]({filename}/media/blocktype-poster.jpg "Workshop poster")
+![Workshop poster]({static}/media/blocktype-poster.jpg "Workshop poster")
 
 We love scripting and hacking the font creation process. Some of our
 experiments led us to Lasse Fister's wonderful [Graphicore
@@ -36,24 +36,24 @@ smartphone gallery archaeologies.
 The workshop
 ------------
 
-![Sketching]({filename}/media/blocktype-sketching.jpg "Sketches")
-![Sketching 2]({filename}/media/blocktype-sketching2.jpg "More Sketches")
+![Sketching]({static}/media/blocktype-sketching.jpg "Sketches")
+![Sketching 2]({static}/media/blocktype-sketching2.jpg "More Sketches")
 
 We started our workshop by sketching the first two characters of our collective
 typeface. After looking at each contribution, we made a joint decision as to
 what design direction we'd follow.
 
-![Progress board]({filename}/media/blocktype-board.jpg "The progress board")
-![Decisions]({filename}/media/blocktype-board2.jpg "Making decisions")
+![Progress board]({static}/media/blocktype-board.jpg "The progress board")
+![Decisions]({static}/media/blocktype-board2.jpg "Making decisions")
 
 From there, the group was divided into a builder team and a designer team. The
 "designers" would go on sketching and defining the remaining characters,
 whereas the "builders" would begin work on building those characters in a
 Minecraft world.
 
-![Minecraft screen]({filename}/media/blocktype-screen.jpg "Minecraft font design")
+![Minecraft screen]({static}/media/blocktype-screen.jpg "Minecraft font design")
 
-<video src="{filename}/media/blocktype-minecraft.mp4" width="500" controls>
+<video src="{static}/media/blocktype-minecraft.mp4" width="500" controls>
   Your browser does not support embedded HTML5 video.
 </video>
 
@@ -71,11 +71,11 @@ After much work and refinement, our script did its magic and the Mozblock
 typeface was born!
 
 ![Mozblock
-specimen]({filename}/media/blocktype-specimen.png
+specimen]({static}/media/blocktype-specimen.png
 "Mozblock type specimen")
 
 You can [download the font
-package]({filename}/media/files/Mozblock.zip)
+package]({static}/media/files/Mozblock.zip)
 containing all necessary formats for inclusion in HTML pages.
 
 

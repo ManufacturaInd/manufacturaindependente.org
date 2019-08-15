@@ -16,7 +16,7 @@ of the printed materials for public moments, along the two years it took place.
 
 --
 
-![Viagens com Alma 1]({filename}/media/viagens-com-alma-1.png)
+![Viagens com Alma 1]({static}/media/viagens-com-alma-1.png)
 
 We’ve been frequent collaborators of [Visões Úteis](http://visoesuteis.pt
 "Visões Úteis"), a theatre company based in Porto which has been active for
@@ -46,15 +46,15 @@ creating some of the printed materials for Visões Úteis’ various steps throu
 this project as well as its predecessor, [A Língua das
 Pedras](http://visoesuteis.pt/en/component/k2/item/183-cluny-a-l%C3%ADngua-das-pedras).
 
-![A Língua das Pedras]({filename}/media/lingua-das-pedras.png)
+![A Língua das Pedras]({static}/media/lingua-das-pedras.png)
 
-![Viagens com Alma 2]({filename}/media/viagens-com-alma-2.png)
+![Viagens com Alma 2]({static}/media/viagens-com-alma-2.png)
 
 ## DVD Sleeve
 
 A year later, we went back to the project to design the sleeve for the DVD edition that was published as the final act of Viagens Com Alma, featuring video art pieces by [Pedro Maia](http://pedromaia.net) and [Michele Putortì](http://micheleputorti.com).
 
-![DVD Viagens com Alma 1]({filename}/media/viagens-com-alma-dvd-1.jpg)
-![DVD Viagens com Alma 2]({filename}/media/viagens-com-alma-dvd-2.jpg)
-![DVD Viagens com Alma 3]({filename}/media/viagens-com-alma-dvd-3.jpg)
-![DVD Viagens com Alma 4]({filename}/media/viagens-com-alma-dvd-4.jpg)
+![DVD Viagens com Alma 1]({static}/media/viagens-com-alma-dvd-1.jpg)
+![DVD Viagens com Alma 2]({static}/media/viagens-com-alma-dvd-2.jpg)
+![DVD Viagens com Alma 3]({static}/media/viagens-com-alma-dvd-3.jpg)
+![DVD Viagens com Alma 4]({static}/media/viagens-com-alma-dvd-4.jpg)
