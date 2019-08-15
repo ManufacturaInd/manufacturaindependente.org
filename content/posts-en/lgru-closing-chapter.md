@@ -7,7 +7,7 @@ Tags: floss, lgru
 Slug: libre-graphics-research-unit-closing-chapter
 Lang: en
 
-![LGRU Porto]({filename}/media/lgru-porto_11.jpg "LGRU Porto")
+![LGRU Porto]({static}/media/lgru-porto_11.jpg "LGRU Porto")
 
 From 22 to 25 May the Libre Graphics Research Unit gathers in Porto and
 this meeting concludes the two year project.

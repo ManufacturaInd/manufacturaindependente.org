@@ -101,7 +101,7 @@ numbers. And while these ways to display information have been soaring
 in popularity, we should be careful about what to focus on in our
 efforts to provide meaningful information.
 
-[![Bad infographic]({filename}/media/bad-info-1024x601.jpg "Bad infographic")]({filename}/media/bad-info.jpg)
+[![Bad infographic]({static}/media/bad-info-1024x601.jpg "Bad infographic")]({static}/media/bad-info.jpg)
 
 <small>Graphically pretty, but hard to read (hat-tip: [Erick
 Schonfeld](http://erickschonfeld.com/2012/06/28/infographics-broken/))</smal>
@@ -175,28 +175,28 @@ audiences that you wouldn't even consider in the first place.
 
 **Update:** Here are the slides.
 
-[![Persuasive Interfaces, slide 1]({filename}/media/010-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/010.png)
-[![Persuasive Interfaces, slide 2]({filename}/media/012-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/012.png)
-[![Persuasive Interfaces, slide 3]({filename}/media/020-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/020.png)
-[![Persuasive Interfaces, slide 4]({filename}/media/030-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/030.png)
-[![Persuasive Interfaces, slide 5]({filename}/media/040-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/040.png)
-[![Persuasive Interfaces, slide 6]({filename}/media/050-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/050.png)
-[![Persuasive Interfaces, slide 7]({filename}/media/060-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/060.png)
-[![Persuasive Interfaces, slide 8]({filename}/media/070-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/070.png)
-[![Persuasive Interfaces, slide 9]({filename}/media/090-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/090.png)
-[![Persuasive Interfaces, slide 10]({filename}/media/092-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/092.png)
-[![Persuasive Interfaces, slide 11]({filename}/media/100-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/100.png)
-[![Persuasive Interfaces, slide 12]({filename}/media/102-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/102.png)
-[![Persuasive Interfaces, slide 13]({filename}/media/104-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/104.png)
-[![Persuasive Interfaces, slide 14]({filename}/media/110-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/110.png)
-[![Persuasive Interfaces, slide 15]({filename}/media/112-calendario-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/112-calendario.png)
-[![Persuasive Interfaces, slide 16]({filename}/media/115-doquesefalou-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/115-doquesefalou.png)
-[![Persuasive Interfaces, slide 17]({filename}/media/120-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/120.png)
-[![Persuasive Interfaces, slide 18]({filename}/media/122-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/122.png)
-[![Persuasive Interfaces, slide 19]({filename}/media/124-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/124.png)
-[![Persuasive Interfaces, slide 20]({filename}/media/130-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/130.png)
-[![Persuasive Interfaces, slide 21]({filename}/media/140-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/140.png)
-[![Persuasive Interfaces, slide 22]({filename}/media/150-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/150.png)
-[![Persuasive Interfaces, slide 23]({filename}/media/200-150x150.png "Persuasive Interfaces, slide 01")]({filename}/media/200.png)
+[![Persuasive Interfaces, slide 1]({static}/media/010-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/010.png)
+[![Persuasive Interfaces, slide 2]({static}/media/012-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/012.png)
+[![Persuasive Interfaces, slide 3]({static}/media/020-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/020.png)
+[![Persuasive Interfaces, slide 4]({static}/media/030-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/030.png)
+[![Persuasive Interfaces, slide 5]({static}/media/040-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/040.png)
+[![Persuasive Interfaces, slide 6]({static}/media/050-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/050.png)
+[![Persuasive Interfaces, slide 7]({static}/media/060-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/060.png)
+[![Persuasive Interfaces, slide 8]({static}/media/070-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/070.png)
+[![Persuasive Interfaces, slide 9]({static}/media/090-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/090.png)
+[![Persuasive Interfaces, slide 10]({static}/media/092-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/092.png)
+[![Persuasive Interfaces, slide 11]({static}/media/100-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/100.png)
+[![Persuasive Interfaces, slide 12]({static}/media/102-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/102.png)
+[![Persuasive Interfaces, slide 13]({static}/media/104-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/104.png)
+[![Persuasive Interfaces, slide 14]({static}/media/110-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/110.png)
+[![Persuasive Interfaces, slide 15]({static}/media/112-calendario-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/112-calendario.png)
+[![Persuasive Interfaces, slide 16]({static}/media/115-doquesefalou-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/115-doquesefalou.png)
+[![Persuasive Interfaces, slide 17]({static}/media/120-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/120.png)
+[![Persuasive Interfaces, slide 18]({static}/media/122-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/122.png)
+[![Persuasive Interfaces, slide 19]({static}/media/124-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/124.png)
+[![Persuasive Interfaces, slide 20]({static}/media/130-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/130.png)
+[![Persuasive Interfaces, slide 21]({static}/media/140-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/140.png)
+[![Persuasive Interfaces, slide 22]({static}/media/150-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/150.png)
+[![Persuasive Interfaces, slide 23]({static}/media/200-150x150.png "Persuasive Interfaces, slide 01")]({static}/media/200.png)
 
 

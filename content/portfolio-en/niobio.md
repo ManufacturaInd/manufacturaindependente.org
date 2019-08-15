@@ -55,17 +55,17 @@ released in Portugal; we took inspiration from the original, mid-century
 letterforms to develop the "Nióbio" lettering (neatly avoiding the urge to use
 the [Lobster font](http://www.impallari.com/lobster).
 
-![Nióbio]({filename}/media/niobio-postal.png "Nióbio")  
+![Nióbio]({static}/media/niobio-postal.png "Nióbio")  
 
-![Nióbio]({filename}/media/niobio.jpg "Nióbio")  
+![Nióbio]({static}/media/niobio.jpg "Nióbio")  
 
-![Cartaz - Pormenor]({filename}/media/niobio-pormenor-1.jpg "Cartaz - Pormenor")  
+![Cartaz - Pormenor]({static}/media/niobio-pormenor-1.jpg "Cartaz - Pormenor")  
 
-![Cartaz - Pormenor 2]({filename}/media/niobio-pormenor-2.jpg "Cartaz - Pormenor 2")  
+![Cartaz - Pormenor 2]({static}/media/niobio-pormenor-2.jpg "Cartaz - Pormenor 2")  
 
 ### Official Trailer
 
-<video src="{filename}/media/trailer-niobio.webm" width="667" controls>
+<video src="{static}/media/trailer-niobio.webm" width="667" controls>
   Your browser does not support embedded HTML5 video.
 </video>
 

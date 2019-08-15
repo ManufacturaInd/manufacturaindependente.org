@@ -51,7 +51,7 @@ mini site for this project
 ### Libre Graphics Meeting 2014
 
 [![LGM 2014: Creative
-Suites]({filename}/media/13699945683_94718bfe6a_k-1024x682.jpg)]({filename}/media/13699945683_94718bfe6a_k.jpg)
+Suites]({static}/media/13699945683_94718bfe6a_k-1024x682.jpg)]({static}/media/13699945683_94718bfe6a_k.jpg)
 
 In May we were at the [Libre Graphics Meeting
 2014](http://libregraphicsmeeting.org/2014) in Leipzig. Our talk, titled

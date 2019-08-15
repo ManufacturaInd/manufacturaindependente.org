@@ -23,7 +23,7 @@ together a bundle of libre font remixes to be used with this library, such
 as this edit we made of [Reglo](https://fontlibrary.org/en/font/reglo) by
 [Sebastien Sanfilippo](http://love-letters.be):
 
-![Image]({filename}/media/work_colorfont-reglo.jpg "Bonjour Variable, using Reglo Colorfont")
+![Image]({static}/media/work_colorfont-reglo.jpg "Bonjour Variable, using Reglo Colorfont")
 
 
 We hosted a set of workshops for collective colorfont design in Brussels,

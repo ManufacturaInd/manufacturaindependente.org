@@ -18,7 +18,7 @@ designing and co-editing the publication.
 
 --
 
-![Libre Graphics Magazine]({filename}/media/opening-image.jpg)
+![Libre Graphics Magazine]({static}/media/opening-image.jpg)
 
 We had yearned for a publication that could combine the
 critical perspective of an art and design magazine with a clear

@@ -19,7 +19,7 @@ their impact on post-modern perspectives about society.
 
 --
 
-![Ficheiros Secretos]({filename}/media/ficheiros-secretos.jpg)
+![Ficheiros Secretos]({static}/media/ficheiros-secretos.jpg)
 
 We collaborated with [Visões Úteis](http://visoesuteis.pt "Visões Úteis") in
 the play [Ficheiros

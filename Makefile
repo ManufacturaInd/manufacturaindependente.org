@@ -54,9 +54,9 @@ regenerate:
 
 serve:
 ifdef PORT
-	. `pwd`/.env/bin/activate; cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	$(LOAD_VENV_CMD); pelican --listen
 else
-	. `pwd`/.env/bin/activate; cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	$(LOAD_VENV_CMD); pelican --listen
 endif
 
 devserver:

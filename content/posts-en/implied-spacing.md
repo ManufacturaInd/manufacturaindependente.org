@@ -7,7 +7,7 @@ Tags: hacks, lgru
 Slug: implied-spacing
 Lang: en
 
-![Image]({filename}/media/post_implied-spacing.png "Love like Salt with Implied Spacing")
+![Image]({static}/media/post_implied-spacing.png "Love like Salt with Implied Spacing")
 
 Working with the
 [Scribus](http://www.scribus.net/canvas/Scribus "Scribus") API we wrote

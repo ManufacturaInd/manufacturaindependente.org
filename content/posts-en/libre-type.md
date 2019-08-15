@@ -7,7 +7,7 @@ Tags: type
 Slug: awesome-libre-typography
 Lang: en
 
-![LGM graffiti in Porto]({filename}/media/DSC_0019-1024x768.jpg "LGM, graffiti in Campanhã (Porto, Portugal)")
+![LGM graffiti in Porto]({static}/media/DSC_0019-1024x768.jpg "LGM, graffiti in Campanhã (Porto, Portugal)")
 
 <small>Photo by [Luís
 Camanho](http://itsagoodlifeifyoudontweaken.tumblr.com)</small>

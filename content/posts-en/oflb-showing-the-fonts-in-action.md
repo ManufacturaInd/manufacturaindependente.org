@@ -16,7 +16,7 @@ also try and blog our work process.
 As a result of our first impressions of the current website and other
 existing type websites, we came up with a few ideas to work on.
 
-[![Univers Else]({filename}/media/univers-else-300x159.png "univers-else")]({filename}/media/univers-else.png)
+[![Univers Else]({static}/media/univers-else-300x159.png "univers-else")]({static}/media/univers-else.png)
 
 One of the things that we noted down was the big difference between
 printed type catalogues and online catalogues. The first taste of type

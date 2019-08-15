@@ -11,7 +11,7 @@ While making the first mockups for the OFLB site redesign, we
 quickly whipped up a navigation header, including a tentative logo
 proposal.
 
-[![Main menu]({filename}/media/main-menu00.png "main-menu00")]({filename}/media/main-menu00.png)
+[![Main menu]({static}/media/main-menu00.png "main-menu00")]({static}/media/main-menu00.png)
 
 Not long after we published this, we got some wonderful feedback on the
 [OFLB mailing

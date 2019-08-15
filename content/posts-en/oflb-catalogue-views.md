@@ -16,9 +16,9 @@ and at the same time you need a good way to spot details and see how the
 font actually looks like. We’ve started trying this out doing Inkscape
 mock pages.
 
-[![Catalogue word view]({filename}/media/catalogue-word-150x150.png "catalogue-word")]({filename}/media/catalogue-word.png)
-[![Catalogue sentence view]({filename}/media/catalogue-sentence1-150x150.png "catalogue-sentence")]({filename}/media/catalogue-sentence1.png)
-[![Catalogue paragraph view]({filename}/media/catalogue-paragraph-150x150.png "catalogue-paragraph")]({filename}/media/catalogue-paragraph.png)
+[![Catalogue word view]({static}/media/catalogue-word-150x150.png "catalogue-word")]({static}/media/catalogue-word.png)
+[![Catalogue sentence view]({static}/media/catalogue-sentence1-150x150.png "catalogue-sentence")]({static}/media/catalogue-sentence1.png)
+[![Catalogue paragraph view]({static}/media/catalogue-paragraph-150x150.png "catalogue-paragraph")]({static}/media/catalogue-paragraph.png)
 
 So in this case, we followed the structure used by Google Web Fonts,
 which gives the user choice in how to display the fonts. You can opt for

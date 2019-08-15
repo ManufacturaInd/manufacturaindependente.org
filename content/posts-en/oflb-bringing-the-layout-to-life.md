@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-bringing-the-layout-to-life
 Lang: en
 
-[![Sidebar]({filename}/media/sidebar.png "sidebar")]({filename}/media/sidebar.png)
+[![Sidebar]({static}/media/sidebar.png "sidebar")]({static}/media/sidebar.png)
 
 After sketching up the layout for the new homepage we moved to coding.  
 We wanted to see if it would work on screen or if we would need to

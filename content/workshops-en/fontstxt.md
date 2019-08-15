@@ -7,7 +7,7 @@ Tags: type
 Slug: fontstxt
 Lang: en
 
-![Setting characters]({filename}/media/fontstxt-02.jpg "Setting characters")
+![Setting characters]({static}/media/fontstxt-02.jpg "Setting characters")
 
 We were invited to participate in [FCForum](http://lab.2014.fcforum.net/en/)
 with a keynote and a type design workshop.
@@ -63,9 +63,9 @@ dictators](http://en.wikipedia.org/wiki/Benevolent_dictator_for_life) whenever
 a complex decision needed to be taken -- otherwise there would be no way to end
 up with a finished typeface in 4 hours!
 
-![Sketching]({filename}/media/fontstxt-01.jpg "Sketching")
-![Sketching 2]({filename}/media/fontstxt-09.jpg "Sketching 2")
-![Sketching 3]({filename}/media/fontstxt-06.jpg "Sketching 3")
+![Sketching]({static}/media/fontstxt-01.jpg "Sketching")
+![Sketching 2]({static}/media/fontstxt-09.jpg "Sketching 2")
+![Sketching 3]({static}/media/fontstxt-06.jpg "Sketching 3")
 
 Stemming from the [X11
 fonts](https://packages.debian.org/sid/all/xfonts-base/filelist) style of
@@ -77,10 +77,10 @@ Catalan transliteration from the proportions of each team's font:
 * 7 by 7 = **Setperset**
 
 
-![Digitising]({filename}/media/fontstxt-07.jpg "Digitising")
-![Digitising Sisperdotze]({filename}/media/fontstxt-10.jpg "Digitising Sisperdotze")
-![Digitising Setperset]({filename}/media/fontstxt-08.jpg "Digitising Setperset")
-![Digitising in Notepad]({filename}/media/fontstxt-16.jpg "Digitising in Notepad")
+![Digitising]({static}/media/fontstxt-07.jpg "Digitising")
+![Digitising Sisperdotze]({static}/media/fontstxt-10.jpg "Digitising Sisperdotze")
+![Digitising Setperset]({static}/media/fontstxt-08.jpg "Digitising Setperset")
+![Digitising in Notepad]({static}/media/fontstxt-16.jpg "Digitising in Notepad")
 
 The outcomes
 ------------
@@ -94,17 +94,17 @@ well!
 **Sisperdotze** is an elegant and thin sans-serif which stays close to the terminal
 font aesthetic
 
-![Sisperdotze]({filename}/media/fontstxt-03.jpg "Sisperdotze")
+![Sisperdotze]({static}/media/fontstxt-03.jpg "Sisperdotze")
 
 **Deuperset** has a blocky and (dare we say) retro look that brings us back to early
 Atari-type TV consoles.
 
-![Deuperset]({filename}/media/fontstxt-04.jpg "Deuperset")
+![Deuperset]({static}/media/fontstxt-04.jpg "Deuperset")
 
 **Setperset** is a daring proposal to put forward a serif design which stands out
 from its play on a square frame.
 
-![Setperset]({filename}/media/fontstxt-05.jpg "Setperset")
+![Setperset]({static}/media/fontstxt-05.jpg "Setperset")
 
 After digitising these designs and passing them through our script pipeline, we
 now have beautiful outline versions that can be used in web sites or print
@@ -220,7 +220,7 @@ Acknowledgments
   * all the participants in the workshop, who did some excellent work in a
     particularly tight timeframe!
 
-![Group photo]({filename}/media/fontstxt-12.jpg "Group photo")
+![Group photo]({static}/media/fontstxt-12.jpg "Group photo")
 
 <script src="../theme/js/vendor/jquery.min.js"></script>
 <script src="../theme/js/modernizr-2.8.3-custom.min.js"></script>

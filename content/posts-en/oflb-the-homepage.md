@@ -7,9 +7,9 @@ Tags: oflb
 Slug: oflb-the-homepage
 Lang: en
 
-![Homepage OFLB, white background]({filename}/media/homepageofbl-white-bg.png)
-![Homepage OFLB, transparentbackground]({filename}/media/homepageofbl-transparent-bg.png)
-![Homepage OFLB, no background]({filename}/media/homepageofbl-no-bg.png)
+![Homepage OFLB, white background]({static}/media/homepageofbl-white-bg.png)
+![Homepage OFLB, transparentbackground]({static}/media/homepageofbl-transparent-bg.png)
+![Homepage OFLB, no background]({static}/media/homepageofbl-no-bg.png)
 
 We started to work on the OFLB by redesigning its homepage. This would
 allow us to set the mood for the website and define structural elements

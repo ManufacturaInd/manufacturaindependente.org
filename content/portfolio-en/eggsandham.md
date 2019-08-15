@@ -18,4 +18,4 @@ illustrated in 2006, when we were living in the Netherlands.
 We re-illustrated the stories and documented the production process for the
 edition by Porto based publisher [Plana](http://planapress.org/en/books/eggs-ham-in-rotterdam).
 
-![Eggs-and-Ham]({filename}/media/work/Eggs-and-Ham.jpg)
+![Eggs-and-Ham]({static}/media/work/Eggs-and-Ham.jpg)

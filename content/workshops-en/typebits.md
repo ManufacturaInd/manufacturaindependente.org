@@ -8,7 +8,7 @@ Slug: typebits
 Lang: en
 Image: /media/typebits-aviles_06.jpg
 
-![Type:Bits Avilés]({filename}/media/typebits-aviles_06.jpg "Type:Bits Avilés, photo by Manufactura")
+![Type:Bits Avilés]({static}/media/typebits-aviles_06.jpg "Type:Bits Avilés, photo by Manufactura")
 
 Type:Bits is a collaborative type design workshop series.
 
@@ -21,7 +21,7 @@ font](http://graphicore.de/en/archive/2010-09-09_A-Brute-Font-Attack) format;
 the Graphicore scripts are then used to create OpenType and TrueType versions
 of these fonts.
 
-![Shoplift sketches, photo by Manufactura]({filename}/media/typebits-aviles_01.jpg "Shoplift sketches, photo by Manufactura")
+![Shoplift sketches, photo by Manufactura]({static}/media/typebits-aviles_01.jpg "Shoplift sketches, photo by Manufactura")
 
 As we continue to explore the possibilities of bitmap-based designs,  we took
 the cue to expand on our tool chain. This time, instead of having participants

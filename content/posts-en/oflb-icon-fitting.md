@@ -40,9 +40,9 @@ line, since we are aiming for 16x16 icons.
 To see why this step is relevant, here’s an example of the original and
 pixel-aligned shapes, after exporting to a bitmap file:
 
-[![Screenshot 1]({filename}/media/Screenshot-1.png "Screenshot-1")]({filename}/media/Screenshot-1.png)  
+[![Screenshot 1]({static}/media/Screenshot-1.png "Screenshot-1")]({static}/media/Screenshot-1.png)  
 
-[![Screenshot 2]({filename}/media/rect4031.png "rect4031")]({filename}/media/rect4031.png)
+[![Screenshot 2]({static}/media/rect4031.png "rect4031")]({static}/media/rect4031.png)
 
 ### Icon preview
 
@@ -51,17 +51,17 @@ Inkscape has this awesome **Icon preview** window which shows the bitmap
 output in various icon sizes (and you can set your own custom sizes as
 well).
 
-[![Screenshot 3]({filename}/media/Screenshot-3.png "Screenshot-3")]({filename}/media/Screenshot-3.png)
+[![Screenshot 3]({static}/media/Screenshot-3.png "Screenshot-3")]({static}/media/Screenshot-3.png)
 
 ### Where we are
 
 So these are what we came up with. There's still room for tweaking, and
 we're confident in this direction.
 
-[![Flag icons in the pixel grid]({filename}/media/flag-icons-pixelgrid.png "flag-icons-pixelgrid")]({filename}/media/flag-icons-pixelgrid.png)
+[![Flag icons in the pixel grid]({static}/media/flag-icons-pixelgrid.png "flag-icons-pixelgrid")]({static}/media/flag-icons-pixelgrid.png)
 
 [caption id="attachment\_151" align="aligncenter" width="516"
 caption="All font states, from left to right: Normal, Featured, Hidden,
 Needs Checking, Marked for Removal,
-Broken."][![Flag icons in the pixel grid]({filename}/media/flag-icons-pixelgrid-3x.png "flag-icons-pixelgrid-3x")]({filename}/media/flag-icons-pixelgrid-3x.png)[/caption]  
+Broken."][![Flag icons in the pixel grid]({static}/media/flag-icons-pixelgrid-3x.png "flag-icons-pixelgrid-3x")]({static}/media/flag-icons-pixelgrid-3x.png)[/caption]  
 

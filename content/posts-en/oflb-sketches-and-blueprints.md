@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-sketches-and-blueprints
 Lang: en
 
-[![Paper sketches]({filename}/media/IMAG0163-1024x613.jpg "IMAG0163")]({filename}/media/IMAG0163.jpg)
+[![Paper sketches]({static}/media/IMAG0163-1024x613.jpg "IMAG0163")]({static}/media/IMAG0163.jpg)
 
 We got our hands full with the first phase of the work for releasing
 Open Font Library 0.3. We kept sketching and making notes during an
@@ -38,5 +38,5 @@ this is a very rough second draft.) We're still trying out ideas and
 shapes, and once we're happy with a visual style we will adapt them to a
 design that can work in very small sizes.
 
-[![Flag icons, version 1]({filename}/media/flag-icons1.png "flag-icons")]({filename}/media/flag-icons1.png)
+[![Flag icons, version 1]({static}/media/flag-icons1.png "flag-icons")]({static}/media/flag-icons1.png)
 

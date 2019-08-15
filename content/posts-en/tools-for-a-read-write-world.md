@@ -34,7 +34,7 @@ full day brainstorming, looking for possible design cues and defining a
 visual language for this publication, given the extremely tight
 timeframe (3 and a half days from beginning until it's all printed!)
 
-[![Interactivos13 fanzine]({filename}/media/interactivos13-fanzine1-1024x768.jpg "interactivos13-fanzine")]({filename}/media/interactivos13-fanzine1.jpg)
+[![Interactivos13 fanzine]({static}/media/interactivos13-fanzine1-1024x768.jpg "interactivos13-fanzine")]({static}/media/interactivos13-fanzine1.jpg)
 
 Working with
 [plotters](http://blog.manufacturaindependente.org/2011/03/scheming-and-plotting/)

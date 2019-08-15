@@ -16,4 +16,4 @@ Serreria Extravagante and Serreria Sobria were the two fonts resulting from this
 Full documentation of this workshop can be found at:  
 [http://manufacturaindependente.com/stonespaceship](http://manufacturaindependente.com/stonespaceship)
 
-![Serrería, Specimen]({filename}/media/workshop_serreria-specimen.png)
+![Serrería, Specimen]({static}/media/workshop_serreria-specimen.png)

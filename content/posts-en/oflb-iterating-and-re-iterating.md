@@ -31,5 +31,5 @@ close this file ASAP, since so many months could be spent in search for
 the perfect logo, and there’s a lot more work to be done before the end
 of the month.
 
-[![Logos logos oh too many logos]({filename}/media/logos.png "Logos logos oh too many logos")]({filename}/media/logos.png)
+[![Logos logos oh too many logos]({static}/media/logos.png "Logos logos oh too many logos")]({static}/media/logos.png)
 

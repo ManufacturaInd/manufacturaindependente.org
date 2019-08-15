@@ -7,7 +7,7 @@ Tags: oflb
 Slug: oflb-clearing-up-the-main-menu
 Lang: en
 
-[![Main menu]({filename}/media/main-menu00.png "main-menu00")]({filename}/media/main-menu00.png)
+[![Main menu]({static}/media/main-menu00.png "main-menu00")]({static}/media/main-menu00.png)
 
 Last friday we did some sketches for the OFLB main menu. We started
 laying it out based on our

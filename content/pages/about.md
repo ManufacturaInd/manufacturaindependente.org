@@ -58,7 +58,7 @@ Our approach floats around a set of key principles:
   tea.
 
 
-![Manufactura Independente]({filename}/media/manufacturaindependente_2013.jpg)
+![Manufactura Independente]({static}/media/manufacturaindependente_2013.jpg)
 
 
 ### Contact

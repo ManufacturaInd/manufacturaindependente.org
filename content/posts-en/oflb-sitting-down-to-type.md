@@ -23,5 +23,5 @@ or less obscure parts of type terminology.
 We are still working on a local installation of MediaWiki, and our next
 task will be to place it online as we work on it.
 
-[![Glossario]({filename}/media/glossario.png "glossario.png")]({filename}/media/glossario.png)
+[![Glossario]({static}/media/glossario.png "glossario.png")]({static}/media/glossario.png)
 

@@ -10,7 +10,7 @@ Client: Visões Úteis
 Location: Porto, Portugal
 Description: Visual identity, posters, flyers and CD case
 
-![Cluny]({filename}/media/8_cluny-1-copy.png)
+![Cluny]({static}/media/8_cluny-1-copy.png)
 
 Colaborámos frequentemente com os [Visões
 Úteis](http://visoesuteis.pt "Visões Úteis"), uma companhia de teatro do
