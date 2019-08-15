@@ -1,11 +1,11 @@
 Title: PropCourier Sans
-Summary: Libre Graphics magazine official typeface
+Summary: The official typeface for Libre Graphics magazine
 Date: 2010-11-26 16:44
 Author: manufactura
-Category: Work
+Category: Fonts
 Tags: type
-Status: draft
 Slug: propcourier-sans
+Repository: https://gitlab.com/manufacturaind/propcourier-sans.git
 
 
 PropCourier Sans is a proportional version of OSP’s NotCourier Sans. We forked
