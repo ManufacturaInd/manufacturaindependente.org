@@ -13,7 +13,7 @@
         {% for article in articles %}
           {% if article.category.name == 'Work' and FEATURED_TAG in article.tags %}
             <li class="cell hentry">
-                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                  <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">
                       <p><img data-alt-src="{{ article.image }}" src="{{ article.image }}" alt="{{ article.title }}"></p>
                       <h3 class="p-name">{{ article.title }}</h3>
                   </a>
@@ -50,7 +50,7 @@
                 <header class="entry-header cell large-5 medium-10 small-9">
                   <h3 class="entry-title">
                     {% if not UNDOCUMENTED_TAG in article.tags %}
-                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
                     {% else %}
                       <span class="undocumented">{{ article.title }}</span>
                     {% endif %}
@@ -77,7 +77,7 @@
                 <header class="entry-header cell large-5 medium-10 small-9">
                   <h3 class="entry-title">
                     {% if not 'undocumented' in article.tags %}
-                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
                     {% else %}
                       <span class="undocumented">{{ article.title }}</span>
                     {% endif %}
@@ -102,7 +102,7 @@
             </p>
             <header class="entry-header cell large-5 medium-10 small-9">
               <h3 class="entry-title">
-                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
               </h3>
             </header>
             <div class="entry-content cell large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0">
