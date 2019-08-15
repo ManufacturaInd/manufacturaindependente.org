@@ -3,7 +3,7 @@ Summary: Printed publication design
 Date: 2013-04-01 16:00
 Author: manufactura
 Category: Work
-Tags: type, print, publication
+Tags: type, print, publication, featured
 Slug: interactivos-book
 Lang: en
 Client: Medialab Prado

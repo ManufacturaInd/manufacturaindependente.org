@@ -3,10 +3,11 @@ Summary: Free culture & design publication
 Date: 2010-11-22 10:51
 Author: manufactura
 Category: Work
-Tags: floss, graphic, print
+Tags: floss, graphic, print, featured
 Slug: libre-graphics-magazine
 Lang: en
-Location: Porto & Montreal
+Client: Self comissioned
+Location: Porto & Montréal
 Description: Free culture & design publication
 Image: /media/opening-image.jpg
 
