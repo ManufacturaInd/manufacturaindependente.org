@@ -64,7 +64,32 @@
         {% endfor %}
       </ul><!-- /#portfolio-list -->
   </section><!-- /.work -->
-  
+
+  <section class="fonts">
+    <h2>Fonts</h2>
+      <ul id="font-list" class="no-bullet">  
+        {% for article in articles_page.object_list %}
+          {% if article.category.name == 'Fonts' %}
+            <li class="hentry grid-x grid-padding-x">
+                <p class="entry-date cell large-1 medium-2 small-3">
+                  <abbr title="{{ article.date|strftime('%b %Y') }}"> {{ article.date|strftime('%b %Y') }} </abbr>
+                </p>
+                <header class="entry-header cell large-5 medium-10 small-9">
+                  <h3 class="entry-title">
+                    {% if not 'undocumented' in article.tags %}
+                      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{ article.title|striptags }}">{{ article.title }}</a>
+                    {% else %}
+                      <span class="undocumented">{{ article.title }}</span>
+                    {% endif %}
+                  </h3>
+                </header>
+                <div class="entry-content cell large-6 medium-10 small-9 small-offset-3 medium-offset-2 large-offset-0"> {{ article.summary }} </div>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul><!-- /#font-list -->
+  </section><!-- /.fonts --> 
+
   <section class="workshops">
     <h2>Workshops</h2>
       <ul id="workshop-list" class="no-bullet">  
