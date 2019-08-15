@@ -3,12 +3,13 @@ Summary: Free culture & design publication
 Date: 2010-11-22 10:51
 Author: manufactura
 Category: Work
-Tags: floss, graphic, print
+Tags: floss, graphic, print, featured
 Slug: libre-graphics-magazine
 Lang: en
-Location: Porto & Montreal
+Client: Self comissioned
+Location: Porto & Montréal
 Description: Free culture & design publication
-Image: /media/opening-image.jpg
+Image: /media/libre-graphics-magazine.jpg
 
 The Libre Graphics magazine was a print publication dedicated to the
 cross-overs between the fields of art & design and the world of libre and open

@@ -1,13 +1,15 @@
 Title: Revista Libre Graphics
+Summary: Publicação de design e cultura livre
 Date: 2010-11-22 10:51
 Author: manufactura
 Category: Work
-Tags: floss, graphic, print
+Tags: floss, graphic, print, featured
 Slug: libre-graphics-magazine
 Lang: pt
 Client: Self comissioned
 Location: Porto(Portugal) — Toronto(Canada)
-Description: Visual identity, posters, flyers and CD case
+Description: Free culture & design publication
+Image: /media/libre-graphics-magazine.jpg
 
 ![Libre Gaphics Magazine]({filename}/media/opening-image.jpg)
 
