@@ -46,6 +46,25 @@
           <div class="large-8 medium-8 small-12 cell">
               {{ article.content }}
           </div>
+      {% elif article.category.name == 'Fonts' %}
+          <div class="large-2 medium-4 small-12 cell">
+            <p>{{ article.summary }}
+            <h4>Downloads</h4>
+            <ul class="details">
+              <li><strong><a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.zip?job=build-font">Get all weights</a></strong></li>
+              {% for weight in article.weights %}
+              <li>
+                {{ weight }}
+                <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.ttf?job=build-font">.ttf</a>
+                <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.otf?job=build-font">.otf</a>
+                <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.sfd?job=build-font">.sfd</a>
+              </li>
+              {% endfor %}
+              </ul>
+          </div>
+          <div class="large-8 medium-8 small-12 cell">
+              {{ article.content }}
+          </div>
       {% else %}
           <div class="large-8 medium-8 small-12 cell medium-offset-2">
               {{ article.content }}
