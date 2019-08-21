@@ -52,7 +52,7 @@
             <h4>Downloads</h4>
             <ul class="details">
               <li><strong><a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.zip?job=build-font">Get all weights</a></strong></li>
-              {% if article.weights%}
+              {% if article.weights %}
                 {% for weight in article.weights %}
                 <li>
                   {{ weight }}
@@ -65,9 +65,9 @@
                 <li>
                   {% with weight = article.weight %}
                   {{ weight }}
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.ttf?job=build-font">.ttf</a>
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.otf?job=build-font">.otf</a>
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.sfd?job=build-font">.sfd</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.ttf?job=build-font">.ttf</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.otf?job=build-font">.otf</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.sfd?job=build-font">.sfd</a>
                   {% endwith %}
                 </li>
               {% endif %}
