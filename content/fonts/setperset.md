@@ -14,6 +14,5 @@ Weights: Regular
          Round Bold
          Round Thin
 
-![MFI Sisperdotze specimen]({static}/media/fonts/mfi-sisperdotze.png "MFI Sisperdotze specimen")
+![MFI Setperset specimen]({static}/media/fonts/mfi-setperset.png "MFI Setperset specimen")
 
-TODO

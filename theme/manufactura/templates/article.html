@@ -61,9 +61,9 @@
                 {% for weight in article.weights %}
                 <li>
                   {{ weight }}
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.ttf?job=build-font">.ttf</a>
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.otf?job=build-font">.otf</a>
-                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight }}.sfd?job=build-font">.sfd</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight.replace(' ', '-') }}.ttf?job=build-font">.ttf</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight.replace(' ', '-') }}.otf?job=build-font">.otf</a>
+                  <a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}-{{ weight.replace(' ', '-') }}.sfd?job=build-font">.sfd</a>
                 </li>
                 {% endfor %}
               {% else %}
