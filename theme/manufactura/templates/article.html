@@ -2,16 +2,21 @@
 {% block head %}
   {{ super() }}
   {% for keyword in article.keywords %}
-    <meta name="keywords" contents="{{keyword}}" />
+    <meta name="keywords" contents="{{keyword}}">
   {% endfor %}
 
-  {% for description in article.description %}
-    <meta name="description" contents="{{description}}" />
-  {% endfor %}
+  {% if article.description %}
+    <meta name="description" contents="{{ article.description }}">
+  {% endif %}
 
   {% for tag in article.tags %}
-    <meta name="tags" contents="{{tag}}" />
+    <meta name="tags" contents="{{ tag }}">
   {% endfor %}
+  
+  {% if article.image %}
+    <meta property="og:image" content="{{ article.image }}">
+  {% endif %}
+  
 
 {% endblock %}
 
