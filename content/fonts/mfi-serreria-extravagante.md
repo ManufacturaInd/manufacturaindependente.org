@@ -9,4 +9,4 @@ Basename: MFI-Serreria-Extravagante
 Repository: https://gitlab.com/manufacturaind/mfi-serreria-extravagante/
 Weight: Medium
 
-TODO
+![MFI Serrería Extravagante specimen]({static}/media/fonts/mfi-serreria-extravagante.png "MFI Serrería Extravagante specimen")

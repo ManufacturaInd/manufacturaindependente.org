@@ -9,4 +9,4 @@ Basename: MFI-Serreria-Sobria
 Repository: https://gitlab.com/manufacturaind/mfi-serreria-sobria/
 Weight: Medium
 
-TODO
+![MFI Serrería Sobria specimen]({static}/media/fonts/mfi-serreria-sobria.png "MFI Serrería Sobria specimen")
