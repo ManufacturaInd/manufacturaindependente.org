@@ -324,6 +324,7 @@ section.list-page ul li ,
     font-size: 90%;
 }
 
+
 #content pre {
     font-size: 0.875rem;
     background-color: #f5f2ee;
@@ -354,6 +355,36 @@ section.list-page ul li ,
 .entry-content ul + p {
     margin-top: 0.5rem;
 }
+
+
+.article.fonts {
+    .entry-content .large-2 {
+        ul.details {
+            margin-top: 0rem;
+            li {
+                margin: 1rem 0 0.25rem;
+                &:first-child { margin: 0 0 0.5rem; }
+                a {
+                    text-transform: uppercase;
+                    letter-spacing; 1px;
+                    font-size: 90%;
+                    &:first-child::before {
+                        content: '';
+                        display: block;
+                        border-bottom: 0;
+                    }
+                    
+                    &::before {
+                        content: ' • ';
+                        color: #40404e;
+                        border-bottom: 2px solid #e9dfd2;
+                    }
+                }
+            }
+        }
+    }
+}
+
 
 /* Archive template
 */

@@ -21,7 +21,7 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="article">
+<section id="content" class="article {{ article.category|lower }}">
     <header class="cell">
         <h2 class="entry-title">{{ article.title }}</h2>
         {% if article.category.name in ['Writing', 'Workshops'] %}
@@ -53,8 +53,10 @@
           </div>
       {% elif article.category.name == 'Fonts' %}
           <div class="large-2 medium-4 small-12 cell">
-            <p>{{ article.summary }}
-            <h4>Downloads</h4>
+            <ul class="details">
+                <li>{{ article.summary }}</li>
+            </ul>
+            <h5>Downloads</h5>
             <ul class="details">
               <li><strong><a href="{{ article.repository }}-/jobs/artifacts/master/raw/{{ article.basename }}.zip?job=build-font">Get all weights</a></strong></li>
               {% if article.weights %}
