@@ -40,7 +40,7 @@ Se tudo parecer ok, é hora de atualizar o site live!
     make rsync_upload
 
 Os dois últimos comandos re-geram todo o site, por isso não é preciso fazer
-`make html` antes.
+`make build` antes.
 
 
 ## Conteúdos

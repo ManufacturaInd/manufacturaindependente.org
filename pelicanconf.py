@@ -13,23 +13,12 @@ TIMEZONE = 'Europe/Lisbon'
 DEFAULT_LANG = u'en'
 
 PATH = 'content'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-
-
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-DEFAULT_PAGINATION = False
-
-# Specify a customized theme, via path relative to the settings file
 THEME = 'theme/manufactura'
 
 UNDOCUMENTED_TAG = 'undocumented'
 FEATURED_TAG = 'featured'
 
+# Custom URL structure
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = '{slug}/'
@@ -39,6 +28,7 @@ DRAFT_SAVE_AS = 'private/{slug}/index.html'
 DRAFT_LANG_URL = 'private/{slug}-{lang}/'
 DRAFT_LANG_SAVE_AS = 'private/{slug}-{lang}/index.html'
 
+# Set up extra files to include in deploy
 STATIC_SAVE_AS = '{path}'
 STATIC_URL = '{path}'
 STATIC_PATHS = [
@@ -57,6 +47,7 @@ OUTPUT_PATH = "output/"
 PLUGIN_PATHS = ["plugins", THEME + "/plugins"]
 PLUGINS = ["gallery", "representative_image", "assets"]
 
+# Webassets plugin
 ASSET_CONFIG = (
     ('sass_style', 'compact'),
     ('cache', False),
@@ -65,7 +56,6 @@ ASSET_CONFIG = (
     ('versions', False),
     ('sass_debug_info', True),
 )
-
 ASSET_SOURCE_PATHS = ['static/css']
 
 # Gallery plug-in
@@ -84,25 +74,11 @@ GALLERY_PRESETS = [
         ]},
 ]
 
-# This setting is optional, used for thumbnails in bootstrap
-# THUMBNAIL_GALLERY_CLASS = "span2"
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
+DEFAULT_PAGINATION = False
 
-
-# COVER_IMG_URL = 'theme/images/cover.jpg'
-# PROFILE_IMAGE_URL =  'theme/images/profile.jpg'
-# TAGLINE = 'Olá!'
-# SOCIAL = (
-#            ('github', 'https://github.com/manufacturaind/'),
-#            ('twitter-square', 'https://twitter.com/manufacturaind'),
-#         )
-
-
-# Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
