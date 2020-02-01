@@ -9,38 +9,18 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=dh
+SSH_HOST=opal5.opalstack.com
 SSH_PORT=22
-SSH_USER=rlaf
-SSH_TARGET_DIR=/home/rlaf/www/manufacturaindependente.org
-
-GITHUB_PAGES_BRANCH=gh-pages
+SSH_USER=manufactura
+SSH_TARGET_DIR=/home/manufactura/apps/static-manufactura
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-help:
-	@echo 'Makefile for a pelican Web site                                        '
-	@echo '                                                                       '
-	@echo 'Usage:                                                                 '
-	@echo '   make build                       (re)generate the web site          '
-	@echo '   make clean                       remove the generated files         '
-	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish                     generate using production settings '
-	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
-	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
-	@echo '   make stopserver                  stop local server                  '
-	@echo '   make ssh_upload                  upload the web site via SSH        '
-	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
-	@echo '   make github                      upload the web site via gh-pages   '
-	@echo '                                                                       '
-	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
-	@echo '                                                                       '
-
 install:
-	virtualenv .env --no-site-packages --distribute --prompt=\(manufactura\)
+	virtualenv .env --no-site-packages --distribute
 	$(LOAD_VENV_CMD); pip install -r requirements.txt
 
 build:
@@ -72,7 +52,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	. `pwd`/.env/bin/activate; $(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(LOAD_VENV_CMD); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 deploy: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
